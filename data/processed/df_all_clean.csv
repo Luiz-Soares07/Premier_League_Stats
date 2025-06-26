@@ -1,0 +1,1141 @@
+match_id,date,stadium,city,referee,season,round,home_team,away_team,goals_home,goals_away,score_home_in_half_time,score_away_in_half_time,score_home_in_full_time,score_away_in_full_time,winner_name,day,month,year,weekday,hour,loser_name
+710556,2021-08-13 16:00:00,Brentford Community Stadium,"Brentford, Middlesex",M. Oliver,2021,1,Brentford,Arsenal,2,0,1,0,2,0,Brentford,13,8,2021,4,16,Arsenal
+710561,2021-08-14 08:30:00,Old Trafford,Manchester,P. Tierney,2021,1,Manchester United,Leeds,5,1,1,0,5,1,Manchester United,14,8,2021,5,8,Leeds
+710565,2021-08-14 11:00:00,Vicarage Road,Watford,M. Dean,2021,1,Watford,Aston Villa,3,2,2,0,3,2,Watford,14,8,2021,5,11,Aston Villa
+710557,2021-08-14 11:00:00,Turf Moor,Burnley,D. Coote,2021,1,Burnley,Brighton,1,2,1,0,1,2,Brighton,14,8,2021,5,11,Burnley
+710559,2021-08-14 11:00:00,Goodison Park,Liverpool,A. Madley,2021,1,Everton,Southampton,3,1,0,1,3,1,Everton,14,8,2021,5,11,Southampton
+710560,2021-08-14 11:00:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2021,1,Leicester,Wolves,1,0,1,0,1,0,Leicester,14,8,2021,5,11,Wolves
+710558,2021-08-14 11:00:00,Stamford Bridge,London,J. Moss,2021,1,Chelsea,Crystal Palace,3,0,2,0,3,0,Chelsea,14,8,2021,5,11,Crystal Palace
+710563,2021-08-14 13:30:00,Carrow Road,"Norwich, Norfolk",A. Marriner,2021,1,Norwich,Liverpool,0,3,0,1,0,3,Liverpool,14,8,2021,5,13,Norwich
+710562,2021-08-15 10:00:00,St. James' Park,Newcastle upon Tyne,M. Atkinson,2021,1,Newcastle,West Ham,2,4,2,1,2,4,West Ham,15,8,2021,6,10,Newcastle
+710564,2021-08-15 12:30:00,Tottenham Hotspur Stadium,London,A. Taylor,2021,1,Tottenham,Manchester City,1,0,0,0,1,0,Tottenham,15,8,2021,6,12,Manchester City
+710571,2021-08-21 08:30:00,Anfield,Liverpool,M. Dean,2021,2,Liverpool,Burnley,2,0,1,0,2,0,Liverpool,21,8,2021,5,8,Burnley
+710572,2021-08-21 11:00:00,Etihad Stadium,Manchester,G. Scott,2021,2,Manchester City,Norwich,5,0,2,0,5,0,Manchester City,21,8,2021,5,11,Norwich
+710569,2021-08-21 11:00:00,Selhurst Park,London,M. Atkinson,2021,2,Crystal Palace,Brentford,0,0,0,0,0,0,Draw,21,8,2021,5,11,Draw
+710570,2021-08-21 11:00:00,Elland Road,"Leeds, West Yorkshire",D. England,2021,2,Leeds,Everton,2,2,1,1,2,2,Draw,21,8,2021,5,11,Draw
+710567,2021-08-21 11:00:00,Villa Park,Birmingham,D. Coote,2021,2,Aston Villa,Newcastle,2,0,1,0,2,0,Aston Villa,21,8,2021,5,11,Newcastle
+710568,2021-08-21 13:30:00,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,2021,2,Brighton,Watford,2,0,2,0,2,0,Brighton,21,8,2021,5,13,Watford
+710575,2021-08-22 10:00:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Attwell,2021,2,Wolves,Tottenham,0,1,0,1,0,1,Tottenham,22,8,2021,6,10,Wolves
+710573,2021-08-22 10:00:00,St. Mary's Stadium,"Southampton, Hampshire",C. Pawson,2021,2,Southampton,Manchester United,1,1,1,0,1,1,Draw,22,8,2021,6,10,Draw
+710566,2021-08-22 12:30:00,Emirates Stadium,London,P. Tierney,2021,2,Arsenal,Chelsea,0,2,0,2,0,2,Chelsea,22,8,2021,6,12,Arsenal
+710574,2021-08-23 16:00:00,London Stadium,London,M. Oliver,2021,2,West Ham,Leicester,4,1,1,0,4,1,West Ham,23,8,2021,0,16,Leicester
+710580,2021-08-28 08:30:00,Etihad Stadium,Manchester,M. Atkinson,2021,3,Manchester City,Arsenal,5,0,3,0,5,0,Manchester City,28,8,2021,5,8,Arsenal
+710581,2021-08-28 11:00:00,St. James' Park,Newcastle upon Tyne,P. Tierney,2021,3,Newcastle,Southampton,2,2,0,0,2,2,Draw,28,8,2021,5,11,Draw
+710584,2021-08-28 11:00:00,London Stadium,London,S. Attwell,2021,3,West Ham,Crystal Palace,2,2,1,0,2,2,Draw,28,8,2021,5,11,Draw
+710577,2021-08-28 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",J. Moss,2021,3,Brighton,Everton,0,2,0,1,0,2,Everton,28,8,2021,5,11,Brighton
+710576,2021-08-28 11:00:00,Villa Park,Birmingham,P. Bankes,2021,3,Aston Villa,Brentford,1,1,1,1,1,1,Draw,28,8,2021,5,11,Draw
+710582,2021-08-28 11:00:00,Carrow Road,"Norwich, Norfolk",R. Jones,2021,3,Norwich,Leicester,1,2,1,1,1,2,Leicester,28,8,2021,5,11,Norwich
+710579,2021-08-28 13:30:00,Anfield,Liverpool,A. Taylor,2021,3,Liverpool,Chelsea,1,1,1,1,1,1,Draw,28,8,2021,5,13,Draw
+710578,2021-08-29 10:00:00,Turf Moor,Burnley,M. Oliver,2021,3,Burnley,Leeds,1,1,0,0,1,1,Draw,29,8,2021,6,10,Draw
+710583,2021-08-29 10:00:00,Tottenham Hotspur Stadium,London,A. Marriner,2021,3,Tottenham,Watford,1,0,1,0,1,0,Tottenham,29,8,2021,6,10,Watford
+710585,2021-08-29 12:30:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Dean,2021,3,Wolves,Manchester United,0,1,0,0,0,1,Manchester United,29,8,2021,6,12,Wolves
+710589,2021-09-11 08:30:00,Selhurst Park,London,J. Moss,2021,4,Crystal Palace,Tottenham,3,0,0,0,3,0,Crystal Palace,11,9,2021,5,8,Tottenham
+710593,2021-09-11 11:00:00,Old Trafford,Manchester,A. Taylor,2021,4,Manchester United,Newcastle,4,1,1,0,4,1,Manchester United,11,9,2021,5,11,Newcastle
+710595,2021-09-11 11:00:00,Vicarage Road,Watford,P. Bankes,2021,4,Watford,Wolves,0,2,0,0,0,2,Wolves,11,9,2021,5,11,Watford
+710594,2021-09-11 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",D. Coote,2021,4,Southampton,West Ham,0,0,0,0,0,0,Draw,11,9,2021,5,11,Draw
+710586,2021-09-11 11:00:00,Emirates Stadium,London,M. Oliver,2021,4,Arsenal,Norwich,1,0,0,0,1,0,Arsenal,11,9,2021,5,11,Norwich
+710592,2021-09-11 11:00:00,King Power Stadium,"Leicester, Leicestershire",P. Tierney,2021,4,Leicester,Manchester City,0,1,0,0,0,1,Manchester City,11,9,2021,5,11,Leicester
+710587,2021-09-11 11:00:00,Brentford Community Stadium,"Brentford, Middlesex",G. Scott,2021,4,Brentford,Brighton,0,1,0,0,0,1,Brighton,11,9,2021,5,11,Brentford
+710588,2021-09-11 13:30:00,Stamford Bridge,London,S. Attwell,2021,4,Chelsea,Aston Villa,3,0,1,0,3,0,Chelsea,11,9,2021,5,13,Aston Villa
+710591,2021-09-12 12:30:00,Elland Road,"Leeds, West Yorkshire",C. Pawson,2021,4,Leeds,Liverpool,0,3,0,1,0,3,Liverpool,12,9,2021,6,12,Leeds
+710590,2021-09-13 16:00:00,Goodison Park,Liverpool,M. Atkinson,2021,4,Everton,Burnley,3,1,0,0,3,1,Everton,13,9,2021,0,16,Burnley
+710601,2021-09-17 16:00:00,St. James' Park,Newcastle upon Tyne,M. Dean,2021,5,Newcastle,Leeds,1,1,1,1,1,1,Draw,17,9,2021,4,16,Draw
+710605,2021-09-18 08:30:00,Molineux Stadium,"Wolverhampton, West Midlands",D. England,2021,5,Wolves,Brentford,0,2,0,2,0,2,Brentford,18,9,2021,5,8,Wolves
+710599,2021-09-18 11:00:00,Anfield,Liverpool,A. Madley,2021,5,Liverpool,Crystal Palace,3,0,1,0,3,0,Liverpool,18,9,2021,5,11,Crystal Palace
+710598,2021-09-18 11:00:00,Turf Moor,Burnley,A. Taylor,2021,5,Burnley,Arsenal,0,1,0,1,0,1,Arsenal,18,9,2021,5,11,Burnley
+710600,2021-09-18 11:00:00,Etihad Stadium,Manchester,J. Moss,2021,5,Manchester City,Southampton,0,0,0,0,0,0,Draw,18,9,2021,5,11,Draw
+710602,2021-09-18 11:00:00,Carrow Road,"Norwich, Norfolk",R. Jones,2021,5,Norwich,Watford,1,3,1,1,1,3,Watford,18,9,2021,5,11,Norwich
+710596,2021-09-18 13:30:00,Villa Park,Birmingham,C. Pawson,2021,5,Aston Villa,Everton,3,0,0,0,3,0,Aston Villa,18,9,2021,5,13,Everton
+710604,2021-09-19 10:00:00,London Stadium,London,M. Atkinson,2021,5,West Ham,Manchester United,1,2,1,1,1,2,Manchester United,19,9,2021,6,10,West Ham
+710597,2021-09-19 10:00:00,The American Express Community Stadium,"Falmer, East Sussex",S. Attwell,2021,5,Brighton,Leicester,2,1,1,0,2,1,Brighton,19,9,2021,6,10,Leicester
+710603,2021-09-19 12:30:00,Tottenham Hotspur Stadium,London,P. Tierney,2021,5,Tottenham,Chelsea,0,3,0,0,0,3,Chelsea,19,9,2021,6,12,Tottenham
+710613,2021-09-25 08:30:00,Old Trafford,Manchester,M. Dean,2021,6,Manchester United,Aston Villa,0,1,0,0,0,1,Aston Villa,25,9,2021,5,8,Manchester United
+710608,2021-09-25 08:30:00,Stamford Bridge,London,M. Oliver,2021,6,Chelsea,Manchester City,0,1,0,0,0,1,Manchester City,25,9,2021,5,8,Chelsea
+710615,2021-09-25 11:00:00,Vicarage Road,Watford,J. Gillett,2021,6,Watford,Newcastle,1,1,0,1,1,1,Draw,25,9,2021,5,11,Draw
+710610,2021-09-25 11:00:00,Goodison Park,Liverpool,D. Coote,2021,6,Everton,Norwich,2,0,1,0,2,0,Everton,25,9,2021,5,11,Norwich
+710612,2021-09-25 11:00:00,King Power Stadium,"Leicester, Leicestershire",C. Kavanagh,2021,6,Leicester,Burnley,2,2,1,2,2,2,Draw,25,9,2021,5,11,Draw
+710611,2021-09-25 11:00:00,Elland Road,"Leeds, West Yorkshire",K. Friend,2021,6,Leeds,West Ham,1,2,1,0,1,2,West Ham,25,9,2021,5,11,Leeds
+710607,2021-09-25 13:30:00,Brentford Community Stadium,"Brentford, Middlesex",S. Attwell,2021,6,Brentford,Liverpool,3,3,1,1,3,3,Draw,25,9,2021,5,13,Draw
+710614,2021-09-26 10:00:00,St. Mary's Stadium,"Southampton, Hampshire",A. Madley,2021,6,Southampton,Wolves,0,1,0,0,0,1,Wolves,26,9,2021,6,10,Southampton
+710606,2021-09-26 12:30:00,Emirates Stadium,London,C. Pawson,2021,6,Arsenal,Tottenham,3,1,3,0,3,1,Arsenal,26,9,2021,6,12,Tottenham
+710609,2021-09-27 16:00:00,Selhurst Park,London,A. Marriner,2021,6,Crystal Palace,Brighton,1,1,1,0,1,1,Draw,27,9,2021,0,16,Draw
+710622,2021-10-02 08:30:00,Old Trafford,Manchester,M. Oliver,2021,7,Manchester United,Everton,1,1,1,0,1,1,Draw,2,10,2021,5,8,Draw
+710625,2021-10-02 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",G. Scott,2021,7,Wolves,Newcastle,2,1,1,1,2,1,Wolves,2,10,2021,5,11,Newcastle
+710617,2021-10-02 11:00:00,Turf Moor,Burnley,K. Friend,2021,7,Burnley,Norwich,0,0,0,0,0,0,Draw,2,10,2021,5,11,Draw
+710618,2021-10-02 11:00:00,Stamford Bridge,London,M. Atkinson,2021,7,Chelsea,Southampton,3,1,1,0,3,1,Chelsea,2,10,2021,5,11,Southampton
+710620,2021-10-02 11:00:00,Elland Road,"Leeds, West Yorkshire",S. Hooper,2021,7,Leeds,Watford,1,0,1,0,1,0,Leeds,2,10,2021,5,11,Watford
+710616,2021-10-02 13:30:00,The American Express Community Stadium,"Falmer, East Sussex",J. Moss,2021,7,Brighton,Arsenal,0,0,0,0,0,0,Draw,2,10,2021,5,13,Draw
+710623,2021-10-03 10:00:00,Tottenham Hotspur Stadium,London,C. Kavanagh,2021,7,Tottenham,Aston Villa,2,1,1,0,2,1,Tottenham,3,10,2021,6,10,Aston Villa
+710624,2021-10-03 10:00:00,London Stadium,London,P. Bankes,2021,7,West Ham,Brentford,1,2,0,1,1,2,Brentford,3,10,2021,6,10,West Ham
+710619,2021-10-03 10:00:00,Selhurst Park,London,A. Taylor,2021,7,Crystal Palace,Leicester,2,2,0,2,2,2,Draw,3,10,2021,6,10,Draw
+710621,2021-10-03 12:30:00,Anfield,Liverpool,P. Tierney,2021,7,Liverpool,Manchester City,2,2,0,0,2,2,Draw,3,10,2021,6,12,Draw
+710635,2021-10-16 08:30:00,Vicarage Road,Watford,J. Moss,2021,8,Watford,Liverpool,0,5,0,2,0,5,Liverpool,16,10,2021,5,8,Watford
+710634,2021-10-16 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",D. Coote,2021,8,Southampton,Leeds,1,0,0,0,1,0,Southampton,16,10,2021,5,11,Leeds
+710630,2021-10-16 11:00:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2021,8,Leicester,Manchester United,4,2,1,1,4,2,Leicester,16,10,2021,5,11,Manchester United
+710631,2021-10-16 11:00:00,Etihad Stadium,Manchester,M. Atkinson,2021,8,Manchester City,Burnley,2,0,1,0,2,0,Manchester City,16,10,2021,5,11,Burnley
+710627,2021-10-16 11:00:00,Villa Park,Birmingham,M. Oliver,2021,8,Aston Villa,Wolves,2,3,0,0,2,3,Wolves,16,10,2021,5,11,Aston Villa
+710633,2021-10-16 11:00:00,Carrow Road,"Norwich, Norfolk",P. Bankes,2021,8,Norwich,Brighton,0,0,0,0,0,0,Draw,16,10,2021,5,11,Draw
+710628,2021-10-16 13:30:00,Brentford Community Stadium,"Brentford, Middlesex",A. Taylor,2021,8,Brentford,Chelsea,0,1,0,1,0,1,Chelsea,16,10,2021,5,13,Brentford
+710629,2021-10-17 10:00:00,Goodison Park,Liverpool,S. Attwell,2021,8,Everton,West Ham,0,1,0,0,0,1,West Ham,17,10,2021,6,10,Everton
+710632,2021-10-17 12:30:00,St. James' Park,Newcastle upon Tyne,A. Marriner,2021,8,Newcastle,Tottenham,2,3,1,3,2,3,Tottenham,17,10,2021,6,12,Newcastle
+710626,2021-10-18 16:00:00,Emirates Stadium,London,M. Dean,2021,8,Arsenal,Crystal Palace,2,2,1,0,2,2,Draw,18,10,2021,0,16,Draw
+710636,2021-10-22 16:00:00,Emirates Stadium,London,C. Pawson,2021,9,Arsenal,Aston Villa,3,1,2,0,3,1,Arsenal,22,10,2021,4,16,Aston Villa
+710639,2021-10-23 08:30:00,Stamford Bridge,London,A. Madley,2021,9,Chelsea,Norwich,7,0,3,0,7,0,Chelsea,23,10,2021,5,8,Norwich
+710644,2021-10-23 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",C. Kavanagh,2021,9,Southampton,Burnley,2,2,1,1,2,2,Draw,23,10,2021,5,11,Draw
+710641,2021-10-23 11:00:00,Goodison Park,Liverpool,G. Scott,2021,9,Everton,Watford,2,5,1,1,2,5,Watford,23,10,2021,5,11,Everton
+710640,2021-10-23 11:00:00,Selhurst Park,London,D. England,2021,9,Crystal Palace,Newcastle,1,1,0,0,1,1,Draw,23,10,2021,5,11,Draw
+710642,2021-10-23 11:00:00,Elland Road,"Leeds, West Yorkshire",R. Jones,2021,9,Leeds,Wolves,1,1,0,1,1,1,Draw,23,10,2021,5,11,Draw
+710638,2021-10-23 13:30:00,The American Express Community Stadium,"Falmer, East Sussex",K. Friend,2021,9,Brighton,Manchester City,1,4,0,3,1,4,Manchester City,23,10,2021,5,13,Brighton
+710645,2021-10-24 10:00:00,London Stadium,London,P. Tierney,2021,9,West Ham,Tottenham,1,0,0,0,1,0,West Ham,24,10,2021,6,10,Tottenham
+710637,2021-10-24 10:00:00,Brentford Community Stadium,"Brentford, Middlesex",S. Hooper,2021,9,Brentford,Leicester,1,2,0,1,1,2,Leicester,24,10,2021,6,10,Brentford
+710643,2021-10-24 12:30:00,Old Trafford,Manchester,A. Taylor,2021,9,Manchester United,Liverpool,0,5,0,4,0,5,Liverpool,24,10,2021,6,12,Manchester United
+710648,2021-10-30 08:30:00,King Power Stadium,"Leicester, Leicestershire",M. Oliver,2021,10,Leicester,Arsenal,0,2,0,2,0,2,Arsenal,30,10,2021,5,8,Leicester
+710651,2021-10-30 11:00:00,St. James' Park,Newcastle upon Tyne,P. Tierney,2021,10,Newcastle,Chelsea,0,3,0,0,0,3,Chelsea,30,10,2021,5,11,Newcastle
+710654,2021-10-30 11:00:00,Vicarage Road,Watford,P. Bankes,2021,10,Watford,Southampton,0,1,0,1,0,1,Southampton,30,10,2021,5,11,Watford
+710649,2021-10-30 11:00:00,Anfield,Liverpool,M. Dean,2021,10,Liverpool,Brighton,2,2,2,1,2,2,Draw,30,10,2021,5,11,Draw
+710647,2021-10-30 11:00:00,Turf Moor,Burnley,J. Moss,2021,10,Burnley,Brentford,3,1,3,0,3,1,Burnley,30,10,2021,5,11,Brentford
+710650,2021-10-30 11:00:00,Etihad Stadium,Manchester,A. Marriner,2021,10,Manchester City,Crystal Palace,0,2,0,1,0,2,Crystal Palace,30,10,2021,5,11,Manchester City
+710653,2021-10-30 13:30:00,Tottenham Hotspur Stadium,London,S. Attwell,2021,10,Tottenham,Manchester United,0,3,0,1,0,3,Manchester United,30,10,2021,5,13,Tottenham
+710652,2021-10-31 11:00:00,Carrow Road,"Norwich, Norfolk",A. Taylor,2021,10,Norwich,Leeds,1,2,0,0,1,2,Leeds,31,10,2021,6,11,Norwich
+710646,2021-10-31 13:30:00,Villa Park,Birmingham,C. Kavanagh,2021,10,Aston Villa,West Ham,1,4,1,2,1,4,West Ham,31,10,2021,6,13,Aston Villa
+710655,2021-11-01 17:00:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Atkinson,2021,10,Wolves,Everton,2,1,2,0,2,1,Wolves,1,11,2021,0,17,Everton
+710664,2021-11-05 17:00:00,St. Mary's Stadium,"Southampton, Hampshire",A. Madley,2021,11,Southampton,Aston Villa,1,0,1,0,1,0,Southampton,5,11,2021,4,17,Aston Villa
+710663,2021-11-06 09:30:00,Old Trafford,Manchester,M. Oliver,2021,11,Manchester United,Manchester City,0,2,0,2,0,2,Manchester City,6,11,2021,5,9,Manchester United
+710659,2021-11-06 12:00:00,Stamford Bridge,London,A. Marriner,2021,11,Chelsea,Burnley,1,1,1,0,1,1,Draw,6,11,2021,5,12,Draw
+710660,2021-11-06 12:00:00,Selhurst Park,London,G. Scott,2021,11,Crystal Palace,Wolves,2,0,0,0,2,0,Crystal Palace,6,11,2021,5,12,Wolves
+710657,2021-11-06 12:00:00,Brentford Community Stadium,"Brentford, Middlesex",J. Gillett,2021,11,Brentford,Norwich,1,2,0,2,1,2,Norwich,6,11,2021,5,12,Brentford
+710658,2021-11-06 14:30:00,The American Express Community Stadium,"Falmer, East Sussex",D. Coote,2021,11,Brighton,Newcastle,1,1,1,0,1,1,Draw,6,11,2021,5,14,Draw
+710656,2021-11-07 11:00:00,Emirates Stadium,London,K. Friend,2021,11,Arsenal,Watford,1,0,0,0,1,0,Arsenal,7,11,2021,6,11,Watford
+710661,2021-11-07 11:00:00,Goodison Park,Liverpool,C. Kavanagh,2021,11,Everton,Tottenham,0,0,0,0,0,0,Draw,7,11,2021,6,11,Draw
+710662,2021-11-07 11:00:00,Elland Road,"Leeds, West Yorkshire",D. England,2021,11,Leeds,Leicester,1,1,1,1,1,1,Draw,7,11,2021,6,11,Draw
+710665,2021-11-07 13:30:00,London Stadium,London,C. Pawson,2021,11,West Ham,Liverpool,3,2,1,1,3,2,West Ham,7,11,2021,6,13,Liverpool
+710668,2021-11-20 09:30:00,King Power Stadium,"Leicester, Leicestershire",P. Tierney,2021,12,Leicester,Chelsea,0,3,0,2,0,3,Chelsea,20,11,2021,5,9,Leicester
+710671,2021-11-20 12:00:00,St. James' Park,Newcastle upon Tyne,R. Jones,2021,12,Newcastle,Brentford,3,3,2,2,3,3,Draw,20,11,2021,5,12,Draw
+710674,2021-11-20 12:00:00,Vicarage Road,Watford,J. Moss,2021,12,Watford,Manchester United,4,1,2,0,4,1,Watford,20,11,2021,5,12,Manchester United
+710675,2021-11-20 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Dean,2021,12,Wolves,West Ham,1,0,0,0,1,0,Wolves,20,11,2021,5,12,West Ham
+710667,2021-11-20 12:00:00,Turf Moor,Burnley,S. Hooper,2021,12,Burnley,Crystal Palace,3,3,2,3,3,3,Draw,20,11,2021,5,12,Draw
+710666,2021-11-20 12:00:00,Villa Park,Birmingham,A. Taylor,2021,12,Aston Villa,Brighton,2,0,0,0,2,0,Aston Villa,20,11,2021,5,12,Brighton
+710672,2021-11-20 12:00:00,Carrow Road,"Norwich, Norfolk",M. Atkinson,2021,12,Norwich,Southampton,2,1,1,1,2,1,Norwich,20,11,2021,5,12,Southampton
+710669,2021-11-20 14:30:00,Anfield,Liverpool,M. Oliver,2021,12,Liverpool,Arsenal,4,0,1,0,4,0,Liverpool,20,11,2021,5,14,Arsenal
+710670,2021-11-21 11:00:00,Etihad Stadium,Manchester,S. Attwell,2021,12,Manchester City,Everton,3,0,1,0,3,0,Manchester City,21,11,2021,6,11,Everton
+710673,2021-11-21 13:30:00,Tottenham Hotspur Stadium,London,A. Marriner,2021,12,Tottenham,Leeds,2,1,0,1,2,1,Tottenham,21,11,2021,6,13,Leeds
+710676,2021-11-27 09:30:00,Emirates Stadium,London,S. Attwell,2021,13,Arsenal,Newcastle,2,0,0,0,2,0,Arsenal,27,11,2021,5,9,Newcastle
+710683,2021-11-27 12:00:00,Anfield,Liverpool,A. Marriner,2021,13,Liverpool,Southampton,4,0,3,0,4,0,Liverpool,27,11,2021,5,12,Southampton
+710681,2021-11-27 12:00:00,Selhurst Park,London,M. Salisbury,2021,13,Crystal Palace,Aston Villa,1,2,0,1,1,2,Aston Villa,27,11,2021,5,12,Crystal Palace
+710685,2021-11-27 12:00:00,Carrow Road,"Norwich, Norfolk",S. Hooper,2021,13,Norwich,Wolves,0,0,0,0,0,0,Draw,27,11,2021,5,12,Draw
+710678,2021-11-27 14:30:00,The American Express Community Stadium,"Falmer, East Sussex",C. Pawson,2021,13,Brighton,Leeds,0,0,0,0,0,0,Draw,27,11,2021,5,14,Draw
+710682,2021-11-28 11:00:00,King Power Stadium,"Leicester, Leicestershire",A. Madley,2021,13,Leicester,Watford,4,2,3,1,4,2,Leicester,28,11,2021,6,11,Watford
+710684,2021-11-28 11:00:00,Etihad Stadium,Manchester,M. Oliver,2021,13,Manchester City,West Ham,2,1,1,0,2,1,Manchester City,28,11,2021,6,11,West Ham
+710677,2021-11-28 11:00:00,Brentford Community Stadium,"Brentford, Middlesex",D. England,2021,13,Brentford,Everton,1,0,1,0,1,0,Brentford,28,11,2021,6,11,Everton
+710680,2021-11-28 13:30:00,Stamford Bridge,London,A. Taylor,2021,13,Chelsea,Manchester United,1,1,0,0,1,1,Draw,28,11,2021,6,13,Draw
+710693,2021-11-30 16:30:00,St. James' Park,Newcastle upon Tyne,A. Madley,2021,14,Newcastle,Norwich,1,1,0,0,1,1,Draw,30,11,2021,1,16,Draw
+710688,2021-11-30 17:15:00,Elland Road,"Leeds, West Yorkshire",K. Friend,2021,14,Leeds,Crystal Palace,1,0,0,0,1,0,Leeds,30,11,2021,1,17,Crystal Palace
+710689,2021-12-01 16:30:00,Vicarage Road,Watford,D. Coote,2021,14,Watford,Chelsea,1,2,1,1,1,2,Chelsea,1,12,2021,2,16,Watford
+710691,2021-12-01 16:30:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Brooks,2021,14,Wolves,Burnley,0,0,0,0,0,0,Draw,1,12,2021,2,16,Draw
+710694,2021-12-01 16:30:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2021,14,Southampton,Leicester,2,2,2,1,2,2,Draw,1,12,2021,2,16,Draw
+710690,2021-12-01 16:30:00,London Stadium,London,C. Kavanagh,2021,14,West Ham,Brighton,1,1,1,0,1,1,Draw,1,12,2021,2,16,Draw
+710687,2021-12-01 17:15:00,Goodison Park,Liverpool,P. Tierney,2021,14,Everton,Liverpool,1,4,1,2,1,4,Liverpool,1,12,2021,2,17,Everton
+710686,2021-12-01 17:15:00,Villa Park,Birmingham,M. Dean,2021,14,Aston Villa,Manchester City,1,2,0,2,1,2,Manchester City,1,12,2021,2,17,Aston Villa
+710695,2021-12-02 16:30:00,Tottenham Hotspur Stadium,London,J. Moss,2021,14,Tottenham,Brentford,2,0,1,0,2,0,Tottenham,2,12,2021,3,16,Brentford
+710692,2021-12-02 17:15:00,Old Trafford,Manchester,M. Atkinson,2021,14,Manchester United,Arsenal,3,2,1,1,3,2,Manchester United,2,12,2021,3,17,Arsenal
+710704,2021-12-04 09:30:00,London Stadium,London,A. Marriner,2021,15,West Ham,Chelsea,3,2,1,2,3,2,West Ham,4,12,2021,5,9,Chelsea
+710700,2021-12-04 12:00:00,St. James' Park,Newcastle upon Tyne,P. Tierney,2021,15,Newcastle,Burnley,1,0,1,0,1,0,Newcastle,4,12,2021,5,12,Burnley
+710705,2021-12-04 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",C. Kavanagh,2021,15,Wolves,Liverpool,0,1,0,0,0,1,Liverpool,4,12,2021,5,12,Wolves
+710701,2021-12-04 12:00:00,St. Mary's Stadium,"Southampton, Hampshire",A. Taylor,2021,15,Southampton,Brighton,1,1,1,0,1,1,Draw,4,12,2021,5,12,Draw
+710703,2021-12-04 14:30:00,Vicarage Road,Watford,S. Hooper,2021,15,Watford,Manchester City,1,3,0,2,1,3,Manchester City,4,12,2021,5,14,Watford
+710699,2021-12-05 11:00:00,Old Trafford,Manchester,C. Pawson,2021,15,Manchester United,Crystal Palace,1,0,0,0,1,0,Manchester United,5,12,2021,6,11,Crystal Palace
+710702,2021-12-05 11:00:00,Tottenham Hotspur Stadium,London,J. Gillett,2021,15,Tottenham,Norwich,3,0,1,0,3,0,Tottenham,5,12,2021,6,11,Norwich
+710698,2021-12-05 11:00:00,Elland Road,"Leeds, West Yorkshire",D. Coote,2021,15,Leeds,Brentford,2,2,1,0,2,2,Draw,5,12,2021,6,11,Draw
+710696,2021-12-05 13:30:00,Villa Park,Birmingham,M. Oliver,2021,15,Aston Villa,Leicester,2,1,1,1,2,1,Aston Villa,5,12,2021,6,13,Leicester
+710697,2021-12-06 17:00:00,Goodison Park,Liverpool,M. Dean,2021,15,Everton,Arsenal,2,1,0,1,2,1,Everton,6,12,2021,0,17,Arsenal
+710707,2021-12-10 17:00:00,Brentford Community Stadium,"Brentford, Middlesex",M. Oliver,2021,16,Brentford,Watford,2,1,0,1,2,1,Brentford,10,12,2021,4,17,Watford
+710714,2021-12-11 09:30:00,Etihad Stadium,Manchester,J. Moss,2021,16,Manchester City,Wolves,1,0,0,0,1,0,Manchester City,11,12,2021,5,9,Wolves
+710713,2021-12-11 12:00:00,Anfield,Liverpool,S. Attwell,2021,16,Liverpool,Aston Villa,1,0,0,0,1,0,Liverpool,11,12,2021,5,12,Aston Villa
+710706,2021-12-11 12:00:00,Emirates Stadium,London,J. Gillett,2021,16,Arsenal,Southampton,3,0,2,0,3,0,Arsenal,11,12,2021,5,12,Southampton
+710710,2021-12-11 12:00:00,Stamford Bridge,London,C. Kavanagh,2021,16,Chelsea,Leeds,3,2,1,1,3,2,Chelsea,11,12,2021,5,12,Leeds
+710715,2021-12-11 14:30:00,Carrow Road,"Norwich, Norfolk",D. England,2021,16,Norwich,Manchester United,0,1,0,0,0,1,Manchester United,11,12,2021,5,14,Norwich
+710709,2021-12-12 11:00:00,Turf Moor,Burnley,G. Scott,2021,16,Burnley,West Ham,0,0,0,0,0,0,Draw,12,12,2021,6,11,Draw
+710712,2021-12-12 11:00:00,King Power Stadium,"Leicester, Leicestershire",P. Bankes,2021,16,Leicester,Newcastle,4,0,1,0,4,0,Leicester,12,12,2021,6,11,Newcastle
+710711,2021-12-12 13:30:00,Selhurst Park,London,A. Madley,2021,16,Crystal Palace,Everton,3,1,1,0,3,1,Crystal Palace,12,12,2021,6,13,Everton
+710721,2021-12-14 16:45:00,Carrow Road,"Norwich, Norfolk",D. Coote,2021,17,Norwich,Aston Villa,0,2,0,1,0,2,Aston Villa,14,12,2021,1,16,Norwich
+710725,2021-12-14 17:00:00,Etihad Stadium,Manchester,P. Tierney,2021,17,Manchester City,Leeds,7,0,3,0,7,0,Manchester City,14,12,2021,1,17,Leeds
+710718,2021-12-15 16:30:00,The American Express Community Stadium,"Falmer, East Sussex",T. Harrington,2021,17,Brighton,Wolves,0,1,0,1,0,1,Wolves,15,12,2021,2,16,Brighton
+710722,2021-12-15 16:30:00,Selhurst Park,London,S. Hooper,2021,17,Crystal Palace,Southampton,2,2,1,2,2,2,Draw,15,12,2021,2,16,Draw
+710716,2021-12-15 17:00:00,Emirates Stadium,London,A. Taylor,2021,17,Arsenal,West Ham,2,0,0,0,2,0,Arsenal,15,12,2021,2,17,West Ham
+710723,2021-12-16 16:45:00,Stamford Bridge,London,M. Oliver,2021,17,Chelsea,Everton,1,1,0,0,1,1,Draw,16,12,2021,3,16,Draw
+710724,2021-12-16 17:00:00,Anfield,Liverpool,M. Dean,2021,17,Liverpool,Newcastle,3,1,2,1,3,1,Liverpool,16,12,2021,3,17,Newcastle
+710728,2021-12-18 14:30:00,Elland Road,"Leeds, West Yorkshire",A. Marriner,2021,18,Leeds,Arsenal,1,4,0,3,1,4,Arsenal,18,12,2021,5,14,Leeds
+710730,2021-12-19 11:00:00,St. James' Park,Newcastle upon Tyne,M. Atkinson,2021,18,Newcastle,Manchester City,0,4,0,2,0,4,Manchester City,19,12,2021,6,11,Newcastle
+710735,2021-12-19 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,2021,18,Wolves,Chelsea,0,0,0,0,0,0,Draw,19,12,2021,6,11,Draw
+710732,2021-12-19 13:30:00,Tottenham Hotspur Stadium,London,P. Tierney,2021,18,Tottenham,Liverpool,2,2,1,1,2,2,Draw,19,12,2021,6,13,Draw
+710743,2021-12-26 12:00:00,Tottenham Hotspur Stadium,London,J. Moss,2021,19,Tottenham,Crystal Palace,3,0,2,0,3,0,Tottenham,26,12,2021,6,12,Crystal Palace
+710744,2021-12-26 12:00:00,London Stadium,London,K. Friend,2021,19,West Ham,Southampton,2,3,0,1,2,3,Southampton,26,12,2021,6,12,West Ham
+710740,2021-12-26 12:00:00,Etihad Stadium,Manchester,C. Kavanagh,2021,19,Manchester City,Leicester,6,3,4,0,6,3,Manchester City,26,12,2021,6,12,Leicester
+710742,2021-12-26 12:00:00,Carrow Road,"Norwich, Norfolk",G. Scott,2021,19,Norwich,Arsenal,0,5,0,2,0,5,Arsenal,26,12,2021,6,12,Norwich
+710736,2021-12-26 14:30:00,Villa Park,Birmingham,M. Atkinson,2021,19,Aston Villa,Chelsea,1,3,1,1,1,3,Chelsea,26,12,2021,6,14,Aston Villa
+710737,2021-12-26 17:00:00,The American Express Community Stadium,"Falmer, East Sussex",D. England,2021,19,Brighton,Brentford,2,0,2,0,2,0,Brighton,26,12,2021,6,17,Brentford
+710741,2021-12-27 17:00:00,St. James' Park,Newcastle upon Tyne,C. Pawson,2021,19,Newcastle,Manchester United,1,1,1,0,1,1,Draw,27,12,2021,0,17,Draw
+710755,2021-12-28 12:00:00,Vicarage Road,Watford,D. England,2021,20,Watford,West Ham,1,4,1,2,1,4,West Ham,28,12,2021,1,12,Watford
+710754,2021-12-28 12:00:00,St. Mary's Stadium,"Southampton, Hampshire",A. Taylor,2021,20,Southampton,Tottenham,1,1,1,1,1,1,Draw,28,12,2021,1,12,Draw
+710749,2021-12-28 12:00:00,Selhurst Park,London,P. Tierney,2021,20,Crystal Palace,Norwich,3,0,3,0,3,0,Crystal Palace,28,12,2021,1,12,Norwich
+710752,2021-12-28 17:00:00,King Power Stadium,"Leicester, Leicestershire",M. Oliver,2021,20,Leicester,Liverpool,1,0,0,0,1,0,Leicester,28,12,2021,1,17,Liverpool
+710748,2021-12-29 16:30:00,Stamford Bridge,London,M. Dean,2021,20,Chelsea,Brighton,1,1,1,0,1,1,Draw,29,12,2021,2,16,Draw
+710747,2021-12-29 17:15:00,Brentford Community Stadium,"Brentford, Middlesex",D. Coote,2021,20,Brentford,Manchester City,0,1,0,1,0,1,Manchester City,29,12,2021,2,17,Brentford
+710753,2021-12-30 17:15:00,Old Trafford,Manchester,J. Moss,2021,20,Manchester United,Burnley,3,1,3,1,3,1,Manchester United,30,12,2021,3,17,Burnley
+710756,2022-01-01 09:30:00,Emirates Stadium,London,S. Attwell,2021,21,Arsenal,Manchester City,1,2,1,0,1,2,Manchester City,1,1,2022,5,9,Arsenal
+710765,2022-01-01 12:00:00,Vicarage Road,Watford,R. Jones,2021,21,Watford,Tottenham,0,1,0,0,0,1,Tottenham,1,1,2022,5,12,Watford
+710759,2022-01-01 14:30:00,Selhurst Park,London,D. England,2021,21,Crystal Palace,West Ham,2,3,0,3,2,3,West Ham,1,1,2022,5,14,Crystal Palace
+710760,2022-01-02 11:00:00,Goodison Park,Liverpool,J. Brooks,2021,21,Everton,Brighton,2,3,0,2,2,3,Brighton,2,1,2022,6,11,Everton
+710757,2022-01-02 11:00:00,Brentford Community Stadium,"Brentford, Middlesex",C. Pawson,2021,21,Brentford,Aston Villa,2,1,1,1,2,1,Brentford,2,1,2022,6,11,Aston Villa
+710761,2022-01-02 11:00:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2021,21,Leeds,Burnley,3,1,1,0,3,1,Leeds,2,1,2022,6,11,Burnley
+710758,2022-01-02 13:30:00,Stamford Bridge,London,A. Taylor,2021,21,Chelsea,Liverpool,2,2,2,2,2,2,Draw,2,1,2022,6,13,Draw
+710763,2022-01-03 14:30:00,Old Trafford,Manchester,M. Dean,2021,21,Manchester United,Wolves,0,1,0,0,0,1,Wolves,3,1,2022,0,14,Manchester United
+710731,2022-01-11 16:45:00,St. Mary's Stadium,"Southampton, Hampshire",S. Attwell,2021,18,Southampton,Brentford,4,1,2,1,4,1,Southampton,11,1,2022,1,16,Brentford
+710734,2022-01-12 16:45:00,London Stadium,London,S. Hooper,2021,18,West Ham,Norwich,2,0,1,0,2,0,West Ham,12,1,2022,2,16,Norwich
+710767,2022-01-14 17:00:00,The American Express Community Stadium,"Falmer, East Sussex",R. Jones,2021,22,Brighton,Crystal Palace,1,1,0,0,1,1,Draw,14,1,2022,4,17,Draw
+710770,2022-01-15 09:30:00,Etihad Stadium,Manchester,C. Pawson,2021,22,Manchester City,Chelsea,1,0,0,0,1,0,Manchester City,15,1,2022,5,9,Chelsea
+710771,2022-01-15 12:00:00,St. James' Park,Newcastle upon Tyne,P. Tierney,2021,22,Newcastle,Watford,1,1,0,0,1,1,Draw,15,1,2022,5,12,Draw
+710775,2022-01-15 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Salisbury,2021,22,Wolves,Southampton,3,1,1,0,3,1,Wolves,15,1,2022,5,12,Southampton
+710772,2022-01-15 12:00:00,Carrow Road,"Norwich, Norfolk",A. Madley,2021,22,Norwich,Everton,2,1,2,0,2,1,Norwich,15,1,2022,5,12,Everton
+710766,2022-01-15 14:30:00,Villa Park,Birmingham,D. Coote,2021,22,Aston Villa,Manchester United,2,2,0,1,2,2,Draw,15,1,2022,5,14,Draw
+710769,2022-01-16 11:00:00,Anfield,Liverpool,J. Moss,2021,22,Liverpool,Brentford,3,0,1,0,3,0,Liverpool,16,1,2022,6,11,Brentford
+710774,2022-01-16 11:00:00,London Stadium,London,M. Dean,2021,22,West Ham,Leeds,2,3,1,2,2,3,Leeds,16,1,2022,6,11,West Ham
+710787,2022-01-18 17:00:00,The American Express Community Stadium,"Falmer, East Sussex",K. Friend,2021,24,Brighton,Chelsea,1,1,0,1,1,1,Draw,18,1,2022,1,17,Draw
+710720,2022-01-19 16:30:00,King Power Stadium,"Leicester, Leicestershire",J. Moss,2021,17,Leicester,Tottenham,2,3,1,1,2,3,Tottenham,19,1,2022,2,16,Leicester
+710717,2022-01-19 17:00:00,Brentford Community Stadium,"Brentford, Middlesex",A. Marriner,2021,17,Brentford,Manchester United,1,3,0,0,1,3,Manchester United,19,1,2022,2,17,Brentford
+710785,2022-01-21 17:00:00,Vicarage Road,Watford,M. Dean,2021,23,Watford,Norwich,0,3,0,0,0,3,Norwich,21,1,2022,4,17,Watford
+710780,2022-01-22 09:30:00,Goodison Park,Liverpool,C. Pawson,2021,23,Everton,Aston Villa,0,1,0,1,0,1,Aston Villa,22,1,2022,5,9,Everton
+710783,2022-01-22 12:00:00,Old Trafford,Manchester,J. Moss,2021,23,Manchester United,West Ham,1,0,0,0,1,0,Manchester United,22,1,2022,5,12,West Ham
+710777,2022-01-22 12:00:00,Brentford Community Stadium,"Brentford, Middlesex",P. Bankes,2021,23,Brentford,Wolves,1,2,0,0,1,2,Wolves,22,1,2022,5,12,Brentford
+710781,2022-01-22 12:00:00,Elland Road,"Leeds, West Yorkshire",C. Kavanagh,2021,23,Leeds,Newcastle,0,1,0,0,0,1,Newcastle,22,1,2022,5,12,Leeds
+710784,2022-01-22 14:30:00,St. Mary's Stadium,"Southampton, Hampshire",S. Hooper,2021,23,Southampton,Manchester City,1,1,1,0,1,1,Draw,22,1,2022,5,14,Draw
+710776,2022-01-23 11:00:00,Emirates Stadium,London,D. Coote,2021,23,Arsenal,Burnley,0,0,0,0,0,0,Draw,23,1,2022,6,11,Draw
+710782,2022-01-23 11:00:00,King Power Stadium,"Leicester, Leicestershire",M. Atkinson,2021,23,Leicester,Brighton,1,1,0,0,1,1,Draw,23,1,2022,6,11,Draw
+710779,2022-01-23 11:00:00,Selhurst Park,London,K. Friend,2021,23,Crystal Palace,Liverpool,1,3,0,2,1,3,Liverpool,23,1,2022,6,11,Crystal Palace
+710778,2022-01-23 13:30:00,Stamford Bridge,London,P. Tierney,2021,23,Chelsea,Tottenham,2,0,0,0,2,0,Chelsea,23,1,2022,6,13,Tottenham
+710719,2022-02-05 15:00:00,Turf Moor,Burnley,C. Pawson,2021,17,Burnley,Watford,0,0,0,0,0,0,Draw,5,2,2022,5,15,Draw
+710792,2022-02-08 16:45:00,St. James' Park,Newcastle upon Tyne,A. Taylor,2021,24,Newcastle,Everton,3,1,1,1,3,1,Newcastle,8,2,2022,1,16,Everton
+710790,2022-02-08 16:45:00,London Stadium,London,M. Atkinson,2021,24,West Ham,Watford,1,0,0,0,1,0,West Ham,8,2,2022,1,16,Watford
+710788,2022-02-08 17:00:00,Turf Moor,Burnley,M. Dean,2021,24,Burnley,Manchester United,1,1,0,1,1,1,Draw,8,2,2022,1,17,Draw
+710793,2022-02-09 16:45:00,Tottenham Hotspur Stadium,London,D. Coote,2021,24,Tottenham,Southampton,2,3,1,1,2,3,Southampton,9,2,2022,2,16,Tottenham
+710795,2022-02-09 16:45:00,Etihad Stadium,Manchester,D. England,2021,24,Manchester City,Brentford,2,0,1,0,2,0,Manchester City,9,2,2022,2,16,Brentford
+710789,2022-02-09 16:45:00,Carrow Road,"Norwich, Norfolk",P. Tierney,2021,24,Norwich,Crystal Palace,1,1,1,0,1,1,Draw,9,2,2022,2,16,Draw
+710786,2022-02-09 17:00:00,Villa Park,Birmingham,J. Gillett,2021,24,Aston Villa,Leeds,3,3,3,2,3,3,Draw,9,2,2022,2,17,Draw
+710791,2022-02-10 16:45:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Oliver,2021,24,Wolves,Arsenal,0,1,0,1,0,1,Arsenal,10,2,2022,3,16,Wolves
+710794,2022-02-10 16:45:00,Anfield,Liverpool,C. Kavanagh,2021,24,Liverpool,Leicester,2,0,1,0,2,0,Liverpool,10,2,2022,3,16,Leicester
+710801,2022-02-12 09:30:00,Old Trafford,Manchester,S. Attwell,2021,25,Manchester United,Southampton,1,1,1,0,1,1,Draw,12,2,2022,5,9,Draw
+710805,2022-02-12 12:00:00,Vicarage Road,Watford,J. Moss,2021,25,Watford,Brighton,0,2,0,1,0,2,Brighton,12,2,2022,5,12,Watford
+710799,2022-02-12 12:00:00,Goodison Park,Liverpool,G. Scott,2021,25,Everton,Leeds,3,0,2,0,3,0,Everton,12,2,2022,5,12,Leeds
+710796,2022-02-12 12:00:00,Brentford Community Stadium,"Brentford, Middlesex",S. Hooper,2021,25,Brentford,Crystal Palace,0,0,0,0,0,0,Draw,12,2,2022,5,12,Draw
+710803,2022-02-12 14:30:00,Carrow Road,"Norwich, Norfolk",A. Marriner,2021,25,Norwich,Manchester City,0,4,0,1,0,4,Manchester City,12,2,2022,5,14,Norwich
+710802,2022-02-13 11:00:00,St. James' Park,Newcastle upon Tyne,C. Pawson,2021,25,Newcastle,Aston Villa,1,0,1,0,1,0,Newcastle,13,2,2022,6,11,Aston Villa
+710797,2022-02-13 11:00:00,Turf Moor,Burnley,M. Atkinson,2021,25,Burnley,Liverpool,0,1,0,1,0,1,Liverpool,13,2,2022,6,11,Burnley
+710804,2022-02-13 11:00:00,Tottenham Hotspur Stadium,London,K. Friend,2021,25,Tottenham,Wolves,0,2,0,2,0,2,Wolves,13,2,2022,6,11,Tottenham
+710800,2022-02-13 13:30:00,King Power Stadium,"Leicester, Leicestershire",M. Oliver,2021,25,Leicester,West Ham,2,2,1,1,2,2,Draw,13,2,2022,6,13,Draw
+710729,2022-02-15 17:15:00,Old Trafford,Manchester,P. Bankes,2021,18,Manchester United,Brighton,2,0,0,0,2,0,Manchester United,15,2,2022,1,17,Brighton
+710814,2022-02-19 09:30:00,London Stadium,London,C. Kavanagh,2021,26,West Ham,Newcastle,1,1,1,1,1,1,Draw,19,2,2022,5,9,Draw
+710811,2022-02-19 12:00:00,Anfield,Liverpool,M. Dean,2021,26,Liverpool,Norwich,3,1,0,0,3,1,Liverpool,19,2,2022,5,12,Norwich
+710813,2022-02-19 12:00:00,St. Mary's Stadium,"Southampton, Hampshire",A. Madley,2021,26,Southampton,Everton,2,0,0,0,2,0,Southampton,19,2,2022,5,12,Everton
+710806,2022-02-19 12:00:00,Emirates Stadium,London,J. Moss,2021,26,Arsenal,Brentford,2,1,0,0,2,1,Arsenal,19,2,2022,5,12,Brentford
+710808,2022-02-19 12:00:00,The American Express Community Stadium,"Falmer, East Sussex",K. Friend,2021,26,Brighton,Burnley,0,3,0,2,0,3,Burnley,19,2,2022,5,12,Brighton
+710809,2022-02-19 12:00:00,Selhurst Park,London,D. Coote,2021,26,Crystal Palace,Chelsea,0,1,0,0,0,1,Chelsea,19,2,2022,5,12,Crystal Palace
+710807,2022-02-19 12:00:00,Villa Park,Birmingham,R. Jones,2021,26,Aston Villa,Watford,0,1,0,0,0,1,Watford,19,2,2022,5,12,Aston Villa
+710812,2022-02-19 14:30:00,Etihad Stadium,Manchester,A. Taylor,2021,26,Manchester City,Tottenham,2,3,1,1,2,3,Tottenham,19,2,2022,5,14,Manchester City
+710810,2022-02-20 11:00:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2021,26,Leeds,Manchester United,2,4,0,2,2,4,Manchester United,20,2,2022,6,11,Leeds
+710815,2022-02-20 13:30:00,Molineux Stadium,"Wolverhampton, West Midlands",C. Pawson,2021,26,Wolves,Leicester,2,1,1,1,2,1,Wolves,20,2,2022,6,13,Leicester
+710733,2022-02-23 16:30:00,Vicarage Road,Watford,A. Marriner,2021,18,Watford,Crystal Palace,1,4,1,2,1,4,Crystal Palace,23,2,2022,2,16,Watford
+710679,2022-02-23 16:30:00,Turf Moor,Burnley,G. Scott,2021,13,Burnley,Tottenham,1,0,0,0,1,0,Burnley,23,2,2022,2,16,Tottenham
+710739,2022-02-23 16:45:00,Anfield,Liverpool,M. Oliver,2021,19,Liverpool,Leeds,6,0,3,0,6,0,Liverpool,23,2,2022,2,16,Leeds
+710746,2022-02-24 16:45:00,Emirates Stadium,London,M. Atkinson,2021,20,Arsenal,Wolves,2,1,0,1,2,1,Arsenal,24,2,2022,3,16,Wolves
+710824,2022-02-25 17:00:00,St. Mary's Stadium,"Southampton, Hampshire",S. Hooper,2021,27,Southampton,Norwich,2,0,1,0,2,0,Southampton,25,2,2022,4,17,Norwich
+710822,2022-02-26 09:30:00,Elland Road,"Leeds, West Yorkshire",C. Pawson,2021,27,Leeds,Tottenham,0,4,0,3,0,4,Tottenham,26,2,2022,5,9,Leeds
+710823,2022-02-26 12:00:00,Old Trafford,Manchester,K. Friend,2021,27,Manchester United,Watford,0,0,0,0,0,0,Draw,26,2,2022,5,12,Draw
+710820,2022-02-26 12:00:00,Selhurst Park,London,J. Moss,2021,27,Crystal Palace,Burnley,1,1,1,0,1,1,Draw,26,2,2022,5,12,Draw
+710817,2022-02-26 12:00:00,Brentford Community Stadium,"Brentford, Middlesex",M. Dean,2021,27,Brentford,Newcastle,0,2,0,2,0,2,Newcastle,26,2,2022,5,12,Brentford
+710818,2022-02-26 12:30:00,The American Express Community Stadium,"Falmer, East Sussex",J. Brooks,2021,27,Brighton,Aston Villa,0,2,0,1,0,2,Aston Villa,26,2,2022,5,12,Brighton
+710821,2022-02-26 14:30:00,Goodison Park,Liverpool,P. Tierney,2021,27,Everton,Manchester City,0,1,0,0,0,1,Manchester City,26,2,2022,5,14,Everton
+710825,2022-02-27 11:00:00,London Stadium,London,A. Taylor,2021,27,West Ham,Wolves,1,0,0,0,1,0,West Ham,27,2,2022,6,11,Wolves
+710768,2022-03-01 16:45:00,Turf Moor,Burnley,C. Kavanagh,2021,22,Burnley,Leicester,0,2,0,0,0,2,Leicester,1,3,2022,1,16,Burnley
+710828,2022-03-05 09:30:00,King Power Stadium,"Leicester, Leicestershire",D. Coote,2021,28,Leicester,Leeds,1,0,0,0,1,0,Leicester,5,3,2022,5,9,Leeds
+710831,2022-03-05 12:00:00,St. James' Park,Newcastle upon Tyne,M. Atkinson,2021,28,Newcastle,Brighton,2,1,2,0,2,1,Newcastle,5,3,2022,5,12,Brighton
+710835,2022-03-05 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",A. Madley,2021,28,Wolves,Crystal Palace,0,2,0,2,0,2,Crystal Palace,5,3,2022,5,12,Wolves
+710827,2022-03-05 12:00:00,Turf Moor,Burnley,A. Marriner,2021,28,Burnley,Chelsea,0,4,0,0,0,4,Chelsea,5,3,2022,5,12,Burnley
+710826,2022-03-05 12:00:00,Villa Park,Birmingham,P. Bankes,2021,28,Aston Villa,Southampton,4,0,2,0,4,0,Aston Villa,5,3,2022,5,12,Southampton
+710832,2022-03-05 12:00:00,Carrow Road,"Norwich, Norfolk",A. Taylor,2021,28,Norwich,Brentford,1,3,0,1,1,3,Brentford,5,3,2022,5,12,Norwich
+710829,2022-03-05 14:30:00,Anfield,Liverpool,J. Moss,2021,28,Liverpool,West Ham,1,0,1,0,1,0,Liverpool,5,3,2022,5,14,West Ham
+710834,2022-03-06 11:00:00,Vicarage Road,Watford,C. Pawson,2021,28,Watford,Arsenal,2,3,1,2,2,3,Arsenal,6,3,2022,6,11,Watford
+710830,2022-03-06 13:30:00,Etihad Stadium,Manchester,M. Oliver,2021,28,Manchester City,Manchester United,4,1,2,1,4,1,Manchester City,6,3,2022,6,13,Manchester United
+710833,2022-03-07 17:00:00,Tottenham Hotspur Stadium,London,S. Attwell,2021,28,Tottenham,Everton,5,0,3,0,5,0,Tottenham,7,3,2022,0,17,Everton
+710745,2022-03-10 16:30:00,Molineux Stadium,"Wolverhampton, West Midlands",D. England,2021,19,Wolves,Watford,4,0,3,0,4,0,Wolves,10,3,2022,3,16,Watford
+710764,2022-03-10 16:30:00,St. Mary's Stadium,"Southampton, Hampshire",K. Friend,2021,21,Southampton,Newcastle,1,2,1,1,1,2,Newcastle,10,3,2022,3,16,Southampton
+710852,2022-03-10 16:30:00,Carrow Road,"Norwich, Norfolk",M. Atkinson,2021,30,Norwich,Chelsea,1,3,0,2,1,3,Chelsea,10,3,2022,3,16,Norwich
+710751,2022-03-10 16:45:00,Elland Road,"Leeds, West Yorkshire",S. Hooper,2021,20,Leeds,Aston Villa,0,3,0,1,0,3,Aston Villa,10,3,2022,3,16,Leeds
+710838,2022-03-12 09:30:00,The American Express Community Stadium,"Falmer, East Sussex",M. Dean,2021,29,Brighton,Liverpool,0,2,0,1,0,2,Liverpool,12,3,2022,5,9,Brighton
+710837,2022-03-12 12:00:00,Brentford Community Stadium,"Brentford, Middlesex",P. Tierney,2021,29,Brentford,Burnley,2,0,0,0,2,0,Brentford,12,3,2022,5,12,Burnley
+710843,2022-03-12 14:30:00,Old Trafford,Manchester,J. Moss,2021,29,Manchester United,Tottenham,3,2,2,1,3,2,Manchester United,12,3,2022,5,14,Tottenham
+710844,2022-03-13 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",G. Scott,2021,29,Southampton,Watford,1,2,1,2,1,2,Watford,13,3,2022,6,11,Southampton
+710841,2022-03-13 11:00:00,Goodison Park,Liverpool,M. Oliver,2021,29,Everton,Wolves,0,1,0,0,0,1,Wolves,13,3,2022,6,11,Everton
+710845,2022-03-13 11:00:00,London Stadium,London,J. Gillett,2021,29,West Ham,Aston Villa,2,1,0,0,2,1,West Ham,13,3,2022,6,11,Aston Villa
+710839,2022-03-13 11:00:00,Stamford Bridge,London,D. Coote,2021,29,Chelsea,Newcastle,1,0,0,0,1,0,Chelsea,13,3,2022,6,11,Newcastle
+710842,2022-03-13 11:00:00,Elland Road,"Leeds, West Yorkshire",S. Attwell,2021,29,Leeds,Norwich,2,1,1,0,2,1,Leeds,13,3,2022,6,11,Norwich
+710836,2022-03-13 13:30:00,Emirates Stadium,London,A. Taylor,2021,29,Arsenal,Leicester,2,0,1,0,2,0,Arsenal,13,3,2022,6,13,Leicester
+710840,2022-03-14 17:00:00,Selhurst Park,London,M. Atkinson,2021,29,Crystal Palace,Manchester City,0,0,0,0,0,0,Draw,14,3,2022,0,17,Draw
+710708,2022-03-16 16:30:00,The American Express Community Stadium,"Falmer, East Sussex",R. Jones,2021,16,Brighton,Tottenham,0,2,0,1,0,2,Tottenham,16,3,2022,2,16,Brighton
+710816,2022-03-16 17:15:00,Emirates Stadium,London,A. Marriner,2021,27,Arsenal,Liverpool,0,2,0,0,0,2,Liverpool,16,3,2022,2,17,Arsenal
+710750,2022-03-17 16:45:00,Goodison Park,Liverpool,C. Pawson,2021,20,Everton,Newcastle,1,0,0,0,1,0,Everton,17,3,2022,3,16,Newcastle
+710855,2022-03-18 17:00:00,Molineux Stadium,"Wolverhampton, West Midlands",K. Friend,2021,30,Wolves,Leeds,2,3,2,0,2,3,Leeds,18,3,2022,4,17,Wolves
+710846,2022-03-19 09:30:00,Villa Park,Birmingham,A. Madley,2021,30,Aston Villa,Arsenal,0,1,0,1,0,1,Arsenal,19,3,2022,5,9,Aston Villa
+710848,2022-03-20 11:00:00,King Power Stadium,"Leicester, Leicestershire",D. England,2021,30,Leicester,Brentford,2,1,2,0,2,1,Leicester,20,3,2022,6,11,Brentford
+710853,2022-03-20 13:30:00,Tottenham Hotspur Stadium,London,A. Taylor,2021,30,Tottenham,West Ham,3,1,2,1,3,1,Tottenham,20,3,2022,6,13,West Ham
+710861,2022-04-02 08:30:00,Anfield,Liverpool,S. Attwell,2021,31,Liverpool,Watford,2,0,1,0,2,0,Liverpool,2,4,2022,5,8,Watford
+710865,2022-04-02 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",D. England,2021,31,Wolves,Aston Villa,2,1,2,0,2,1,Wolves,2,4,2022,5,11,Aston Villa
+710857,2022-04-02 11:00:00,Turf Moor,Burnley,C. Pawson,2021,31,Burnley,Manchester City,0,2,0,2,0,2,Manchester City,2,4,2022,5,11,Burnley
+710858,2022-04-02 11:00:00,Stamford Bridge,London,A. Madley,2021,31,Chelsea,Brentford,1,4,0,0,1,4,Brentford,2,4,2022,5,11,Chelsea
+710856,2022-04-02 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",S. Hooper,2021,31,Brighton,Norwich,0,0,0,0,0,0,Draw,2,4,2022,5,11,Draw
+710860,2022-04-02 11:00:00,Elland Road,"Leeds, West Yorkshire",A. Taylor,2021,31,Leeds,Southampton,1,1,1,0,1,1,Draw,2,4,2022,5,11,Draw
+710862,2022-04-02 13:30:00,Old Trafford,Manchester,A. Marriner,2021,31,Manchester United,Leicester,1,1,0,0,1,1,Draw,2,4,2022,5,13,Draw
+710864,2022-04-03 10:00:00,London Stadium,London,M. Oliver,2021,31,West Ham,Everton,2,1,1,0,2,1,West Ham,3,4,2022,6,10,Everton
+710863,2022-04-03 12:30:00,Tottenham Hotspur Stadium,London,M. Atkinson,2021,31,Tottenham,Newcastle,5,1,1,1,5,1,Tottenham,3,4,2022,6,12,Newcastle
+710859,2022-04-04 16:00:00,Selhurst Park,London,P. Tierney,2021,31,Crystal Palace,Arsenal,3,0,2,0,3,0,Crystal Palace,4,4,2022,0,16,Arsenal
+710738,2022-04-06 15:30:00,Turf Moor,Burnley,M. Dean,2021,19,Burnley,Everton,3,2,1,2,3,2,Burnley,6,4,2022,2,15,Everton
+710872,2022-04-08 16:00:00,St. James' Park,Newcastle upon Tyne,P. Bankes,2021,32,Newcastle,Wolves,1,0,0,0,1,0,Newcastle,8,4,2022,4,16,Wolves
+710869,2022-04-09 08:30:00,Goodison Park,Liverpool,J. Moss,2021,32,Everton,Manchester United,1,0,1,0,1,0,Everton,9,4,2022,5,8,Manchester United
+710875,2022-04-09 11:00:00,Vicarage Road,Watford,A. Marriner,2021,32,Watford,Leeds,0,3,0,1,0,3,Leeds,9,4,2022,5,11,Watford
+710874,2022-04-09 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",K. Friend,2021,32,Southampton,Chelsea,0,6,0,4,0,6,Chelsea,9,4,2022,5,11,Southampton
+710866,2022-04-09 11:00:00,Emirates Stadium,London,D. Coote,2021,32,Arsenal,Brighton,1,2,0,1,1,2,Brighton,9,4,2022,5,11,Arsenal
+710867,2022-04-09 13:30:00,Villa Park,Birmingham,G. Scott,2021,32,Aston Villa,Tottenham,0,4,0,1,0,4,Tottenham,9,4,2022,5,13,Aston Villa
+710870,2022-04-10 10:00:00,King Power Stadium,"Leicester, Leicestershire",R. Jones,2021,32,Leicester,Crystal Palace,2,1,2,0,2,1,Leicester,10,4,2022,6,10,Crystal Palace
+710868,2022-04-10 10:00:00,Brentford Community Stadium,"Brentford, Middlesex",M. Atkinson,2021,32,Brentford,West Ham,2,0,0,0,2,0,Brentford,10,4,2022,6,10,West Ham
+710873,2022-04-10 10:00:00,Carrow Road,"Norwich, Norfolk",M. Oliver,2021,32,Norwich,Burnley,2,0,1,0,2,0,Norwich,10,4,2022,6,10,Burnley
+710871,2022-04-10 12:30:00,Etihad Stadium,Manchester,A. Taylor,2021,32,Manchester City,Liverpool,2,2,2,1,2,2,Draw,10,4,2022,6,12,Draw
+710882,2022-04-16 08:30:00,Tottenham Hotspur Stadium,London,C. Pawson,2021,33,Tottenham,Brighton,0,1,0,0,0,1,Brighton,16,4,2022,5,8,Tottenham
+710879,2022-04-16 11:00:00,Old Trafford,Manchester,A. Madley,2021,33,Manchester United,Norwich,3,2,2,1,3,2,Manchester United,16,4,2022,5,11,Norwich
+710883,2022-04-16 11:00:00,Vicarage Road,Watford,S. Hooper,2021,33,Watford,Brentford,1,2,0,1,1,2,Brentford,16,4,2022,5,11,Watford
+710881,2022-04-16 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",P. Bankes,2021,33,Southampton,Arsenal,1,0,1,0,1,0,Southampton,16,4,2022,5,11,Arsenal
+710880,2022-04-17 10:15:00,St. James' Park,Newcastle upon Tyne,J. Gillett,2021,33,Newcastle,Leicester,2,1,1,1,2,1,Newcastle,17,4,2022,6,10,Leicester
+710884,2022-04-17 10:15:00,London Stadium,London,P. Tierney,2021,33,West Ham,Burnley,1,1,0,1,1,1,Draw,17,4,2022,6,10,Draw
+710849,2022-04-19 16:00:00,Anfield,Liverpool,M. Atkinson,2021,30,Liverpool,Manchester United,4,0,2,0,4,0,Liverpool,19,4,2022,1,16,Manchester United
+710851,2022-04-20 15:45:00,St. James' Park,Newcastle upon Tyne,T. Harrington,2021,30,Newcastle,Crystal Palace,1,0,1,0,1,0,Newcastle,20,4,2022,2,15,Crystal Palace
+710727,2022-04-20 15:45:00,Goodison Park,Liverpool,D. Coote,2021,18,Everton,Leicester,1,1,0,1,1,1,Draw,20,4,2022,2,15,Draw
+710798,2022-04-20 15:45:00,Stamford Bridge,London,J. Moss,2021,25,Chelsea,Arsenal,2,4,2,2,2,4,Arsenal,20,4,2022,2,15,Chelsea
+710850,2022-04-20 16:00:00,Etihad Stadium,Manchester,M. Dean,2021,30,Manchester City,Brighton,3,0,0,0,3,0,Manchester City,20,4,2022,2,16,Brighton
+710847,2022-04-21 15:45:00,Turf Moor,Burnley,S. Attwell,2021,30,Burnley,Southampton,2,0,2,0,2,0,Burnley,21,4,2022,3,15,Southampton
+710886,2022-04-23 08:30:00,Emirates Stadium,London,C. Pawson,2021,34,Arsenal,Manchester United,3,1,2,1,3,1,Arsenal,23,4,2022,5,8,Manchester United
+710892,2022-04-23 11:00:00,King Power Stadium,"Leicester, Leicestershire",A. Madley,2021,34,Leicester,Aston Villa,0,0,0,0,0,0,Draw,23,4,2022,5,11,Draw
+710894,2022-04-23 11:00:00,Etihad Stadium,Manchester,K. Friend,2021,34,Manchester City,Watford,5,1,3,1,5,1,Manchester City,23,4,2022,5,11,Watford
+710895,2022-04-23 11:00:00,Carrow Road,"Norwich, Norfolk",C. Kavanagh,2021,34,Norwich,Newcastle,0,3,0,2,0,3,Newcastle,23,4,2022,5,11,Norwich
+710887,2022-04-23 13:30:00,Brentford Community Stadium,"Brentford, Middlesex",M. Atkinson,2021,34,Brentford,Tottenham,0,0,0,0,0,0,Draw,23,4,2022,5,13,Draw
+710889,2022-04-24 10:00:00,Turf Moor,Burnley,A. Taylor,2021,34,Burnley,Wolves,1,0,0,0,1,0,Burnley,24,4,2022,6,10,Wolves
+710890,2022-04-24 10:00:00,Stamford Bridge,London,M. Oliver,2021,34,Chelsea,West Ham,1,0,0,0,1,0,Chelsea,24,4,2022,6,10,West Ham
+710888,2022-04-24 10:00:00,The American Express Community Stadium,"Falmer, East Sussex",R. Jones,2021,34,Brighton,Southampton,2,2,2,1,2,2,Draw,24,4,2022,6,10,Draw
+710893,2022-04-24 12:30:00,Anfield,Liverpool,S. Attwell,2021,34,Liverpool,Everton,2,0,0,0,2,0,Liverpool,24,4,2022,6,12,Everton
+710891,2022-04-25 16:00:00,Selhurst Park,London,D. England,2021,34,Crystal Palace,Leeds,0,0,0,0,0,0,Draw,25,4,2022,0,16,Draw
+710919,2022-04-28 15:45:00,Old Trafford,Manchester,M. Dean,2021,37,Manchester United,Chelsea,1,1,0,0,1,1,Draw,28,4,2022,3,15,Draw
+710900,2022-04-30 08:30:00,St. James' Park,Newcastle upon Tyne,A. Marriner,2021,35,Newcastle,Liverpool,0,1,0,1,0,1,Liverpool,30,4,2022,5,8,Newcastle
+710903,2022-04-30 11:00:00,Vicarage Road,Watford,C. Pawson,2021,35,Watford,Burnley,1,2,1,0,1,2,Burnley,30,4,2022,5,11,Watford
+710905,2022-04-30 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Hooper,2021,35,Wolves,Brighton,0,3,0,1,0,3,Brighton,30,4,2022,5,11,Wolves
+710901,2022-04-30 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",J. Gillett,2021,35,Southampton,Crystal Palace,1,2,1,0,1,2,Crystal Palace,30,4,2022,5,11,Southampton
+710896,2022-04-30 11:00:00,Villa Park,Birmingham,J. Brooks,2021,35,Aston Villa,Norwich,2,0,1,0,2,0,Aston Villa,30,4,2022,5,11,Norwich
+710898,2022-04-30 13:30:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2021,35,Leeds,Manchester City,0,4,0,1,0,4,Manchester City,30,4,2022,5,13,Leeds
+710897,2022-05-01 10:00:00,Goodison Park,Liverpool,K. Friend,2021,35,Everton,Chelsea,1,0,0,0,1,0,Everton,1,5,2022,6,10,Chelsea
+710902,2022-05-01 10:00:00,Tottenham Hotspur Stadium,London,J. Moss,2021,35,Tottenham,Leicester,3,1,1,0,3,1,Tottenham,1,5,2022,6,10,Leicester
+710904,2022-05-01 12:30:00,London Stadium,London,M. Dean,2021,35,West Ham,Arsenal,1,2,1,1,1,2,Arsenal,1,5,2022,6,12,West Ham
+710899,2022-05-02 16:00:00,Old Trafford,Manchester,C. Kavanagh,2021,35,Manchester United,Brentford,3,0,1,0,3,0,Manchester United,2,5,2022,0,16,Brentford
+710909,2022-05-07 11:00:00,Turf Moor,Burnley,D. Coote,2021,36,Burnley,Aston Villa,1,3,0,2,1,3,Aston Villa,7,5,2022,5,11,Burnley
+710910,2022-05-07 11:00:00,Stamford Bridge,London,P. Bankes,2021,36,Chelsea,Wolves,2,2,0,0,2,2,Draw,7,5,2022,5,11,Draw
+710911,2022-05-07 11:00:00,Selhurst Park,London,G. Scott,2021,36,Crystal Palace,Watford,1,0,1,0,1,0,Crystal Palace,7,5,2022,5,11,Watford
+710907,2022-05-07 11:00:00,Brentford Community Stadium,"Brentford, Middlesex",M. Salisbury,2021,36,Brentford,Southampton,3,0,2,0,3,0,Brentford,7,5,2022,5,11,Southampton
+710908,2022-05-07 13:30:00,The American Express Community Stadium,"Falmer, East Sussex",A. Madley,2021,36,Brighton,Manchester United,4,0,1,0,4,0,Brighton,7,5,2022,5,13,Manchester United
+710913,2022-05-07 15:45:00,Anfield,Liverpool,M. Oliver,2021,36,Liverpool,Tottenham,1,1,0,0,1,1,Draw,7,5,2022,5,15,Draw
+710906,2022-05-08 10:00:00,Emirates Stadium,London,C. Kavanagh,2021,36,Arsenal,Leeds,2,1,2,0,2,1,Arsenal,8,5,2022,6,10,Leeds
+710912,2022-05-08 10:00:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2021,36,Leicester,Everton,1,2,1,2,1,2,Everton,8,5,2022,6,10,Leicester
+710915,2022-05-08 10:00:00,Carrow Road,"Norwich, Norfolk",R. Jones,2021,36,Norwich,West Ham,0,4,0,3,0,4,West Ham,8,5,2022,6,10,Norwich
+710914,2022-05-08 12:30:00,Etihad Stadium,Manchester,S. Attwell,2021,36,Manchester City,Newcastle,5,0,2,0,5,0,Manchester City,8,5,2022,6,12,Newcastle
+710876,2022-05-10 16:00:00,Villa Park,Birmingham,J. Moss,2021,33,Aston Villa,Liverpool,1,2,1,1,1,2,Liverpool,10,5,2022,1,16,Aston Villa
+710878,2022-05-11 15:30:00,Elland Road,"Leeds, West Yorkshire",A. Taylor,2021,33,Leeds,Chelsea,0,3,0,1,0,3,Chelsea,11,5,2022,2,15,Leeds
+710854,2022-05-11 15:45:00,Vicarage Road,Watford,M. Dean,2021,30,Watford,Everton,0,0,0,0,0,0,Draw,11,5,2022,2,15,Draw
+710762,2022-05-11 15:45:00,King Power Stadium,"Leicester, Leicestershire",S. Hooper,2021,21,Leicester,Norwich,3,0,0,0,3,0,Leicester,11,5,2022,2,15,Norwich
+710885,2022-05-11 16:15:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Atkinson,2021,33,Wolves,Manchester City,1,5,1,3,1,5,Manchester City,11,5,2022,2,16,Wolves
+710773,2022-05-12 15:45:00,Tottenham Hotspur Stadium,London,P. Tierney,2021,22,Tottenham,Arsenal,3,0,2,0,3,0,Tottenham,12,5,2022,3,15,Arsenal
+710922,2022-05-15 08:00:00,Tottenham Hotspur Stadium,London,K. Friend,2021,37,Tottenham,Burnley,1,0,1,0,1,0,Tottenham,15,5,2022,6,8,Burnley
+710923,2022-05-15 10:00:00,Vicarage Road,Watford,J. Gillett,2021,37,Watford,Leicester,1,5,1,2,1,5,Leicester,15,5,2022,6,10,Watford
+710925,2022-05-15 10:00:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Harrington,2021,37,Wolves,Norwich,1,1,0,1,1,1,Draw,15,5,2022,6,10,Draw
+710924,2022-05-15 10:00:00,London Stadium,London,A. Taylor,2021,37,West Ham,Manchester City,2,2,2,0,2,2,Draw,15,5,2022,6,10,Draw
+710918,2022-05-15 10:00:00,Elland Road,"Leeds, West Yorkshire",M. Dean,2021,37,Leeds,Brighton,1,1,0,1,1,1,Draw,15,5,2022,6,10,Draw
+710916,2022-05-15 10:00:00,Villa Park,Birmingham,C. Kavanagh,2021,37,Aston Villa,Crystal Palace,1,1,0,0,1,1,Draw,15,5,2022,6,10,Draw
+710917,2022-05-15 12:30:00,Goodison Park,Liverpool,M. Oliver,2021,37,Everton,Brentford,2,3,2,1,2,3,Brentford,15,5,2022,6,12,Everton
+710920,2022-05-16 16:00:00,St. James' Park,Newcastle upon Tyne,D. England,2021,37,Newcastle,Arsenal,2,0,0,0,2,0,Newcastle,16,5,2022,0,16,Arsenal
+710921,2022-05-17 15:45:00,St. Mary's Stadium,"Southampton, Hampshire",M. Atkinson,2021,37,Southampton,Liverpool,1,2,1,1,1,2,Liverpool,17,5,2022,1,15,Southampton
+710877,2022-05-19 15:45:00,Goodison Park,Liverpool,A. Taylor,2021,33,Everton,Crystal Palace,3,2,0,2,3,2,Everton,19,5,2022,3,15,Crystal Palace
+710819,2022-05-19 16:00:00,Stamford Bridge,London,S. Attwell,2021,27,Chelsea,Leicester,1,1,1,1,1,1,Draw,19,5,2022,3,16,Draw
+710726,2022-05-19 16:00:00,Villa Park,Birmingham,P. Tierney,2021,18,Aston Villa,Burnley,1,1,0,1,1,1,Draw,19,5,2022,3,16,Draw
+710933,2022-05-22 12:00:00,Anfield,Liverpool,A. Taylor,2021,38,Liverpool,Wolves,3,1,1,1,3,1,Liverpool,22,5,2022,6,12,Wolves
+710926,2022-05-22 12:00:00,Emirates Stadium,London,A. Marriner,2021,38,Arsenal,Everton,5,1,2,1,5,1,Arsenal,22,5,2022,6,12,Everton
+710929,2022-05-22 12:00:00,Turf Moor,Burnley,C. Pawson,2021,38,Burnley,Newcastle,1,2,0,1,1,2,Newcastle,22,5,2022,6,12,Burnley
+710932,2022-05-22 12:00:00,King Power Stadium,"Leicester, Leicestershire",J. Moss,2021,38,Leicester,Southampton,4,1,0,0,4,1,Leicester,22,5,2022,6,12,Southampton
+710930,2022-05-22 12:00:00,Stamford Bridge,London,M. Dean,2021,38,Chelsea,Watford,2,1,1,0,2,1,Chelsea,22,5,2022,6,12,Watford
+710934,2022-05-22 12:00:00,Etihad Stadium,Manchester,M. Oliver,2021,38,Manchester City,Aston Villa,3,2,0,1,3,2,Manchester City,22,5,2022,6,12,Aston Villa
+710928,2022-05-22 12:00:00,The American Express Community Stadium,"Falmer, East Sussex",K. Friend,2021,38,Brighton,West Ham,3,1,0,1,3,1,Brighton,22,5,2022,6,12,West Ham
+710931,2022-05-22 12:00:00,Selhurst Park,London,M. Atkinson,2021,38,Crystal Palace,Manchester United,1,0,1,0,1,0,Crystal Palace,22,5,2022,6,12,Manchester United
+710927,2022-05-22 12:00:00,Brentford Community Stadium,"Brentford, Middlesex",P. Tierney,2021,38,Brentford,Leeds,1,2,0,0,1,2,Leeds,22,5,2022,6,12,Brentford
+710935,2022-05-22 12:00:00,Carrow Road,"Norwich, Norfolk",C. Kavanagh,2021,38,Norwich,Tottenham,0,5,0,2,0,5,Tottenham,22,5,2022,6,12,Norwich
+867946,2022-08-05 16:00:00,Selhurst Park,London,A. Taylor,2022,1,Crystal Palace,Arsenal,0,2,0,1,0,2,Arsenal,5,8,2022,4,16,Crystal Palace
+867947,2022-08-06 08:30:00,Craven Cottage,London,A. Madley,2022,1,Fulham,Liverpool,2,2,1,0,2,2,Draw,6,8,2022,5,8,Draw
+867951,2022-08-06 11:00:00,St. James' Park,Newcastle upon Tyne,S. Hooper,2022,1,Newcastle,Nottingham Forest,2,0,0,0,2,0,Newcastle,6,8,2022,5,11,Nottingham Forest
+867948,2022-08-06 11:00:00,Vitality Stadium,"Bournemouth, Dorset",P. Bankes,2022,1,Bournemouth,Aston Villa,2,0,1,0,2,0,Bournemouth,6,8,2022,5,11,Aston Villa
+867952,2022-08-06 11:00:00,Tottenham Hotspur Stadium,London,A. Marriner,2022,1,Tottenham,Southampton,4,1,2,1,4,1,Tottenham,6,8,2022,5,11,Southampton
+867949,2022-08-06 11:00:00,Elland Road,"Leeds, West Yorkshire",R. Jones,2022,1,Leeds,Wolves,2,1,1,1,2,1,Leeds,6,8,2022,5,11,Wolves
+867953,2022-08-06 13:30:00,Goodison Park,Liverpool,C. Pawson,2022,1,Everton,Chelsea,0,1,0,1,0,1,Chelsea,6,8,2022,5,13,Everton
+867954,2022-08-07 10:00:00,Old Trafford,Manchester,P. Tierney,2022,1,Manchester United,Brighton,1,2,0,2,1,2,Brighton,7,8,2022,6,10,Manchester United
+867950,2022-08-07 10:00:00,King Power Stadium,"Leicester, Leicestershire",J. Gillett,2022,1,Leicester,Brentford,2,2,1,0,2,2,Draw,7,8,2022,6,10,Draw
+867955,2022-08-07 12:30:00,London Stadium,London,M. Oliver,2022,1,West Ham,Manchester City,0,2,0,1,0,2,Manchester City,7,8,2022,6,12,West Ham
+867957,2022-08-13 08:30:00,Villa Park,Birmingham,M. Oliver,2022,2,Aston Villa,Everton,2,1,1,0,2,1,Aston Villa,13,8,2022,5,8,Everton
+867965,2022-08-13 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Brooks,2022,2,Wolves,Fulham,0,0,0,0,0,0,Draw,13,8,2022,5,11,Draw
+867964,2022-08-13 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",T. Harrington,2022,2,Southampton,Leeds,2,2,0,0,2,2,Draw,13,8,2022,5,11,Draw
+867956,2022-08-13 11:00:00,Emirates Stadium,London,D. England,2022,2,Arsenal,Leicester,4,2,2,0,4,2,Arsenal,13,8,2022,5,11,Leicester
+867962,2022-08-13 11:00:00,Etihad Stadium,Manchester,D. Coote,2022,2,Manchester City,Bournemouth,4,0,3,0,4,0,Manchester City,13,8,2022,5,11,Bournemouth
+867959,2022-08-13 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",G. Scott,2022,2,Brighton,Newcastle,0,0,0,0,0,0,Draw,13,8,2022,5,11,Draw
+867958,2022-08-13 13:30:00,Gtech Community Stadium,"Brentford, Middlesex",S. Attwell,2022,2,Brentford,Manchester United,4,0,4,0,4,0,Brentford,13,8,2022,5,13,Manchester United
+867963,2022-08-14 10:00:00,The City Ground,"Nottingham, Nottinghamshire",R. Jones,2022,2,Nottingham Forest,West Ham,1,0,1,0,1,0,Nottingham Forest,14,8,2022,6,10,West Ham
+867960,2022-08-14 12:30:00,Stamford Bridge,London,A. Taylor,2022,2,Chelsea,Tottenham,2,2,1,0,2,2,Draw,14,8,2022,6,12,Draw
+867961,2022-08-15 16:00:00,Anfield,Liverpool,P. Tierney,2022,2,Liverpool,Crystal Palace,1,1,0,1,1,1,Draw,15,8,2022,0,16,Draw
+867974,2022-08-20 08:30:00,Tottenham Hotspur Stadium,London,S. Hooper,2022,3,Tottenham,Wolves,1,0,0,0,1,0,Tottenham,20,8,2022,5,8,Wolves
+867969,2022-08-20 11:00:00,Craven Cottage,London,P. Bankes,2022,3,Fulham,Brentford,3,2,2,1,3,2,Fulham,20,8,2022,5,11,Brentford
+867968,2022-08-20 11:00:00,Goodison Park,Liverpool,A. Marriner,2022,3,Everton,Nottingham Forest,1,1,0,0,1,1,Draw,20,8,2022,5,11,Draw
+867971,2022-08-20 11:00:00,King Power Stadium,"Leicester, Leicestershire",M. Salisbury,2022,3,Leicester,Southampton,1,2,0,0,1,2,Southampton,20,8,2022,5,11,Leicester
+867967,2022-08-20 11:00:00,Selhurst Park,London,A. Madley,2022,3,Crystal Palace,Aston Villa,3,1,1,1,3,1,Crystal Palace,20,8,2022,5,11,Aston Villa
+867966,2022-08-20 13:30:00,Vitality Stadium,"Bournemouth, Dorset",C. Pawson,2022,3,Bournemouth,Arsenal,0,3,0,2,0,3,Arsenal,20,8,2022,5,13,Bournemouth
+867975,2022-08-21 10:00:00,London Stadium,London,A. Taylor,2022,3,West Ham,Brighton,0,2,0,1,0,2,Brighton,21,8,2022,6,10,West Ham
+867970,2022-08-21 10:00:00,Elland Road,"Leeds, West Yorkshire",S. Attwell,2022,3,Leeds,Chelsea,3,0,2,0,3,0,Leeds,21,8,2022,6,10,Chelsea
+867973,2022-08-21 12:30:00,St. James' Park,Newcastle upon Tyne,J. Gillett,2022,3,Newcastle,Manchester City,3,3,2,1,3,3,Draw,21,8,2022,6,12,Draw
+867972,2022-08-22 16:00:00,Old Trafford,Manchester,M. Oliver,2022,3,Manchester United,Liverpool,2,1,1,0,2,1,Manchester United,22,8,2022,0,16,Liverpool
+867984,2022-08-27 08:30:00,St. Mary's Stadium,"Southampton, Hampshire",A. Madley,2022,4,Southampton,Manchester United,0,1,0,0,0,1,Manchester United,27,8,2022,5,8,Southampton
+867981,2022-08-27 11:00:00,Anfield,Liverpool,S. Attwell,2022,4,Liverpool,Bournemouth,9,0,5,0,9,0,Liverpool,27,8,2022,5,11,Bournemouth
+867980,2022-08-27 11:00:00,Stamford Bridge,London,P. Tierney,2022,4,Chelsea,Leicester,2,1,0,0,2,1,Chelsea,27,8,2022,5,11,Leicester
+867982,2022-08-27 11:00:00,Etihad Stadium,Manchester,D. England,2022,4,Manchester City,Crystal Palace,4,2,0,2,4,2,Manchester City,27,8,2022,5,11,Crystal Palace
+867979,2022-08-27 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",M. Salisbury,2022,4,Brighton,Leeds,1,0,0,0,1,0,Brighton,27,8,2022,5,11,Leeds
+867978,2022-08-27 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",J. Brooks,2022,4,Brentford,Everton,1,1,0,1,1,1,Draw,27,8,2022,5,11,Draw
+867976,2022-08-27 13:30:00,Emirates Stadium,London,J. Gillett,2022,4,Arsenal,Fulham,2,1,0,0,2,1,Arsenal,27,8,2022,5,13,Fulham
+867985,2022-08-28 10:00:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Bankes,2022,4,Wolves,Newcastle,1,1,1,0,1,1,Draw,28,8,2022,6,10,Draw
+867977,2022-08-28 10:00:00,Villa Park,Birmingham,D. Coote,2022,4,Aston Villa,West Ham,0,1,0,0,0,1,West Ham,28,8,2022,6,10,Aston Villa
+867983,2022-08-28 12:30:00,The City Ground,"Nottingham, Nottinghamshire",C. Pawson,2022,4,Nottingham Forest,Tottenham,0,2,0,1,0,2,Tottenham,28,8,2022,6,12,Nottingham Forest
+867988,2022-08-30 15:30:00,Craven Cottage,London,T. Bramall,2022,5,Fulham,Brighton,2,1,0,0,2,1,Fulham,30,8,2022,1,15,Brighton
+867992,2022-08-30 15:30:00,Selhurst Park,London,S. Hooper,2022,5,Crystal Palace,Brentford,1,1,0,0,1,1,Draw,30,8,2022,1,15,Draw
+867993,2022-08-30 15:45:00,St. Mary's Stadium,"Southampton, Hampshire",M. Oliver,2022,5,Southampton,Chelsea,2,1,2,1,2,1,Southampton,30,8,2022,1,15,Chelsea
+867989,2022-08-30 16:00:00,Elland Road,"Leeds, West Yorkshire",D. England,2022,5,Leeds,Everton,1,1,0,1,1,1,Draw,30,8,2022,1,16,Draw
+867986,2022-08-31 15:30:00,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,2022,5,Bournemouth,Wolves,0,0,0,0,0,0,Draw,31,8,2022,2,15,Draw
+867987,2022-08-31 15:30:00,Emirates Stadium,London,R. Jones,2022,5,Arsenal,Aston Villa,2,1,1,0,2,1,Arsenal,31,8,2022,2,15,Aston Villa
+867995,2022-08-31 15:30:00,Etihad Stadium,Manchester,P. Tierney,2022,5,Manchester City,Nottingham Forest,6,0,3,0,6,0,Manchester City,31,8,2022,2,15,Nottingham Forest
+867991,2022-08-31 15:45:00,London Stadium,London,P. Bankes,2022,5,West Ham,Tottenham,1,1,0,1,1,1,Draw,31,8,2022,2,15,Draw
+867994,2022-08-31 16:00:00,Anfield,Liverpool,A. Marriner,2022,5,Liverpool,Newcastle,2,1,0,1,2,1,Liverpool,31,8,2022,2,16,Newcastle
+867990,2022-09-01 16:00:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2022,5,Leicester,Manchester United,0,1,0,1,0,1,Manchester United,1,9,2022,3,16,Leicester
+868000,2022-09-03 08:30:00,Goodison Park,Liverpool,A. Taylor,2022,6,Everton,Liverpool,0,0,0,0,0,0,Draw,3,9,2022,5,8,Draw
+868002,2022-09-03 11:00:00,St. James' Park,Newcastle upon Tyne,M. Salisbury,2022,6,Newcastle,Crystal Palace,0,0,0,0,0,0,Draw,3,9,2022,5,11,Draw
+868005,2022-09-03 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Brooks,2022,6,Wolves,Southampton,1,0,1,0,1,0,Wolves,3,9,2022,5,11,Southampton
+868004,2022-09-03 11:00:00,Tottenham Hotspur Stadium,London,S. Attwell,2022,6,Tottenham,Fulham,2,1,1,0,2,1,Tottenham,3,9,2022,5,11,Fulham
+867999,2022-09-03 11:00:00,Stamford Bridge,London,A. Madley,2022,6,Chelsea,West Ham,2,1,0,0,2,1,Chelsea,3,9,2022,5,11,West Ham
+867997,2022-09-03 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",R. Jones,2022,6,Brentford,Leeds,5,2,2,1,5,2,Brentford,3,9,2022,5,11,Leeds
+868003,2022-09-03 11:00:00,The City Ground,"Nottingham, Nottinghamshire",M. Oliver,2022,6,Nottingham Forest,Bournemouth,2,3,2,0,2,3,Bournemouth,3,9,2022,5,11,Nottingham Forest
+867996,2022-09-03 13:30:00,Villa Park,Birmingham,S. Hooper,2022,6,Aston Villa,Manchester City,1,1,0,0,1,1,Draw,3,9,2022,5,13,Draw
+867998,2022-09-04 10:00:00,The American Express Community Stadium,"Falmer, East Sussex",T. Harrington,2022,6,Brighton,Leicester,5,2,2,2,5,2,Brighton,4,9,2022,6,10,Leicester
+868001,2022-09-04 12:30:00,Old Trafford,Manchester,P. Tierney,2022,6,Manchester United,Arsenal,3,1,1,0,3,1,Manchester United,4,9,2022,6,12,Arsenal
+868023,2022-09-16 16:00:00,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,2022,8,Nottingham Forest,Fulham,2,3,1,0,2,3,Fulham,16,9,2022,4,16,Nottingham Forest
+868016,2022-09-16 16:00:00,Villa Park,Birmingham,T. Harrington,2022,8,Aston Villa,Southampton,1,0,1,0,1,0,Aston Villa,16,9,2022,4,16,Southampton
+868025,2022-09-17 08:30:00,Molineux Stadium,"Wolverhampton, West Midlands",A. Taylor,2022,8,Wolves,Manchester City,0,3,0,2,0,3,Manchester City,17,9,2022,5,8,Wolves
+868022,2022-09-17 11:00:00,St. James' Park,Newcastle upon Tyne,C. Pawson,2022,8,Newcastle,Bournemouth,1,1,0,0,1,1,Draw,17,9,2022,5,11,Draw
+868024,2022-09-17 13:30:00,Tottenham Hotspur Stadium,London,S. Hooper,2022,8,Tottenham,Leicester,6,2,2,2,6,2,Tottenham,17,9,2022,5,13,Leicester
+868017,2022-09-18 08:00:00,Gtech Community Stadium,"Brentford, Middlesex",D. Coote,2022,8,Brentford,Arsenal,0,3,0,2,0,3,Arsenal,18,9,2022,6,8,Brentford
+868020,2022-09-18 10:15:00,Goodison Park,Liverpool,M. Oliver,2022,8,Everton,West Ham,1,0,0,0,1,0,Everton,18,9,2022,6,10,West Ham
+868027,2022-10-01 08:30:00,Emirates Stadium,London,A. Taylor,2022,9,Arsenal,Tottenham,3,1,1,1,3,1,Arsenal,1,10,2022,5,8,Tottenham
+868026,2022-10-01 11:00:00,Vitality Stadium,"Bournemouth, Dorset",T. Bramall,2022,9,Bournemouth,Brentford,0,0,0,0,0,0,Draw,1,10,2022,5,11,Draw
+868029,2022-10-01 11:00:00,Craven Cottage,London,D. England,2022,9,Fulham,Newcastle,1,4,0,3,1,4,Newcastle,1,10,2022,5,11,Fulham
+868032,2022-10-01 11:00:00,Anfield,Liverpool,A. Madley,2022,9,Liverpool,Brighton,3,3,1,2,3,3,Draw,1,10,2022,5,11,Draw
+868034,2022-10-01 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",A. Marriner,2022,9,Southampton,Everton,1,2,0,0,1,2,Everton,1,10,2022,5,11,Southampton
+868028,2022-10-01 11:00:00,Selhurst Park,London,C. Kavanagh,2022,9,Crystal Palace,Chelsea,1,2,1,1,1,2,Chelsea,1,10,2022,5,11,Crystal Palace
+868035,2022-10-01 13:30:00,London Stadium,London,P. Tierney,2022,9,West Ham,Wolves,2,0,1,0,2,0,West Ham,1,10,2022,5,13,Wolves
+868033,2022-10-02 10:00:00,Etihad Stadium,Manchester,M. Oliver,2022,9,Manchester City,Manchester United,6,3,4,0,6,3,Manchester City,2,10,2022,6,10,Manchester United
+868030,2022-10-02 12:30:00,Elland Road,"Leeds, West Yorkshire",S. Attwell,2022,9,Leeds,Aston Villa,0,0,0,0,0,0,Draw,2,10,2022,6,12,Draw
+868031,2022-10-03 16:00:00,King Power Stadium,"Leicester, Leicestershire",R. Jones,2022,9,Leicester,Nottingham Forest,4,0,3,0,4,0,Leicester,3,10,2022,0,16,Nottingham Forest
+868043,2022-10-08 11:00:00,St. James' Park,Newcastle upon Tyne,J. Brooks,2022,10,Newcastle,Brentford,5,1,2,0,5,1,Newcastle,8,10,2022,5,11,Brentford
+868036,2022-10-08 11:00:00,Vitality Stadium,"Bournemouth, Dorset",M. Salisbury,2022,10,Bournemouth,Leicester,2,1,0,1,2,1,Bournemouth,8,10,2022,5,11,Leicester
+868039,2022-10-08 11:00:00,Stamford Bridge,London,S. Hooper,2022,10,Chelsea,Wolves,3,0,1,0,3,0,Chelsea,8,10,2022,5,11,Wolves
+868042,2022-10-08 11:00:00,Etihad Stadium,Manchester,A. Madley,2022,10,Manchester City,Southampton,4,0,2,0,4,0,Manchester City,8,10,2022,5,11,Southampton
+868038,2022-10-08 13:30:00,The American Express Community Stadium,"Falmer, East Sussex",T. Harrington,2022,10,Brighton,Tottenham,0,1,0,1,0,1,Tottenham,8,10,2022,5,13,Brighton
+868045,2022-10-09 10:00:00,London Stadium,London,C. Kavanagh,2022,10,West Ham,Fulham,3,1,1,1,3,1,West Ham,9,10,2022,6,10,Fulham
+868040,2022-10-09 10:00:00,Selhurst Park,London,P. Tierney,2022,10,Crystal Palace,Leeds,2,1,1,1,2,1,Crystal Palace,9,10,2022,6,10,Leeds
+868037,2022-10-09 12:30:00,Emirates Stadium,London,M. Oliver,2022,10,Arsenal,Liverpool,3,2,2,1,3,2,Arsenal,9,10,2022,6,12,Liverpool
+868041,2022-10-09 15:00:00,Goodison Park,Liverpool,D. Coote,2022,10,Everton,Manchester United,1,2,1,2,1,2,Manchester United,9,10,2022,6,15,Everton
+868044,2022-10-10 16:00:00,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,2022,10,Nottingham Forest,Aston Villa,1,1,1,1,1,1,Draw,10,10,2022,0,16,Draw
+868047,2022-10-14 16:00:00,Gtech Community Stadium,"Brentford, Middlesex",M. Salisbury,2022,11,Brentford,Brighton,2,0,1,0,2,0,Brentford,14,10,2022,4,16,Brighton
+868050,2022-10-15 08:30:00,King Power Stadium,"Leicester, Leicestershire",A. Madley,2022,11,Leicester,Crystal Palace,0,0,0,0,0,0,Draw,15,10,2022,5,8,Draw
+868048,2022-10-15 11:00:00,Craven Cottage,London,G. Scott,2022,11,Fulham,Bournemouth,2,2,1,2,2,2,Draw,15,10,2022,5,11,Draw
+868055,2022-10-15 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Bramall,2022,11,Wolves,Nottingham Forest,1,0,0,0,1,0,Wolves,15,10,2022,5,11,Nottingham Forest
+868054,2022-10-15 13:30:00,Tottenham Hotspur Stadium,London,P. Tierney,2022,11,Tottenham,Everton,2,0,0,0,2,0,Tottenham,15,10,2022,5,13,Everton
+868052,2022-10-16 10:00:00,Old Trafford,Manchester,C. Pawson,2022,11,Manchester United,Newcastle,0,0,0,0,0,0,Draw,16,10,2022,6,10,Draw
+868053,2022-10-16 10:00:00,St. Mary's Stadium,"Southampton, Hampshire",P. Bankes,2022,11,Southampton,West Ham,1,1,1,0,1,1,Draw,16,10,2022,6,10,Draw
+868049,2022-10-16 10:00:00,Elland Road,"Leeds, West Yorkshire",C. Kavanagh,2022,11,Leeds,Arsenal,0,1,0,1,0,1,Arsenal,16,10,2022,6,10,Leeds
+868046,2022-10-16 10:00:00,Villa Park,Birmingham,R. Jones,2022,11,Aston Villa,Chelsea,0,2,0,1,0,2,Chelsea,16,10,2022,6,10,Aston Villa
+868051,2022-10-16 12:30:00,Anfield,Liverpool,A. Taylor,2022,11,Liverpool,Manchester City,1,0,0,0,1,0,Liverpool,16,10,2022,6,12,Manchester City
+868059,2022-10-18 15:30:00,The American Express Community Stadium,"Falmer, East Sussex",D. England,2022,12,Brighton,Nottingham Forest,0,0,0,0,0,0,Draw,18,10,2022,1,15,Draw
+868062,2022-10-18 16:15:00,Selhurst Park,London,D. Coote,2022,12,Crystal Palace,Wolves,2,1,0,1,2,1,Crystal Palace,18,10,2022,1,16,Wolves
+868063,2022-10-19 15:30:00,St. James' Park,Newcastle upon Tyne,T. Harrington,2022,12,Newcastle,Everton,1,0,1,0,1,0,Newcastle,19,10,2022,2,15,Everton
+868056,2022-10-19 15:30:00,Vitality Stadium,"Bournemouth, Dorset",J. Brooks,2022,12,Bournemouth,Southampton,0,1,0,1,0,1,Southampton,19,10,2022,2,15,Bournemouth
+868064,2022-10-19 15:30:00,Anfield,Liverpool,S. Attwell,2022,12,Liverpool,West Ham,1,0,1,0,1,0,Liverpool,19,10,2022,2,15,West Ham
+868058,2022-10-19 15:30:00,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,2022,12,Brentford,Chelsea,0,0,0,0,0,0,Draw,19,10,2022,2,15,Draw
+868065,2022-10-19 16:15:00,Old Trafford,Manchester,S. Hooper,2022,12,Manchester United,Tottenham,2,0,0,0,2,0,Manchester United,19,10,2022,2,16,Tottenham
+868060,2022-10-20 15:30:00,Craven Cottage,London,M. Oliver,2022,12,Fulham,Aston Villa,3,0,1,0,3,0,Fulham,20,10,2022,3,15,Aston Villa
+868061,2022-10-20 16:15:00,King Power Stadium,"Leicester, Leicestershire",P. Bankes,2022,12,Leicester,Leeds,2,0,2,0,2,0,Leicester,20,10,2022,3,16,Leeds
+868071,2022-10-22 08:30:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2022,13,Nottingham Forest,Liverpool,1,0,0,0,1,0,Nottingham Forest,22,10,2022,5,8,Liverpool
+868068,2022-10-22 11:00:00,Goodison Park,Liverpool,S. Hooper,2022,13,Everton,Crystal Palace,3,0,1,0,3,0,Everton,22,10,2022,5,11,Crystal Palace
+868070,2022-10-22 11:00:00,Etihad Stadium,Manchester,C. Pawson,2022,13,Manchester City,Brighton,3,1,2,0,3,1,Manchester City,22,10,2022,5,11,Brighton
+868067,2022-10-22 13:30:00,Stamford Bridge,London,S. Attwell,2022,13,Chelsea,Manchester United,1,1,0,0,1,1,Draw,22,10,2022,5,13,Draw
+868075,2022-10-23 10:00:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Oliver,2022,13,Wolves,Leicester,0,4,0,2,0,4,Leicester,23,10,2022,6,10,Wolves
+868072,2022-10-23 10:00:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2022,13,Southampton,Arsenal,1,1,0,1,1,1,Draw,23,10,2022,6,10,Draw
+868069,2022-10-23 10:00:00,Elland Road,"Leeds, West Yorkshire",A. Taylor,2022,13,Leeds,Fulham,2,3,1,1,2,3,Fulham,23,10,2022,6,10,Leeds
+868066,2022-10-23 10:00:00,Villa Park,Birmingham,D. England,2022,13,Aston Villa,Brentford,4,0,3,0,4,0,Aston Villa,23,10,2022,6,10,Brentford
+868073,2022-10-23 12:30:00,Tottenham Hotspur Stadium,London,J. Gillett,2022,13,Tottenham,Newcastle,1,2,0,2,1,2,Newcastle,23,10,2022,6,12,Tottenham
+868074,2022-10-24 16:00:00,London Stadium,London,D. Coote,2022,13,West Ham,Bournemouth,2,0,1,0,2,0,West Ham,24,10,2022,0,16,Bournemouth
+868082,2022-10-29 08:30:00,King Power Stadium,"Leicester, Leicestershire",R. Jones,2022,14,Leicester,Manchester City,0,1,0,0,0,1,Manchester City,29,10,2022,5,8,Leicester
+868085,2022-10-29 11:00:00,St. James' Park,Newcastle upon Tyne,P. Tierney,2022,14,Newcastle,Aston Villa,4,0,1,0,4,0,Newcastle,29,10,2022,5,11,Aston Villa
+868076,2022-10-29 11:00:00,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,2022,14,Bournemouth,Tottenham,2,3,1,0,2,3,Tottenham,29,10,2022,5,11,Bournemouth
+868079,2022-10-29 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",A. Madley,2022,14,Brighton,Chelsea,4,1,3,0,4,1,Brighton,29,10,2022,5,11,Chelsea
+868080,2022-10-29 11:00:00,Selhurst Park,London,M. Salisbury,2022,14,Crystal Palace,Southampton,1,0,1,0,1,0,Crystal Palace,29,10,2022,5,11,Southampton
+868078,2022-10-29 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",R. Madley,2022,14,Brentford,Wolves,1,1,0,0,1,1,Draw,29,10,2022,5,11,Draw
+868081,2022-10-29 13:30:00,Craven Cottage,London,J. Brooks,2022,14,Fulham,Everton,0,0,0,0,0,0,Draw,29,10,2022,5,13,Draw
+868083,2022-10-29 15:45:00,Anfield,Liverpool,M. Oliver,2022,14,Liverpool,Leeds,1,2,1,1,1,2,Leeds,29,10,2022,5,15,Liverpool
+868077,2022-10-30 11:00:00,Emirates Stadium,London,S. Hooper,2022,14,Arsenal,Nottingham Forest,5,0,1,0,5,0,Arsenal,30,10,2022,6,11,Nottingham Forest
+868084,2022-10-30 13:15:00,Old Trafford,Manchester,C. Kavanagh,2022,14,Manchester United,West Ham,1,0,1,0,1,0,Manchester United,30,10,2022,6,13,West Ham
+868095,2022-11-05 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",G. Scott,2022,15,Wolves,Brighton,2,3,2,2,2,3,Brighton,5,11,2022,5,12,Wolves
+868090,2022-11-05 12:00:00,Etihad Stadium,Manchester,D. England,2022,15,Manchester City,Fulham,2,1,1,1,2,1,Manchester City,5,11,2022,5,12,Fulham
+868089,2022-11-05 12:00:00,Elland Road,"Leeds, West Yorkshire",T. Harrington,2022,15,Leeds,Bournemouth,4,3,1,2,4,3,Leeds,5,11,2022,5,12,Bournemouth
+868091,2022-11-05 12:00:00,The City Ground,"Nottingham, Nottinghamshire",A. Marriner,2022,15,Nottingham Forest,Brentford,2,2,1,1,2,2,Draw,5,11,2022,5,12,Draw
+868088,2022-11-05 14:30:00,Goodison Park,Liverpool,D. Coote,2022,15,Everton,Leicester,0,2,0,1,0,2,Leicester,5,11,2022,5,14,Everton
+868087,2022-11-06 09:00:00,Stamford Bridge,London,M. Oliver,2022,15,Chelsea,Arsenal,0,1,0,0,0,1,Arsenal,6,11,2022,6,9,Chelsea
+868092,2022-11-06 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",S. Attwell,2022,15,Southampton,Newcastle,1,4,0,1,1,4,Newcastle,6,11,2022,6,11,Southampton
+868094,2022-11-06 11:00:00,London Stadium,London,P. Tierney,2022,15,West Ham,Crystal Palace,1,2,1,1,1,2,Crystal Palace,6,11,2022,6,11,West Ham
+868086,2022-11-06 11:00:00,Villa Park,Birmingham,A. Taylor,2022,15,Aston Villa,Manchester United,3,1,2,1,3,1,Aston Villa,6,11,2022,6,11,Manchester United
+868093,2022-11-06 13:30:00,Tottenham Hotspur Stadium,London,A. Madley,2022,15,Tottenham,Liverpool,1,2,0,2,1,2,Liverpool,6,11,2022,6,13,Tottenham
+868100,2022-11-12 09:30:00,Etihad Stadium,Manchester,P. Bankes,2022,16,Manchester City,Brentford,1,2,1,1,1,2,Brentford,12,11,2022,5,9,Manchester City
+868096,2022-11-12 12:00:00,Vitality Stadium,"Bournemouth, Dorset",C. Pawson,2022,16,Bournemouth,Everton,3,0,2,0,3,0,Bournemouth,12,11,2022,5,12,Everton
+868099,2022-11-12 12:00:00,Anfield,Liverpool,S. Hooper,2022,16,Liverpool,Southampton,3,1,3,1,3,1,Liverpool,12,11,2022,5,12,Southampton
+868103,2022-11-12 12:00:00,Tottenham Hotspur Stadium,London,M. Salisbury,2022,16,Tottenham,Leeds,4,3,1,2,4,3,Tottenham,12,11,2022,5,12,Leeds
+868104,2022-11-12 12:00:00,London Stadium,London,J. Gillett,2022,16,West Ham,Leicester,0,2,0,1,0,2,Leicester,12,11,2022,5,12,West Ham
+868102,2022-11-12 12:00:00,The City Ground,"Nottingham, Nottinghamshire",J. Brooks,2022,16,Nottingham Forest,Crystal Palace,1,0,0,0,1,0,Nottingham Forest,12,11,2022,5,12,Crystal Palace
+868101,2022-11-12 14:30:00,St. James' Park,Newcastle upon Tyne,R. Jones,2022,16,Newcastle,Chelsea,1,0,0,0,1,0,Newcastle,12,11,2022,5,14,Chelsea
+868105,2022-11-12 16:45:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Attwell,2022,16,Wolves,Arsenal,0,2,0,0,0,2,Arsenal,12,11,2022,5,16,Wolves
+868097,2022-11-13 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",C. Kavanagh,2022,16,Brighton,Aston Villa,1,2,1,1,1,2,Aston Villa,13,11,2022,6,11,Brighton
+868098,2022-11-13 13:30:00,Craven Cottage,London,P. Tierney,2022,16,Fulham,Manchester United,1,2,0,1,1,2,Manchester United,13,11,2022,6,13,Fulham
+868108,2022-12-26 09:30:00,Gtech Community Stadium,"Brentford, Middlesex",D. Coote,2022,17,Brentford,Tottenham,2,2,1,0,2,2,Draw,26,12,2022,0,9,Draw
+868115,2022-12-26 12:00:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2022,17,Southampton,Brighton,1,3,0,2,1,3,Brighton,26,12,2022,0,12,Southampton
+868111,2022-12-26 12:00:00,Goodison Park,Liverpool,C. Pawson,2022,17,Everton,Wolves,1,2,1,1,1,2,Wolves,26,12,2022,0,12,Everton
+868113,2022-12-26 12:00:00,King Power Stadium,"Leicester, Leicestershire",J. Gillett,2022,17,Leicester,Newcastle,0,3,0,3,0,3,Newcastle,26,12,2022,0,12,Leicester
+868110,2022-12-26 12:00:00,Selhurst Park,London,A. Madley,2022,17,Crystal Palace,Fulham,0,3,0,1,0,3,Fulham,26,12,2022,0,12,Crystal Palace
+868107,2022-12-26 14:30:00,Villa Park,Birmingham,P. Tierney,2022,17,Aston Villa,Liverpool,1,3,0,2,1,3,Liverpool,26,12,2022,0,14,Aston Villa
+868106,2022-12-26 17:00:00,Emirates Stadium,London,M. Oliver,2022,17,Arsenal,West Ham,3,1,0,1,3,1,Arsenal,26,12,2022,0,17,West Ham
+868109,2022-12-27 14:30:00,Stamford Bridge,London,S. Hooper,2022,17,Chelsea,Bournemouth,2,0,2,0,2,0,Chelsea,27,12,2022,1,14,Bournemouth
+868114,2022-12-27 17:00:00,Old Trafford,Manchester,A. Taylor,2022,17,Manchester United,Nottingham Forest,3,0,2,0,3,0,Manchester United,27,12,2022,1,17,Nottingham Forest
+868112,2022-12-28 17:00:00,Elland Road,"Leeds, West Yorkshire",S. Attwell,2022,17,Leeds,Manchester City,1,3,0,1,1,3,Manchester City,28,12,2022,2,17,Leeds
+868124,2022-12-30 16:45:00,London Stadium,London,D. England,2022,18,West Ham,Brentford,0,2,0,2,0,2,Brentford,30,12,2022,4,16,West Ham
+868119,2022-12-30 17:00:00,Anfield,Liverpool,C. Pawson,2022,18,Liverpool,Leicester,2,1,2,1,2,1,Liverpool,30,12,2022,4,17,Leicester
+868125,2022-12-31 09:30:00,Molineux Stadium,"Wolverhampton, West Midlands",R. Jones,2022,18,Wolves,Manchester United,0,1,0,0,0,1,Manchester United,31,12,2022,5,9,Wolves
+868121,2022-12-31 12:00:00,St. James' Park,Newcastle upon Tyne,S. Hooper,2022,18,Newcastle,Leeds,0,0,0,0,0,0,Draw,31,12,2022,5,12,Draw
+868116,2022-12-31 12:00:00,Vitality Stadium,"Bournemouth, Dorset",A. Marriner,2022,18,Bournemouth,Crystal Palace,0,2,0,2,0,2,Crystal Palace,31,12,2022,5,12,Bournemouth
+868118,2022-12-31 12:00:00,Craven Cottage,London,G. Scott,2022,18,Fulham,Southampton,2,1,1,0,2,1,Fulham,31,12,2022,5,12,Southampton
+868120,2022-12-31 12:00:00,Etihad Stadium,Manchester,A. Madley,2022,18,Manchester City,Everton,1,1,1,0,1,1,Draw,31,12,2022,5,12,Draw
+868117,2022-12-31 14:30:00,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,2022,18,Brighton,Arsenal,2,4,0,2,2,4,Arsenal,31,12,2022,5,14,Brighton
+868123,2023-01-01 11:00:00,Tottenham Hotspur Stadium,London,J. Brooks,2022,18,Tottenham,Aston Villa,0,2,0,0,0,2,Aston Villa,1,1,2023,6,11,Tottenham
+868122,2023-01-01 13:30:00,The City Ground,"Nottingham, Nottinghamshire",P. Bankes,2022,18,Nottingham Forest,Chelsea,1,1,0,1,1,1,Draw,1,1,2023,6,13,Draw
+868128,2023-01-02 14:30:00,Gtech Community Stadium,"Brentford, Middlesex",S. Attwell,2022,19,Brentford,Liverpool,3,1,2,0,3,1,Brentford,2,1,2023,0,14,Liverpool
+868126,2023-01-03 16:45:00,Emirates Stadium,London,A. Madley,2022,19,Arsenal,Newcastle,0,0,0,0,0,0,Draw,3,1,2023,1,16,Draw
+868131,2023-01-03 16:45:00,Goodison Park,Liverpool,A. Marriner,2022,19,Everton,Brighton,1,4,0,1,1,4,Brighton,3,1,2023,1,16,Everton
+868133,2023-01-03 16:45:00,King Power Stadium,"Leicester, Leicestershire",D. Bond,2022,19,Leicester,Fulham,0,1,0,1,0,1,Fulham,3,1,2023,1,16,Leicester
+868134,2023-01-03 17:00:00,Old Trafford,Manchester,M. Salisbury,2022,19,Manchester United,Bournemouth,3,0,1,0,3,0,Manchester United,3,1,2023,1,17,Bournemouth
+868135,2023-01-04 16:30:00,St. Mary's Stadium,"Southampton, Hampshire",T. Bramall,2022,19,Southampton,Nottingham Forest,0,1,0,1,0,1,Nottingham Forest,4,1,2023,2,16,Southampton
+868132,2023-01-04 16:45:00,Elland Road,"Leeds, West Yorkshire",D. Coote,2022,19,Leeds,West Ham,2,2,1,1,2,2,Draw,4,1,2023,2,16,Draw
+868130,2023-01-04 17:00:00,Selhurst Park,London,M. Oliver,2022,19,Crystal Palace,Tottenham,0,4,0,0,0,4,Tottenham,4,1,2023,2,17,Crystal Palace
+868127,2023-01-04 17:00:00,Villa Park,Birmingham,J. Gillett,2022,19,Aston Villa,Wolves,1,1,0,1,1,1,Draw,4,1,2023,2,17,Draw
+868129,2023-01-05 17:00:00,Stamford Bridge,London,P. Tierney,2022,19,Chelsea,Manchester City,0,1,0,0,0,1,Manchester City,5,1,2023,3,17,Chelsea
+868009,2023-01-12 17:00:00,Craven Cottage,London,D. Coote,2022,7,Fulham,Chelsea,2,1,1,0,2,1,Fulham,12,1,2023,3,17,Chelsea
+868136,2023-01-13 17:00:00,Villa Park,Birmingham,M. Oliver,2022,20,Aston Villa,Leeds,2,1,1,0,2,1,Aston Villa,13,1,2023,4,17,Leeds
+868141,2023-01-14 09:30:00,Old Trafford,Manchester,S. Attwell,2022,20,Manchester United,Manchester City,2,1,0,0,2,1,Manchester United,14,1,2023,5,9,Manchester City
+868145,2023-01-14 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Hooper,2022,20,Wolves,West Ham,1,0,0,0,1,0,Wolves,14,1,2023,5,12,West Ham
+868140,2023-01-14 12:00:00,Goodison Park,Liverpool,J. Brooks,2022,20,Everton,Southampton,1,2,1,0,1,2,Southampton,14,1,2023,5,12,Everton
+868138,2023-01-14 12:00:00,The American Express Community Stadium,"Falmer, East Sussex",D. England,2022,20,Brighton,Liverpool,3,0,0,0,3,0,Brighton,14,1,2023,5,12,Liverpool
+868143,2023-01-14 12:00:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2022,20,Nottingham Forest,Leicester,2,0,0,0,2,0,Nottingham Forest,14,1,2023,5,12,Leicester
+868137,2023-01-14 14:30:00,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,2022,20,Brentford,Bournemouth,2,0,1,0,2,0,Brentford,14,1,2023,5,14,Bournemouth
+868142,2023-01-15 11:00:00,St. James' Park,Newcastle upon Tyne,R. Jones,2022,20,Newcastle,Fulham,1,0,0,0,1,0,Newcastle,15,1,2023,6,11,Fulham
+868139,2023-01-15 11:00:00,Stamford Bridge,London,P. Bankes,2022,20,Chelsea,Crystal Palace,1,0,0,0,1,0,Chelsea,15,1,2023,6,11,Crystal Palace
+868144,2023-01-15 13:30:00,Tottenham Hotspur Stadium,London,C. Pawson,2022,20,Tottenham,Arsenal,0,2,0,2,0,2,Arsenal,15,1,2023,6,13,Tottenham
+868008,2023-01-18 17:00:00,Selhurst Park,London,R. Jones,2022,7,Crystal Palace,Manchester United,1,1,0,1,1,1,Draw,18,1,2023,2,17,Draw
+868013,2023-01-19 17:00:00,Etihad Stadium,Manchester,S. Hooper,2022,7,Manchester City,Tottenham,4,2,0,2,4,2,Manchester City,19,1,2023,3,17,Tottenham
+868152,2023-01-21 09:30:00,Anfield,Liverpool,M. Oliver,2022,21,Liverpool,Chelsea,0,0,0,0,0,0,Draw,21,1,2023,5,9,Draw
+868146,2023-01-21 12:00:00,Vitality Stadium,"Bournemouth, Dorset",A. Madley,2022,21,Bournemouth,Nottingham Forest,1,1,1,0,1,1,Draw,21,1,2023,5,12,Draw
+868154,2023-01-21 12:00:00,St. Mary's Stadium,"Southampton, Hampshire",M. Salisbury,2022,21,Southampton,Aston Villa,0,1,0,0,0,1,Aston Villa,21,1,2023,5,12,Southampton
+868151,2023-01-21 12:00:00,King Power Stadium,"Leicester, Leicestershire",T. Bramall,2022,21,Leicester,Brighton,2,2,1,1,2,2,Draw,21,1,2023,5,12,Draw
+868155,2023-01-21 12:00:00,London Stadium,London,S. Attwell,2022,21,West Ham,Everton,2,0,2,0,2,0,West Ham,21,1,2023,5,12,Everton
+868148,2023-01-21 14:30:00,Selhurst Park,London,C. Pawson,2022,21,Crystal Palace,Newcastle,0,0,0,0,0,0,Draw,21,1,2023,5,14,Draw
+868153,2023-01-22 11:00:00,Etihad Stadium,Manchester,D. Coote,2022,21,Manchester City,Wolves,3,0,1,0,3,0,Manchester City,22,1,2023,6,11,Wolves
+868150,2023-01-22 11:00:00,Elland Road,"Leeds, West Yorkshire",P. Bankes,2022,21,Leeds,Brentford,0,0,0,0,0,0,Draw,22,1,2023,6,11,Draw
+868147,2023-01-22 13:30:00,Emirates Stadium,London,A. Taylor,2022,21,Arsenal,Manchester United,3,2,1,1,3,2,Arsenal,22,1,2023,6,13,Manchester United
+868149,2023-01-23 17:00:00,Craven Cottage,London,P. Tierney,2022,21,Fulham,Tottenham,0,1,0,1,0,1,Tottenham,23,1,2023,0,17,Fulham
+868159,2023-02-03 17:00:00,Stamford Bridge,London,S. Attwell,2022,22,Chelsea,Fulham,0,0,0,0,0,0,Draw,3,2,2023,4,17,Draw
+868160,2023-02-04 09:30:00,Goodison Park,Liverpool,D. Coote,2022,22,Everton,Arsenal,1,0,0,0,1,0,Everton,4,2,2023,5,9,Arsenal
+868161,2023-02-04 12:00:00,Old Trafford,Manchester,A. Marriner,2022,22,Manchester United,Crystal Palace,2,1,1,0,2,1,Manchester United,4,2,2023,5,12,Crystal Palace
+868165,2023-02-04 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Tierney,2022,22,Wolves,Liverpool,3,0,2,0,3,0,Wolves,4,2,2023,5,12,Liverpool
+868158,2023-02-04 12:00:00,The American Express Community Stadium,"Falmer, East Sussex",C. Pawson,2022,22,Brighton,Bournemouth,1,0,0,0,1,0,Brighton,4,2,2023,5,12,Bournemouth
+868157,2023-02-04 12:00:00,Gtech Community Stadium,"Brentford, Middlesex",D. Bond,2022,22,Brentford,Southampton,3,0,2,0,3,0,Brentford,4,2,2023,5,12,Southampton
+868156,2023-02-04 12:00:00,Villa Park,Birmingham,D. England,2022,22,Aston Villa,Leicester,2,4,2,3,2,4,Leicester,4,2,2023,5,12,Aston Villa
+868162,2023-02-04 14:30:00,St. James' Park,Newcastle upon Tyne,P. Bankes,2022,22,Newcastle,West Ham,1,1,1,1,1,1,Draw,4,2,2023,5,14,Draw
+868163,2023-02-05 11:00:00,The City Ground,"Nottingham, Nottinghamshire",R. Jones,2022,22,Nottingham Forest,Leeds,1,0,1,0,1,0,Nottingham Forest,5,2,2023,6,11,Leeds
+868164,2023-02-05 13:30:00,Tottenham Hotspur Stadium,London,A. Madley,2022,22,Tottenham,Manchester City,1,0,1,0,1,0,Tottenham,5,2,2023,6,13,Manchester City
+868021,2023-02-08 17:00:00,Old Trafford,Manchester,S. Hooper,2022,8,Manchester United,Leeds,2,2,0,1,2,2,Draw,8,2,2023,2,17,Draw
+868175,2023-02-11 09:30:00,London Stadium,London,C. Pawson,2022,23,West Ham,Chelsea,1,1,1,1,1,1,Draw,11,2,2023,5,9,Draw
+868169,2023-02-11 12:00:00,Craven Cottage,London,A. Madley,2022,23,Fulham,Nottingham Forest,2,0,1,0,2,0,Fulham,11,2,2023,5,12,Nottingham Forest
+868174,2023-02-11 12:00:00,St. Mary's Stadium,"Southampton, Hampshire",J. Gillett,2022,23,Southampton,Wolves,1,2,1,0,1,2,Wolves,11,2,2023,5,12,Southampton
+868167,2023-02-11 12:00:00,Emirates Stadium,London,P. Bankes,2022,23,Arsenal,Brentford,1,1,0,0,1,1,Draw,11,2,2023,5,12,Draw
+868171,2023-02-11 12:00:00,King Power Stadium,"Leicester, Leicestershire",M. Salisbury,2022,23,Leicester,Tottenham,4,1,3,1,4,1,Leicester,11,2,2023,5,12,Tottenham
+868168,2023-02-11 12:00:00,Selhurst Park,London,M. Oliver,2022,23,Crystal Palace,Brighton,1,1,0,0,1,1,Draw,11,2,2023,5,12,Draw
+868166,2023-02-11 14:30:00,Vitality Stadium,"Bournemouth, Dorset",S. Attwell,2022,23,Bournemouth,Newcastle,1,1,1,1,1,1,Draw,11,2,2023,5,14,Draw
+868170,2023-02-12 11:00:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2022,23,Leeds,Manchester United,0,2,0,0,0,2,Manchester United,12,2,2023,6,11,Leeds
+868173,2023-02-12 13:30:00,Etihad Stadium,Manchester,R. Jones,2022,23,Manchester City,Aston Villa,3,1,3,0,3,1,Manchester City,12,2,2023,6,13,Aston Villa
+868172,2023-02-13 17:00:00,Anfield,Liverpool,S. Hooper,2022,23,Liverpool,Everton,2,0,1,0,2,0,Liverpool,13,2,2023,0,17,Everton
+868057,2023-02-15 16:30:00,Emirates Stadium,London,A. Taylor,2022,12,Arsenal,Manchester City,1,3,1,1,1,3,Manchester City,15,2,2023,2,16,Arsenal
+868176,2023-02-18 09:30:00,Villa Park,Birmingham,S. Hooper,2022,24,Aston Villa,Arsenal,2,4,2,1,2,4,Arsenal,18,2,2023,5,9,Aston Villa
+868185,2023-02-18 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Salisbury,2022,24,Wolves,Bournemouth,0,1,0,0,0,1,Bournemouth,18,2,2023,5,12,Wolves
+868180,2023-02-18 12:00:00,Goodison Park,Liverpool,A. Madley,2022,24,Everton,Leeds,1,0,0,0,1,0,Everton,18,2,2023,5,12,Leeds
+868179,2023-02-18 12:00:00,Stamford Bridge,London,D. Coote,2022,24,Chelsea,Southampton,0,1,0,1,0,1,Southampton,18,2,2023,5,12,Chelsea
+868178,2023-02-18 12:00:00,The American Express Community Stadium,"Falmer, East Sussex",D. England,2022,24,Brighton,Fulham,0,1,0,0,0,1,Fulham,18,2,2023,5,12,Brighton
+868177,2023-02-18 12:00:00,Gtech Community Stadium,"Brentford, Middlesex",P. Tierney,2022,24,Brentford,Crystal Palace,1,1,0,0,1,1,Draw,18,2,2023,5,12,Draw
+868183,2023-02-18 12:00:00,The City Ground,"Nottingham, Nottinghamshire",G. Scott,2022,24,Nottingham Forest,Manchester City,1,1,0,1,1,1,Draw,18,2,2023,5,12,Draw
+868182,2023-02-18 14:30:00,St. James' Park,Newcastle upon Tyne,A. Taylor,2022,24,Newcastle,Liverpool,0,2,0,2,0,2,Liverpool,18,2,2023,5,14,Newcastle
+868181,2023-02-19 11:00:00,Old Trafford,Manchester,S. Attwell,2022,24,Manchester United,Leicester,3,0,1,0,3,0,Manchester United,19,2,2023,6,11,Leicester
+868184,2023-02-19 13:30:00,Tottenham Hotspur Stadium,London,M. Oliver,2022,24,Tottenham,West Ham,2,0,0,0,2,0,Tottenham,19,2,2023,6,13,West Ham
+868189,2023-02-24 17:00:00,Craven Cottage,London,M. Oliver,2022,25,Fulham,Wolves,1,1,0,1,1,1,Draw,24,2,2023,4,17,Draw
+868188,2023-02-25 12:00:00,Goodison Park,Liverpool,A. Taylor,2022,25,Everton,Aston Villa,0,2,0,0,0,2,Aston Villa,25,2,2023,5,12,Everton
+868191,2023-02-25 12:00:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2022,25,Leicester,Arsenal,0,1,0,0,0,1,Arsenal,25,2,2023,5,12,Leicester
+868195,2023-02-25 12:00:00,London Stadium,London,J. Gillett,2022,25,West Ham,Nottingham Forest,4,0,0,0,4,0,West Ham,25,2,2023,5,12,Nottingham Forest
+868190,2023-02-25 12:00:00,Elland Road,"Leeds, West Yorkshire",P. Bankes,2022,25,Leeds,Southampton,1,0,0,0,1,0,Leeds,25,2,2023,5,12,Southampton
+868186,2023-02-25 14:30:00,Vitality Stadium,"Bournemouth, Dorset",P. Tierney,2022,25,Bournemouth,Manchester City,1,4,0,3,1,4,Manchester City,25,2,2023,5,14,Bournemouth
+868187,2023-02-25 16:45:00,Selhurst Park,London,D. England,2022,25,Crystal Palace,Liverpool,0,0,0,0,0,0,Draw,25,2,2023,5,16,Draw
+868194,2023-02-26 10:30:00,Tottenham Hotspur Stadium,London,S. Attwell,2022,25,Tottenham,Chelsea,2,0,0,0,2,0,Tottenham,26,2,2023,6,10,Chelsea
+868007,2023-03-01 16:45:00,Emirates Stadium,London,M. Oliver,2022,7,Arsenal,Everton,4,0,2,0,4,0,Arsenal,1,3,2023,2,16,Everton
+868012,2023-03-01 17:00:00,Anfield,Liverpool,P. Tierney,2022,7,Liverpool,Wolves,2,0,0,0,2,0,Liverpool,1,3,2023,2,17,Wolves
+868202,2023-03-04 09:30:00,Etihad Stadium,Manchester,S. Hooper,2022,26,Manchester City,Newcastle,2,0,1,0,2,0,Manchester City,4,3,2023,5,9,Newcastle
+868205,2023-03-04 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Robinson,2022,26,Wolves,Tottenham,1,0,0,0,1,0,Wolves,4,3,2023,5,12,Tottenham
+868196,2023-03-04 12:00:00,Emirates Stadium,London,C. Kavanagh,2022,26,Arsenal,Bournemouth,3,2,0,1,3,2,Arsenal,4,3,2023,5,12,Bournemouth
+868200,2023-03-04 12:00:00,Stamford Bridge,London,M. Oliver,2022,26,Chelsea,Leeds,1,0,0,0,1,0,Chelsea,4,3,2023,5,12,Leeds
+868199,2023-03-04 12:00:00,The American Express Community Stadium,"Falmer, East Sussex",S. Attwell,2022,26,Brighton,West Ham,4,0,1,0,4,0,Brighton,4,3,2023,5,12,West Ham
+868197,2023-03-04 12:00:00,Villa Park,Birmingham,C. Pawson,2022,26,Aston Villa,Crystal Palace,1,0,1,0,1,0,Aston Villa,4,3,2023,5,12,Crystal Palace
+868204,2023-03-04 14:30:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2022,26,Southampton,Leicester,1,0,1,0,1,0,Southampton,4,3,2023,5,14,Leicester
+868203,2023-03-05 11:00:00,The City Ground,"Nottingham, Nottinghamshire",J. Brooks,2022,26,Nottingham Forest,Everton,2,2,1,2,2,2,Draw,5,3,2023,6,11,Draw
+868201,2023-03-05 13:30:00,Anfield,Liverpool,A. Madley,2022,26,Liverpool,Manchester United,7,0,1,0,7,0,Liverpool,5,3,2023,6,13,Manchester United
+868198,2023-03-06 17:00:00,Gtech Community Stadium,"Brentford, Middlesex",A. Taylor,2022,26,Brentford,Fulham,3,2,1,1,3,2,Brentford,6,3,2023,0,17,Fulham
+868206,2023-03-11 09:30:00,Vitality Stadium,"Bournemouth, Dorset",J. Brooks,2022,27,Bournemouth,Liverpool,1,0,1,0,1,0,Bournemouth,11,3,2023,5,9,Liverpool
+868208,2023-03-11 12:00:00,Goodison Park,Liverpool,S. Hooper,2022,27,Everton,Brentford,1,0,1,0,1,0,Everton,11,3,2023,5,12,Brentford
+868211,2023-03-11 12:00:00,King Power Stadium,"Leicester, Leicestershire",A. Marriner,2022,27,Leicester,Chelsea,1,3,1,2,1,3,Chelsea,11,3,2023,5,12,Leicester
+868214,2023-03-11 12:00:00,Tottenham Hotspur Stadium,London,C. Pawson,2022,27,Tottenham,Nottingham Forest,3,1,2,0,3,1,Tottenham,11,3,2023,5,12,Nottingham Forest
+868210,2023-03-11 12:00:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2022,27,Leeds,Brighton,2,2,1,1,2,2,Draw,11,3,2023,5,12,Draw
+868207,2023-03-11 14:30:00,Selhurst Park,London,R. Jones,2022,27,Crystal Palace,Manchester City,0,1,0,0,0,1,Manchester City,11,3,2023,5,14,Crystal Palace
+868212,2023-03-12 11:00:00,Old Trafford,Manchester,A. Taylor,2022,27,Manchester United,Southampton,0,0,0,0,0,0,Draw,12,3,2023,6,11,Draw
+868209,2023-03-12 11:00:00,Craven Cottage,London,D. Coote,2022,27,Fulham,Arsenal,0,3,0,3,0,3,Arsenal,12,3,2023,6,11,Fulham
+868215,2023-03-12 11:00:00,London Stadium,London,C. Kavanagh,2022,27,West Ham,Aston Villa,1,1,1,1,1,1,Draw,12,3,2023,6,11,Draw
+868213,2023-03-12 13:30:00,St. James' Park,Newcastle upon Tyne,A. Madley,2022,27,Newcastle,Wolves,2,1,1,0,2,1,Newcastle,12,3,2023,6,13,Wolves
+868014,2023-03-15 16:30:00,St. Mary's Stadium,"Southampton, Hampshire",M. Salisbury,2022,7,Southampton,Brentford,0,2,0,1,0,2,Brentford,15,3,2023,2,16,Southampton
+868018,2023-03-15 16:30:00,The American Express Community Stadium,"Falmer, East Sussex",P. Bankes,2022,8,Brighton,Crystal Palace,1,0,1,0,1,0,Brighton,15,3,2023,2,16,Crystal Palace
+868223,2023-03-17 17:00:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2022,28,Nottingham Forest,Newcastle,1,2,1,1,1,2,Newcastle,17,3,2023,4,17,Nottingham Forest
+868225,2023-03-18 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Salisbury,2022,28,Wolves,Leeds,2,4,0,1,2,4,Leeds,18,3,2023,5,12,Wolves
+868224,2023-03-18 12:00:00,St. Mary's Stadium,"Southampton, Hampshire",S. Hooper,2022,28,Southampton,Tottenham,3,3,0,1,3,3,Draw,18,3,2023,5,12,Draw
+868218,2023-03-18 12:00:00,Gtech Community Stadium,"Brentford, Middlesex",D. Bond,2022,28,Brentford,Leicester,1,1,1,0,1,1,Draw,18,3,2023,5,12,Draw
+868217,2023-03-18 12:00:00,Villa Park,Birmingham,R. Jones,2022,28,Aston Villa,Bournemouth,3,0,1,0,3,0,Aston Villa,18,3,2023,5,12,Bournemouth
+868220,2023-03-18 14:30:00,Stamford Bridge,London,D. England,2022,28,Chelsea,Everton,2,2,0,0,2,2,Draw,18,3,2023,5,14,Draw
+868216,2023-03-19 11:00:00,Emirates Stadium,London,S. Attwell,2022,28,Arsenal,Crystal Palace,4,1,2,0,4,1,Arsenal,19,3,2023,6,11,Crystal Palace
+868232,2023-04-01 08:30:00,Etihad Stadium,Manchester,S. Hooper,2022,29,Manchester City,Liverpool,4,1,1,1,4,1,Manchester City,1,4,2023,5,8,Liverpool
+868226,2023-04-01 11:00:00,Vitality Stadium,"Bournemouth, Dorset",P. Bankes,2022,29,Bournemouth,Fulham,2,1,0,1,2,1,Bournemouth,1,4,2023,5,11,Fulham
+868227,2023-04-01 11:00:00,Emirates Stadium,London,D. England,2022,29,Arsenal,Leeds,4,1,1,0,4,1,Arsenal,1,4,2023,5,11,Leeds
+868228,2023-04-01 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",M. Oliver,2022,29,Brighton,Brentford,3,3,2,2,3,3,Draw,1,4,2023,5,11,Draw
+868230,2023-04-01 11:00:00,Selhurst Park,London,T. Robinson,2022,29,Crystal Palace,Leicester,2,1,0,0,2,1,Crystal Palace,1,4,2023,5,11,Leicester
+868234,2023-04-01 11:00:00,The City Ground,"Nottingham, Nottinghamshire",C. Kavanagh,2022,29,Nottingham Forest,Wolves,1,1,1,0,1,1,Draw,1,4,2023,5,11,Draw
+868229,2023-04-01 13:30:00,Stamford Bridge,London,A. Madley,2022,29,Chelsea,Aston Villa,0,2,0,1,0,2,Aston Villa,1,4,2023,5,13,Chelsea
+868235,2023-04-02 10:00:00,London Stadium,London,P. Tierney,2022,29,West Ham,Southampton,1,0,1,0,1,0,West Ham,2,4,2023,6,10,Southampton
+868233,2023-04-02 12:30:00,St. James' Park,Newcastle upon Tyne,S. Attwell,2022,29,Newcastle,Manchester United,2,0,0,0,2,0,Newcastle,2,4,2023,6,12,Manchester United
+868231,2023-04-03 16:00:00,Goodison Park,Liverpool,D. Coote,2022,29,Everton,Tottenham,1,1,0,0,1,1,Draw,3,4,2023,0,16,Draw
+868006,2023-04-04 15:45:00,Vitality Stadium,"Bournemouth, Dorset",D. Bond,2022,7,Bournemouth,Brighton,0,2,0,1,0,2,Brighton,4,4,2023,1,15,Bournemouth
+868011,2023-04-04 15:45:00,King Power Stadium,"Leicester, Leicestershire",G. Scott,2022,7,Leicester,Aston Villa,1,2,1,1,1,2,Aston Villa,4,4,2023,1,15,Leicester
+868010,2023-04-04 15:45:00,Elland Road,"Leeds, West Yorkshire",R. Jones,2022,7,Leeds,Nottingham Forest,2,1,2,1,2,1,Leeds,4,4,2023,1,15,Nottingham Forest
+868019,2023-04-04 16:00:00,Stamford Bridge,London,A. Taylor,2022,8,Chelsea,Liverpool,0,0,0,0,0,0,Draw,4,4,2023,1,16,Draw
+868192,2023-04-05 16:00:00,Old Trafford,Manchester,J. Brooks,2022,25,Manchester United,Brentford,1,0,1,0,1,0,Manchester United,5,4,2023,2,16,Brentford
+868015,2023-04-05 16:00:00,London Stadium,London,C. Pawson,2022,7,West Ham,Newcastle,1,5,1,2,1,5,Newcastle,5,4,2023,2,16,West Ham
+868242,2023-04-08 08:30:00,Old Trafford,Manchester,M. Oliver,2022,30,Manchester United,Everton,2,0,1,0,2,0,Manchester United,8,4,2023,5,8,Everton
+868238,2023-04-08 11:00:00,Craven Cottage,London,J. Gillett,2022,30,Fulham,West Ham,0,1,0,1,0,1,West Ham,8,4,2023,5,11,Fulham
+868245,2023-04-08 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Bankes,2022,30,Wolves,Chelsea,1,0,1,0,1,0,Wolves,8,4,2023,5,11,Chelsea
+868240,2023-04-08 11:00:00,King Power Stadium,"Leicester, Leicestershire",D. Coote,2022,30,Leicester,Bournemouth,0,1,0,1,0,1,Bournemouth,8,4,2023,5,11,Leicester
+868244,2023-04-08 11:00:00,Tottenham Hotspur Stadium,London,S. Attwell,2022,30,Tottenham,Brighton,2,1,1,1,2,1,Tottenham,8,4,2023,5,11,Brighton
+868237,2023-04-08 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",C. Kavanagh,2022,30,Brentford,Newcastle,1,2,1,0,1,2,Newcastle,8,4,2023,5,11,Brentford
+868236,2023-04-08 11:00:00,Villa Park,Birmingham,A. Taylor,2022,30,Aston Villa,Nottingham Forest,2,0,0,0,2,0,Aston Villa,8,4,2023,5,11,Nottingham Forest
+868243,2023-04-08 13:30:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2022,30,Southampton,Manchester City,1,4,0,1,1,4,Manchester City,8,4,2023,5,13,Southampton
+868239,2023-04-09 10:00:00,Elland Road,"Leeds, West Yorkshire",S. Hooper,2022,30,Leeds,Crystal Palace,1,5,1,1,1,5,Crystal Palace,9,4,2023,6,10,Leeds
+868241,2023-04-09 12:30:00,Anfield,Liverpool,P. Tierney,2022,30,Liverpool,Arsenal,2,2,1,2,2,2,Draw,9,4,2023,6,12,Draw
+868246,2023-04-15 08:30:00,Villa Park,Birmingham,J. Brooks,2022,31,Aston Villa,Newcastle,3,0,1,0,3,0,Aston Villa,15,4,2023,5,8,Newcastle
+868255,2023-04-15 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Tierney,2022,31,Wolves,Brentford,2,0,1,0,2,0,Wolves,15,4,2023,5,11,Brentford
+868252,2023-04-15 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",M. Oliver,2022,31,Southampton,Crystal Palace,0,2,0,0,0,2,Crystal Palace,15,4,2023,5,11,Southampton
+868248,2023-04-15 11:00:00,Goodison Park,Liverpool,A. Taylor,2022,31,Everton,Fulham,1,3,1,1,1,3,Fulham,15,4,2023,5,11,Everton
+868247,2023-04-15 11:00:00,Stamford Bridge,London,R. Jones,2022,31,Chelsea,Brighton,1,2,1,1,1,2,Brighton,15,4,2023,5,11,Chelsea
+868253,2023-04-15 11:15:00,Tottenham Hotspur Stadium,London,A. Madley,2022,31,Tottenham,Bournemouth,2,3,1,1,2,3,Bournemouth,15,4,2023,5,11,Tottenham
+868250,2023-04-15 13:30:00,Etihad Stadium,Manchester,D. England,2022,31,Manchester City,Leicester,3,1,3,0,3,1,Manchester City,15,4,2023,5,13,Leicester
+868254,2023-04-16 10:00:00,London Stadium,London,D. Coote,2022,31,West Ham,Arsenal,2,2,1,2,2,2,Draw,16,4,2023,6,10,Draw
+868251,2023-04-16 12:30:00,The City Ground,"Nottingham, Nottinghamshire",S. Hooper,2022,31,Nottingham Forest,Manchester United,0,2,0,1,0,2,Manchester United,16,4,2023,6,12,Nottingham Forest
+868249,2023-04-17 16:00:00,Elland Road,"Leeds, West Yorkshire",C. Pawson,2022,31,Leeds,Liverpool,1,6,0,2,1,6,Liverpool,17,4,2023,0,16,Leeds
+868257,2023-04-21 16:00:00,Emirates Stadium,London,S. Hooper,2022,32,Arsenal,Southampton,3,3,1,2,3,3,Draw,21,4,2023,4,16,Draw
+868261,2023-04-22 08:30:00,Craven Cottage,London,P. Bankes,2022,32,Fulham,Leeds,2,1,0,0,2,1,Fulham,22,4,2023,5,8,Leeds
+868263,2023-04-22 11:00:00,Anfield,Liverpool,M. Oliver,2022,32,Liverpool,Nottingham Forest,3,2,0,0,3,2,Liverpool,22,4,2023,5,11,Nottingham Forest
+868262,2023-04-22 11:00:00,King Power Stadium,"Leicester, Leicestershire",A. Madley,2022,32,Leicester,Wolves,2,1,1,1,2,1,Leicester,22,4,2023,5,11,Wolves
+868260,2023-04-22 11:00:00,Selhurst Park,London,J. Brooks,2022,32,Crystal Palace,Everton,0,0,0,0,0,0,Draw,22,4,2023,5,11,Draw
+868258,2023-04-22 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",M. Salisbury,2022,32,Brentford,Aston Villa,1,1,0,0,1,1,Draw,22,4,2023,5,11,Draw
+868265,2023-04-23 10:00:00,St. James' Park,Newcastle upon Tyne,D. Coote,2022,32,Newcastle,Tottenham,6,1,5,0,6,1,Newcastle,23,4,2023,6,10,Tottenham
+868256,2023-04-23 10:00:00,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,2022,32,Bournemouth,West Ham,0,4,0,3,0,4,West Ham,23,4,2023,6,10,Bournemouth
+868271,2023-04-25 15:30:00,Molineux Stadium,"Wolverhampton, West Midlands",R. Jones,2022,33,Wolves,Crystal Palace,2,0,1,0,2,0,Wolves,25,4,2023,1,15,Crystal Palace
+868272,2023-04-25 15:45:00,Villa Park,Birmingham,T. Bramall,2022,33,Aston Villa,Fulham,1,0,1,0,1,0,Aston Villa,25,4,2023,1,15,Fulham
+868267,2023-04-25 16:00:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2022,33,Leeds,Leicester,1,1,1,0,1,1,Draw,25,4,2023,1,16,Draw
+868268,2023-04-26 15:30:00,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,2022,33,Nottingham Forest,Brighton,3,1,1,1,3,1,Nottingham Forest,26,4,2023,2,15,Brighton
+868270,2023-04-26 15:45:00,London Stadium,London,C. Kavanagh,2022,33,West Ham,Liverpool,1,2,1,1,1,2,Liverpool,26,4,2023,2,15,West Ham
+868273,2023-04-26 15:45:00,Stamford Bridge,London,A. Madley,2022,33,Chelsea,Brentford,0,2,0,1,0,2,Brentford,26,4,2023,2,15,Chelsea
+868275,2023-04-26 16:00:00,Etihad Stadium,Manchester,M. Oliver,2022,33,Manchester City,Arsenal,4,1,2,0,4,1,Manchester City,26,4,2023,2,16,Arsenal
+868274,2023-04-27 15:45:00,St. Mary's Stadium,"Southampton, Hampshire",D. England,2022,33,Southampton,Bournemouth,0,1,0,0,0,1,Bournemouth,27,4,2023,3,15,Southampton
+868266,2023-04-27 15:45:00,Goodison Park,Liverpool,A. Marriner,2022,33,Everton,Newcastle,1,4,0,1,1,4,Newcastle,27,4,2023,3,15,Everton
+868269,2023-04-27 16:15:00,Tottenham Hotspur Stadium,London,A. Taylor,2022,33,Tottenham,Manchester United,2,2,0,2,2,2,Draw,27,4,2023,3,16,Draw
+868280,2023-04-29 08:30:00,Selhurst Park,London,C. Pawson,2022,34,Crystal Palace,West Ham,4,3,3,2,4,3,Crystal Palace,29,4,2023,5,8,West Ham
+868279,2023-04-29 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",D. Coote,2022,34,Brighton,Wolves,6,0,4,0,6,0,Brighton,29,4,2023,5,11,Wolves
+868278,2023-04-29 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",P. Bankes,2022,34,Brentford,Nottingham Forest,2,1,0,1,2,1,Brentford,29,4,2023,5,11,Nottingham Forest
+868284,2023-04-30 10:00:00,Old Trafford,Manchester,J. Gillett,2022,34,Manchester United,Aston Villa,1,0,1,0,1,0,Manchester United,30,4,2023,6,10,Aston Villa
+868285,2023-04-30 10:00:00,St. James' Park,Newcastle upon Tyne,A. Taylor,2022,34,Newcastle,Southampton,3,1,0,1,3,1,Newcastle,30,4,2023,6,10,Southampton
+868276,2023-04-30 10:00:00,Vitality Stadium,"Bournemouth, Dorset",C. Kavanagh,2022,34,Bournemouth,Leeds,4,1,2,1,4,1,Bournemouth,30,4,2023,6,10,Leeds
+868281,2023-04-30 10:00:00,Craven Cottage,London,S. Hooper,2022,34,Fulham,Manchester City,1,2,1,2,1,2,Manchester City,30,4,2023,6,10,Fulham
+868283,2023-04-30 12:30:00,Anfield,Liverpool,P. Tierney,2022,34,Liverpool,Tottenham,4,3,3,1,4,3,Liverpool,30,4,2023,6,12,Tottenham
+868282,2023-05-01 16:00:00,King Power Stadium,"Leicester, Leicestershire",M. Oliver,2022,34,Leicester,Everton,2,2,2,1,2,2,Draw,1,5,2023,0,16,Draw
+868277,2023-05-02 16:00:00,Emirates Stadium,London,R. Jones,2022,34,Arsenal,Chelsea,3,1,3,0,3,1,Arsenal,2,5,2023,1,16,Chelsea
+868221,2023-05-03 16:00:00,Anfield,Liverpool,S. Attwell,2022,28,Liverpool,Fulham,1,0,1,0,1,0,Liverpool,3,5,2023,2,16,Fulham
+868222,2023-05-03 16:00:00,Etihad Stadium,Manchester,J. Brooks,2022,28,Manchester City,West Ham,3,0,0,0,3,0,Manchester City,3,5,2023,2,16,West Ham
+868219,2023-05-04 16:00:00,The American Express Community Stadium,"Falmer, East Sussex",A. Marriner,2022,28,Brighton,Manchester United,1,0,0,0,1,0,Brighton,4,5,2023,3,16,Manchester United
+868286,2023-05-06 11:00:00,Vitality Stadium,"Bournemouth, Dorset",J. Brooks,2022,35,Bournemouth,Chelsea,1,3,1,1,1,3,Chelsea,6,5,2023,5,11,Bournemouth
+868295,2023-05-06 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Attwell,2022,35,Wolves,Aston Villa,1,0,1,0,1,0,Wolves,6,5,2023,5,11,Aston Villa
+868293,2023-05-06 11:00:00,Tottenham Hotspur Stadium,London,D. England,2022,35,Tottenham,Crystal Palace,1,0,1,0,1,0,Tottenham,6,5,2023,5,11,Crystal Palace
+868290,2023-05-06 11:00:00,Etihad Stadium,Manchester,A. Madley,2022,35,Manchester City,Leeds,2,1,2,0,2,1,Manchester City,6,5,2023,5,11,Leeds
+868289,2023-05-06 13:30:00,Anfield,Liverpool,A. Taylor,2022,35,Liverpool,Brentford,1,0,1,0,1,0,Liverpool,6,5,2023,5,13,Brentford
+868291,2023-05-07 12:30:00,St. James' Park,Newcastle upon Tyne,C. Kavanagh,2022,35,Newcastle,Arsenal,0,2,0,1,0,2,Arsenal,7,5,2023,6,12,Newcastle
+868294,2023-05-07 15:00:00,London Stadium,London,P. Bankes,2022,35,West Ham,Manchester United,1,0,1,0,1,0,West Ham,7,5,2023,6,15,Manchester United
+868288,2023-05-08 11:00:00,Craven Cottage,London,R. Jones,2022,35,Fulham,Leicester,5,3,3,0,5,3,Fulham,8,5,2023,0,11,Leicester
+868287,2023-05-08 13:30:00,The American Express Community Stadium,"Falmer, East Sussex",S. Hooper,2022,35,Brighton,Everton,1,5,0,3,1,5,Everton,8,5,2023,0,13,Brighton
+868292,2023-05-08 16:00:00,The City Ground,"Nottingham, Nottinghamshire",M. Oliver,2022,35,Nottingham Forest,Southampton,4,3,3,1,4,3,Nottingham Forest,8,5,2023,0,16,Southampton
+868302,2023-05-13 08:30:00,Elland Road,"Leeds, West Yorkshire",S. Hooper,2022,36,Leeds,Newcastle,2,2,1,1,2,2,Draw,13,5,2023,5,8,Draw
+868304,2023-05-13 11:00:00,Old Trafford,Manchester,J. Brooks,2022,36,Manchester United,Wolves,2,0,1,0,2,0,Manchester United,13,5,2023,5,11,Wolves
+868305,2023-05-13 11:00:00,St. Mary's Stadium,"Southampton, Hampshire",T. Bramall,2022,36,Southampton,Fulham,0,2,0,0,0,2,Fulham,13,5,2023,5,11,Southampton
+868299,2023-05-13 11:00:00,Stamford Bridge,London,P. Tierney,2022,36,Chelsea,Nottingham Forest,2,2,0,1,2,2,Draw,13,5,2023,5,11,Draw
+868300,2023-05-13 11:00:00,Selhurst Park,London,M. Salisbury,2022,36,Crystal Palace,Bournemouth,2,0,1,0,2,0,Crystal Palace,13,5,2023,5,11,Bournemouth
+868297,2023-05-13 11:00:00,Villa Park,Birmingham,P. Bankes,2022,36,Aston Villa,Tottenham,2,1,1,0,2,1,Aston Villa,13,5,2023,5,11,Tottenham
+868301,2023-05-14 10:00:00,Goodison Park,Liverpool,A. Taylor,2022,36,Everton,Manchester City,0,3,0,2,0,3,Manchester City,14,5,2023,6,10,Everton
+868298,2023-05-14 10:00:00,Gtech Community Stadium,"Brentford, Middlesex",M. Oliver,2022,36,Brentford,West Ham,2,0,2,0,2,0,Brentford,14,5,2023,6,10,West Ham
+868296,2023-05-14 12:30:00,Emirates Stadium,London,A. Madley,2022,36,Arsenal,Brighton,0,3,0,0,0,3,Brighton,14,5,2023,6,12,Arsenal
+868303,2023-05-15 16:00:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2022,36,Leicester,Liverpool,0,3,0,2,0,3,Liverpool,15,5,2023,0,16,Leicester
+868193,2023-05-18 15:30:00,St. James' Park,Newcastle upon Tyne,R. Jones,2022,25,Newcastle,Brighton,4,1,2,0,4,1,Newcastle,18,5,2023,3,15,Brighton
+868313,2023-05-20 08:30:00,Tottenham Hotspur Stadium,London,J. Gillett,2022,37,Tottenham,Brentford,1,3,1,0,1,3,Brentford,20,5,2023,5,8,Tottenham
+868306,2023-05-20 11:00:00,Vitality Stadium,"Bournemouth, Dorset",C. Kavanagh,2022,37,Bournemouth,Manchester United,0,1,0,1,0,1,Manchester United,20,5,2023,5,11,Bournemouth
+868308,2023-05-20 11:00:00,Craven Cottage,London,J. Smith,2022,37,Fulham,Crystal Palace,2,2,1,1,2,2,Draw,20,5,2023,5,11,Draw
+868315,2023-05-20 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,2022,37,Wolves,Everton,1,1,1,0,1,1,Draw,20,5,2023,5,11,Draw
+868309,2023-05-20 11:00:00,Anfield,Liverpool,J. Brooks,2022,37,Liverpool,Aston Villa,1,1,0,1,1,1,Draw,20,5,2023,5,11,Draw
+868312,2023-05-20 13:30:00,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,2022,37,Nottingham Forest,Arsenal,1,0,1,0,1,0,Nottingham Forest,20,5,2023,5,13,Arsenal
+868314,2023-05-21 09:30:00,London Stadium,London,P. Bankes,2022,37,West Ham,Leeds,3,1,1,1,3,1,West Ham,21,5,2023,6,9,Leeds
+868307,2023-05-21 10:00:00,The American Express Community Stadium,"Falmer, East Sussex",P. Tierney,2022,37,Brighton,Southampton,3,1,2,0,3,1,Brighton,21,5,2023,6,10,Southampton
+868310,2023-05-21 12:00:00,Etihad Stadium,Manchester,M. Oliver,2022,37,Manchester City,Chelsea,1,0,1,0,1,0,Manchester City,21,5,2023,6,12,Chelsea
+868311,2023-05-22 16:00:00,St. James' Park,Newcastle upon Tyne,A. Marriner,2022,37,Newcastle,Leicester,0,0,0,0,0,0,Draw,22,5,2023,0,16,Draw
+868259,2023-05-24 16:00:00,The American Express Community Stadium,"Falmer, East Sussex",S. Hooper,2022,32,Brighton,Manchester City,1,1,1,1,1,1,Draw,24,5,2023,2,16,Draw
+868264,2023-05-25 16:00:00,Old Trafford,Manchester,S. Attwell,2022,32,Manchester United,Chelsea,4,1,2,0,4,1,Manchester United,25,5,2023,3,16,Chelsea
+868324,2023-05-28 12:30:00,Old Trafford,Manchester,R. Jones,2022,38,Manchester United,Fulham,2,1,1,1,2,1,Manchester United,28,5,2023,6,12,Fulham
+868325,2023-05-28 12:30:00,St. Mary's Stadium,"Southampton, Hampshire",D. England,2022,38,Southampton,Liverpool,4,4,2,2,4,4,Draw,28,5,2023,6,12,Draw
+868316,2023-05-28 12:30:00,Emirates Stadium,London,A. Marriner,2022,38,Arsenal,Wolves,5,0,3,0,5,0,Arsenal,28,5,2023,6,12,Wolves
+868321,2023-05-28 12:30:00,Goodison Park,Liverpool,S. Attwell,2022,38,Everton,Bournemouth,1,0,0,0,1,0,Everton,28,5,2023,6,12,Bournemouth
+868323,2023-05-28 12:30:00,King Power Stadium,"Leicester, Leicestershire",S. Hooper,2022,38,Leicester,West Ham,2,1,1,0,2,1,Leicester,28,5,2023,6,12,West Ham
+868319,2023-05-28 12:30:00,Stamford Bridge,London,J. Gillett,2022,38,Chelsea,Newcastle,1,1,1,1,1,1,Draw,28,5,2023,6,12,Draw
+868320,2023-05-28 12:30:00,Selhurst Park,London,T. Bramall,2022,38,Crystal Palace,Nottingham Forest,1,1,0,1,1,1,Draw,28,5,2023,6,12,Draw
+868318,2023-05-28 12:30:00,Gtech Community Stadium,"Brentford, Middlesex",J. Brooks,2022,38,Brentford,Manchester City,1,0,0,0,1,0,Brentford,28,5,2023,6,12,Manchester City
+868322,2023-05-28 12:30:00,Elland Road,"Leeds, West Yorkshire",A. Taylor,2022,38,Leeds,Tottenham,1,4,0,1,1,4,Tottenham,28,5,2023,6,12,Leeds
+868317,2023-05-28 12:30:00,Villa Park,Birmingham,D. Coote,2022,38,Aston Villa,Brighton,2,1,2,1,2,1,Aston Villa,28,5,2023,6,12,Brighton
+1035037,2023-08-11 16:00:00,Turf Moor,Burnley,C. Pawson,2023,1,Burnley,Manchester City,0,3,0,2,0,3,Manchester City,11,8,2023,4,16,Burnley
+1035038,2023-08-12 08:30:00,Emirates Stadium,London,M. Oliver,2023,1,Arsenal,Nottingham Forest,2,1,2,0,2,1,Arsenal,12,8,2023,5,8,Nottingham Forest
+1035039,2023-08-12 11:00:00,Vitality Stadium,"Bournemouth, Dorset",P. Bankes,2023,1,Bournemouth,West Ham,1,1,0,0,1,1,Draw,12,8,2023,5,11,Draw
+1035041,2023-08-12 11:00:00,Goodison Park,Liverpool,S. Attwell,2023,1,Everton,Fulham,0,1,0,0,0,1,Fulham,12,8,2023,5,11,Everton
+1035040,2023-08-12 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",D. Coote,2023,1,Brighton,Luton,4,1,1,0,4,1,Brighton,12,8,2023,5,11,Luton
+1035042,2023-08-12 11:00:00,Bramall Lane,Sheffield,J. Brooks,2023,1,Sheffield Utd,Crystal Palace,0,1,0,0,0,1,Crystal Palace,12,8,2023,5,11,Sheffield Utd
+1035043,2023-08-12 13:30:00,St. James' Park,Newcastle upon Tyne,A. Madley,2023,1,Newcastle,Aston Villa,5,1,2,1,5,1,Newcastle,12,8,2023,5,13,Aston Villa
+1035044,2023-08-13 10:00:00,Gtech Community Stadium,"Brentford, Middlesex",R. Jones,2023,1,Brentford,Tottenham,2,2,2,2,2,2,Draw,13,8,2023,6,10,Draw
+1035045,2023-08-13 12:30:00,Stamford Bridge,London,A. Taylor,2023,1,Chelsea,Liverpool,1,1,1,1,1,1,Draw,13,8,2023,6,12,Draw
+1035046,2023-08-14 16:00:00,Old Trafford,Manchester,S. Hooper,2023,1,Manchester United,Wolves,1,0,0,0,1,0,Manchester United,14,8,2023,0,16,Wolves
+1035053,2023-08-18 15:45:00,The City Ground,"Nottingham, Nottinghamshire",P. Bankes,2023,2,Nottingham Forest,Sheffield Utd,2,1,1,0,2,1,Nottingham Forest,18,8,2023,4,15,Sheffield Utd
+1035049,2023-08-19 11:00:00,Craven Cottage,London,D. Bond,2023,2,Fulham,Brentford,0,3,0,1,0,3,Brentford,19,8,2023,5,11,Fulham
+1035056,2023-08-19 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",A. Madley,2023,2,Wolves,Brighton,1,4,0,1,1,4,Brighton,19,8,2023,5,11,Wolves
+1035050,2023-08-19 11:00:00,Anfield,Liverpool,T. Bramall,2023,2,Liverpool,Bournemouth,3,1,2,1,3,1,Liverpool,19,8,2023,5,11,Bournemouth
+1035054,2023-08-19 13:30:00,Tottenham Hotspur Stadium,London,M. Oliver,2023,2,Tottenham,Manchester United,2,0,0,0,2,0,Tottenham,19,8,2023,5,13,Manchester United
+1035052,2023-08-19 16:00:00,Etihad Stadium,Manchester,R. Jones,2023,2,Manchester City,Newcastle,1,0,1,0,1,0,Manchester City,19,8,2023,5,16,Newcastle
+1035047,2023-08-20 10:00:00,Villa Park,Birmingham,A. Taylor,2023,2,Aston Villa,Everton,4,0,2,0,4,0,Aston Villa,20,8,2023,6,10,Everton
+1035055,2023-08-20 12:30:00,London Stadium,London,J. Brooks,2023,2,West Ham,Chelsea,3,1,1,1,3,1,West Ham,20,8,2023,6,12,Chelsea
+1035048,2023-08-21 16:00:00,Selhurst Park,London,D. Coote,2023,2,Crystal Palace,Arsenal,0,1,0,0,0,1,Arsenal,21,8,2023,0,16,Crystal Palace
+1035062,2023-08-25 16:00:00,Stamford Bridge,London,R. Jones,2023,3,Chelsea,Luton,3,0,1,0,3,0,Chelsea,25,8,2023,4,16,Luton
+1035057,2023-08-26 08:30:00,Vitality Stadium,"Bournemouth, Dorset",T. Robinson,2023,3,Bournemouth,Tottenham,0,2,0,1,0,2,Tottenham,26,8,2023,5,8,Bournemouth
+1035064,2023-08-26 11:00:00,Old Trafford,Manchester,S. Attwell,2023,3,Manchester United,Nottingham Forest,3,2,1,2,3,2,Manchester United,26,8,2023,5,11,Nottingham Forest
+1035058,2023-08-26 11:00:00,Emirates Stadium,London,P. Tierney,2023,3,Arsenal,Fulham,2,2,0,1,2,2,Draw,26,8,2023,5,11,Draw
+1035063,2023-08-26 11:00:00,Goodison Park,Liverpool,C. Pawson,2023,3,Everton,Wolves,0,1,0,0,0,1,Wolves,26,8,2023,5,11,Everton
+1035059,2023-08-26 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",P. Bankes,2023,3,Brentford,Crystal Palace,1,1,1,0,1,1,Draw,26,8,2023,5,11,Draw
+1035060,2023-08-26 13:30:00,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,2023,3,Brighton,West Ham,1,3,0,1,1,3,West Ham,26,8,2023,5,13,Brighton
+1035061,2023-08-27 10:00:00,Turf Moor,Burnley,M. Salisbury,2023,3,Burnley,Aston Villa,1,3,0,2,1,3,Aston Villa,27,8,2023,6,10,Burnley
+1035066,2023-08-27 10:00:00,Bramall Lane,Sheffield,J. Gillett,2023,3,Sheffield Utd,Manchester City,1,2,0,0,1,2,Manchester City,27,8,2023,6,10,Sheffield Utd
+1035065,2023-08-27 12:30:00,St. James' Park,Newcastle upon Tyne,J. Brooks,2023,3,Newcastle,Liverpool,1,2,1,0,1,2,Liverpool,27,8,2023,6,12,Newcastle
+1035074,2023-09-01 16:00:00,Kenilworth Road,"Luton, Bedfordshire",P. Tierney,2023,4,Luton,West Ham,1,2,0,1,1,2,West Ham,1,9,2023,4,16,Luton
+1035076,2023-09-02 08:30:00,Bramall Lane,Sheffield,A. Madley,2023,4,Sheffield Utd,Everton,2,2,2,1,2,2,Draw,2,9,2023,5,8,Draw
+1035070,2023-09-02 11:00:00,Turf Moor,Burnley,D. England,2023,4,Burnley,Tottenham,2,5,1,2,2,5,Tottenham,2,9,2023,5,11,Burnley
+1035071,2023-09-02 11:00:00,Stamford Bridge,London,T. Robinson,2023,4,Chelsea,Nottingham Forest,0,1,0,0,0,1,Nottingham Forest,2,9,2023,5,11,Chelsea
+1035075,2023-09-02 11:00:00,Etihad Stadium,Manchester,M. Oliver,2023,4,Manchester City,Fulham,5,1,2,1,5,1,Manchester City,2,9,2023,5,11,Fulham
+1035068,2023-09-02 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",R. Madley,2023,4,Brentford,Bournemouth,2,2,1,1,2,2,Draw,2,9,2023,5,11,Draw
+1035069,2023-09-02 13:30:00,The American Express Community Stadium,"Falmer, East Sussex",S. Attwell,2023,4,Brighton,Newcastle,3,1,1,0,3,1,Brighton,2,9,2023,5,13,Newcastle
+1035073,2023-09-03 10:00:00,Anfield,Liverpool,S. Hooper,2023,4,Liverpool,Aston Villa,3,0,2,0,3,0,Liverpool,3,9,2023,6,10,Aston Villa
+1035072,2023-09-03 10:00:00,Selhurst Park,London,R. Jones,2023,4,Crystal Palace,Wolves,3,2,0,0,3,2,Crystal Palace,3,9,2023,6,10,Wolves
+1035067,2023-09-03 12:30:00,Emirates Stadium,London,A. Taylor,2023,4,Arsenal,Manchester United,3,1,1,1,3,1,Arsenal,3,9,2023,6,12,Manchester United
+1035086,2023-09-16 08:30:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Oliver,2023,5,Wolves,Liverpool,1,3,1,0,1,3,Liverpool,16,9,2023,5,8,Wolves
+1035081,2023-09-16 11:00:00,Old Trafford,Manchester,J. Gillett,2023,5,Manchester United,Brighton,1,3,0,1,1,3,Brighton,16,9,2023,5,11,Manchester United
+1035080,2023-09-16 11:00:00,Craven Cottage,London,M. Salisbury,2023,5,Fulham,Luton,1,0,0,0,1,0,Fulham,16,9,2023,5,11,Luton
+1035084,2023-09-16 11:00:00,Tottenham Hotspur Stadium,London,P. Bankes,2023,5,Tottenham,Sheffield Utd,2,1,0,0,2,1,Tottenham,16,9,2023,5,11,Sheffield Utd
+1035085,2023-09-16 11:00:00,London Stadium,London,A. Madley,2023,5,West Ham,Manchester City,1,3,1,0,1,3,Manchester City,16,9,2023,5,11,West Ham
+1035078,2023-09-16 11:00:00,Villa Park,Birmingham,D. England,2023,5,Aston Villa,Crystal Palace,3,1,0,0,3,1,Aston Villa,16,9,2023,5,11,Crystal Palace
+1035082,2023-09-16 13:30:00,St. James' Park,Newcastle upon Tyne,C. Pawson,2023,5,Newcastle,Brentford,1,0,0,0,1,0,Newcastle,16,9,2023,5,13,Brentford
+1035077,2023-09-17 10:00:00,Vitality Stadium,"Bournemouth, Dorset",D. Coote,2023,5,Bournemouth,Chelsea,0,0,0,0,0,0,Draw,17,9,2023,6,10,Draw
+1035079,2023-09-17 12:30:00,Goodison Park,Liverpool,S. Hooper,2023,5,Everton,Arsenal,0,1,0,0,0,1,Arsenal,17,9,2023,6,12,Everton
+1035083,2023-09-18 15:45:00,The City Ground,"Nottingham, Nottinghamshire",R. Jones,2023,5,Nottingham Forest,Burnley,1,1,0,1,1,1,Draw,18,9,2023,0,15,Draw
+1035095,2023-09-23 11:00:00,Etihad Stadium,Manchester,A. Taylor,2023,6,Manchester City,Nottingham Forest,2,0,2,0,2,0,Manchester City,23,9,2023,5,11,Nottingham Forest
+1035092,2023-09-23 11:00:00,Selhurst Park,London,P. Tierney,2023,6,Crystal Palace,Fulham,0,0,0,0,0,0,Draw,23,9,2023,5,11,Draw
+1035094,2023-09-23 11:00:00,Kenilworth Road,"Luton, Bedfordshire",J. Smith,2023,6,Luton,Wolves,1,1,0,0,1,1,Draw,23,9,2023,5,11,Draw
+1035088,2023-09-23 13:30:00,Gtech Community Stadium,"Brentford, Middlesex",M. Oliver,2023,6,Brentford,Everton,1,3,1,1,1,3,Everton,23,9,2023,5,13,Brentford
+1035090,2023-09-23 16:00:00,Turf Moor,Burnley,T. Harrington,2023,6,Burnley,Manchester United,0,1,0,1,0,1,Manchester United,23,9,2023,5,16,Burnley
+1035093,2023-09-24 10:00:00,Anfield,Liverpool,C. Kavanagh,2023,6,Liverpool,West Ham,3,1,1,1,3,1,Liverpool,24,9,2023,6,10,West Ham
+1035087,2023-09-24 10:00:00,Emirates Stadium,London,R. Jones,2023,6,Arsenal,Tottenham,2,2,1,1,2,2,Draw,24,9,2023,6,10,Draw
+1035091,2023-09-24 10:00:00,Stamford Bridge,London,J. Gillett,2023,6,Chelsea,Aston Villa,0,1,0,0,0,1,Aston Villa,24,9,2023,6,10,Chelsea
+1035089,2023-09-24 10:00:00,The American Express Community Stadium,"Falmer, East Sussex",J. Brooks,2023,6,Brighton,Bournemouth,3,1,1,1,3,1,Brighton,24,9,2023,6,10,Bournemouth
+1035096,2023-09-24 12:30:00,Bramall Lane,Sheffield,S. Attwell,2023,6,Sheffield Utd,Newcastle,0,8,0,3,0,8,Newcastle,24,9,2023,6,12,Sheffield Utd
+1035098,2023-09-30 08:30:00,Villa Park,Birmingham,A. Madley,2023,7,Aston Villa,Brighton,6,1,3,0,6,1,Aston Villa,30,9,2023,5,8,Brighton
+1035101,2023-09-30 11:00:00,Old Trafford,Manchester,C. Kavanagh,2023,7,Manchester United,Crystal Palace,0,1,0,1,0,1,Crystal Palace,30,9,2023,5,11,Manchester United
+1035102,2023-09-30 11:00:00,St. James' Park,Newcastle upon Tyne,T. Bramall,2023,7,Newcastle,Burnley,2,0,1,0,2,0,Newcastle,30,9,2023,5,11,Burnley
+1035097,2023-09-30 11:00:00,Vitality Stadium,"Bournemouth, Dorset",M. Salisbury,2023,7,Bournemouth,Arsenal,0,4,0,2,0,4,Arsenal,30,9,2023,5,11,Bournemouth
+1035106,2023-09-30 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",C. Pawson,2023,7,Wolves,Manchester City,2,1,1,0,2,1,Wolves,30,9,2023,5,11,Manchester City
+1035099,2023-09-30 11:00:00,Goodison Park,Liverpool,A. Taylor,2023,7,Everton,Luton,1,2,1,2,1,2,Luton,30,9,2023,5,11,Everton
+1035105,2023-09-30 11:00:00,London Stadium,London,G. Scott,2023,7,West Ham,Sheffield Utd,2,0,2,0,2,0,West Ham,30,9,2023,5,11,Sheffield Utd
+1035104,2023-09-30 13:30:00,Tottenham Hotspur Stadium,London,S. Hooper,2023,7,Tottenham,Liverpool,2,1,1,1,2,1,Tottenham,30,9,2023,5,13,Liverpool
+1035103,2023-10-01 10:00:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2023,7,Nottingham Forest,Brentford,1,1,0,0,1,1,Draw,1,10,2023,6,10,Draw
+1035100,2023-10-02 16:00:00,Craven Cottage,London,T. Robinson,2023,7,Fulham,Chelsea,0,2,0,2,0,2,Chelsea,2,10,2023,0,16,Fulham
+1035051,2023-10-03 15:30:00,Kenilworth Road,"Luton, Bedfordshire",P. Bankes,2023,2,Luton,Burnley,1,2,0,1,1,2,Burnley,3,10,2023,1,15,Luton
+1035113,2023-10-07 08:30:00,Kenilworth Road,"Luton, Bedfordshire",J. Brooks,2023,8,Luton,Tottenham,0,1,0,0,0,1,Tottenham,7,10,2023,5,8,Luton
+1035114,2023-10-07 11:00:00,Old Trafford,Manchester,A. Madley,2023,8,Manchester United,Brentford,2,1,0,1,2,1,Manchester United,7,10,2023,5,11,Brentford
+1035112,2023-10-07 11:00:00,Craven Cottage,London,S. Barrott,2023,8,Fulham,Sheffield Utd,3,1,0,0,3,1,Fulham,7,10,2023,5,11,Sheffield Utd
+1035109,2023-10-07 11:00:00,Turf Moor,Burnley,S. Attwell,2023,8,Burnley,Chelsea,1,4,1,1,1,4,Chelsea,7,10,2023,5,11,Burnley
+1035111,2023-10-07 11:00:00,Goodison Park,Liverpool,D. Coote,2023,8,Everton,Bournemouth,3,0,2,0,3,0,Everton,7,10,2023,5,11,Bournemouth
+1035110,2023-10-07 13:30:00,Selhurst Park,London,C. Pawson,2023,8,Crystal Palace,Nottingham Forest,0,0,0,0,0,0,Draw,7,10,2023,5,13,Draw
+1035116,2023-10-08 10:00:00,Molineux Stadium,"Wolverhampton, West Midlands",R. Jones,2023,8,Wolves,Aston Villa,1,1,0,0,1,1,Draw,8,10,2023,6,10,Draw
+1035115,2023-10-08 10:00:00,London Stadium,London,P. Bankes,2023,8,West Ham,Newcastle,2,2,1,0,2,2,Draw,8,10,2023,6,10,Draw
+1035108,2023-10-08 10:00:00,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,2023,8,Brighton,Liverpool,2,2,1,2,2,2,Draw,8,10,2023,6,10,Draw
+1035107,2023-10-08 12:30:00,Emirates Stadium,London,M. Oliver,2023,8,Arsenal,Manchester City,1,0,0,0,1,0,Arsenal,8,10,2023,6,12,Manchester City
+1035121,2023-10-21 08:30:00,Anfield,Liverpool,C. Pawson,2023,9,Liverpool,Everton,2,0,0,0,2,0,Liverpool,21,10,2023,5,8,Everton
+1035123,2023-10-21 11:00:00,St. James' Park,Newcastle upon Tyne,T. Robinson,2023,9,Newcastle,Crystal Palace,4,0,3,0,4,0,Newcastle,21,10,2023,5,11,Crystal Palace
+1035117,2023-10-21 11:00:00,Vitality Stadium,"Bournemouth, Dorset",P. Tierney,2023,9,Bournemouth,Wolves,1,2,1,0,1,2,Wolves,21,10,2023,5,11,Bournemouth
+1035122,2023-10-21 11:00:00,Etihad Stadium,Manchester,R. Jones,2023,9,Manchester City,Brighton,2,1,2,0,2,1,Manchester City,21,10,2023,5,11,Brighton
+1035119,2023-10-21 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",J. Smith,2023,9,Brentford,Burnley,3,0,1,0,3,0,Brentford,21,10,2023,5,11,Burnley
+1035124,2023-10-21 11:00:00,The City Ground,"Nottingham, Nottinghamshire",S. Barrott,2023,9,Nottingham Forest,Luton,2,2,0,0,2,2,Draw,21,10,2023,5,11,Draw
+1035120,2023-10-21 13:30:00,Stamford Bridge,London,C. Kavanagh,2023,9,Chelsea,Arsenal,2,2,1,0,2,2,Draw,21,10,2023,5,13,Draw
+1035125,2023-10-21 16:00:00,Bramall Lane,Sheffield,M. Oliver,2023,9,Sheffield Utd,Manchester United,1,2,1,1,1,2,Manchester United,21,10,2023,5,16,Sheffield Utd
+1035118,2023-10-22 12:30:00,Villa Park,Birmingham,D. Coote,2023,9,Aston Villa,West Ham,4,1,1,0,4,1,Aston Villa,22,10,2023,6,12,West Ham
+1035126,2023-10-23 16:00:00,Tottenham Hotspur Stadium,London,A. Taylor,2023,9,Tottenham,Fulham,2,0,1,0,2,0,Tottenham,23,10,2023,0,16,Fulham
+1035132,2023-10-27 16:00:00,Selhurst Park,London,A. Madley,2023,10,Crystal Palace,Tottenham,1,2,0,0,1,2,Tottenham,27,10,2023,4,16,Crystal Palace
+1035131,2023-10-28 08:30:00,Stamford Bridge,London,S. Hooper,2023,10,Chelsea,Brentford,0,2,0,0,0,2,Brentford,28,10,2023,5,8,Chelsea
+1035127,2023-10-28 11:00:00,Vitality Stadium,"Bournemouth, Dorset",S. Barrott,2023,10,Bournemouth,Burnley,2,1,1,1,2,1,Bournemouth,28,10,2023,5,11,Burnley
+1035128,2023-10-28 11:00:00,Emirates Stadium,London,T. Robinson,2023,10,Arsenal,Sheffield Utd,5,0,1,0,5,0,Arsenal,28,10,2023,5,11,Sheffield Utd
+1035136,2023-10-28 13:30:00,Molineux Stadium,"Wolverhampton, West Midlands",A. Taylor,2023,10,Wolves,Newcastle,2,2,1,2,2,2,Draw,28,10,2023,5,13,Draw
+1035135,2023-10-29 10:00:00,London Stadium,London,S. Attwell,2023,10,West Ham,Everton,0,1,0,0,0,1,Everton,29,10,2023,6,10,West Ham
+1035133,2023-10-29 11:00:00,Anfield,Liverpool,C. Kavanagh,2023,10,Liverpool,Nottingham Forest,3,0,2,0,3,0,Liverpool,29,10,2023,6,11,Nottingham Forest
+1035130,2023-10-29 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",M. Salisbury,2023,10,Brighton,Fulham,1,1,1,0,1,1,Draw,29,10,2023,6,11,Draw
+1035129,2023-10-29 11:00:00,Villa Park,Birmingham,J. Brooks,2023,10,Aston Villa,Luton,3,1,1,0,3,1,Aston Villa,29,10,2023,6,11,Luton
+1035134,2023-10-29 12:30:00,Old Trafford,Manchester,P. Tierney,2023,10,Manchester United,Manchester City,0,3,0,1,0,3,Manchester City,29,10,2023,6,12,Manchester United
+1035140,2023-11-04 09:30:00,Craven Cottage,London,J. Brooks,2023,11,Fulham,Manchester United,0,1,0,0,0,1,Manchester United,4,11,2023,5,9,Fulham
+1035138,2023-11-04 12:00:00,Turf Moor,Burnley,P. Bankes,2023,11,Burnley,Crystal Palace,0,2,0,1,0,2,Crystal Palace,4,11,2023,5,12,Burnley
+1035139,2023-11-04 12:00:00,Goodison Park,Liverpool,T. Robinson,2023,11,Everton,Brighton,1,1,1,0,1,1,Draw,4,11,2023,5,12,Draw
+1035142,2023-11-04 12:00:00,Etihad Stadium,Manchester,C. Pawson,2023,11,Manchester City,Bournemouth,6,1,3,0,6,1,Manchester City,4,11,2023,5,12,Bournemouth
+1035137,2023-11-04 12:00:00,Gtech Community Stadium,"Brentford, Middlesex",T. Bramall,2023,11,Brentford,West Ham,3,2,1,2,3,2,Brentford,4,11,2023,5,12,West Ham
+1035145,2023-11-04 12:00:00,Bramall Lane,Sheffield,R. Jones,2023,11,Sheffield Utd,Wolves,2,1,0,0,2,1,Sheffield Utd,4,11,2023,5,12,Wolves
+1035143,2023-11-04 14:30:00,St. James' Park,Newcastle upon Tyne,S. Attwell,2023,11,Newcastle,Arsenal,1,0,0,0,1,0,Newcastle,4,11,2023,5,14,Arsenal
+1035144,2023-11-05 11:00:00,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,2023,11,Nottingham Forest,Aston Villa,2,0,1,0,2,0,Nottingham Forest,5,11,2023,6,11,Aston Villa
+1035141,2023-11-05 13:30:00,Kenilworth Road,"Luton, Bedfordshire",A. Madley,2023,11,Luton,Liverpool,1,1,0,0,1,1,Draw,5,11,2023,6,13,Draw
+1035146,2023-11-06 17:00:00,Tottenham Hotspur Stadium,London,M. Oliver,2023,11,Tottenham,Chelsea,1,4,1,1,1,4,Chelsea,6,11,2023,0,17,Tottenham
+1035156,2023-11-11 09:30:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Robinson,2023,12,Wolves,Tottenham,2,1,0,1,2,1,Wolves,11,11,2023,5,9,Tottenham
+1035154,2023-11-11 12:00:00,Old Trafford,Manchester,G. Scott,2023,12,Manchester United,Luton,1,0,0,0,1,0,Manchester United,11,11,2023,5,12,Luton
+1035148,2023-11-11 12:00:00,Emirates Stadium,London,M. Oliver,2023,12,Arsenal,Burnley,3,1,1,0,3,1,Arsenal,11,11,2023,5,12,Burnley
+1035152,2023-11-11 12:00:00,Selhurst Park,London,S. Barrott,2023,12,Crystal Palace,Everton,2,3,1,1,2,3,Everton,11,11,2023,5,12,Crystal Palace
+1035147,2023-11-11 14:30:00,Vitality Stadium,"Bournemouth, Dorset",C. Kavanagh,2023,12,Bournemouth,Newcastle,2,0,0,0,2,0,Bournemouth,11,11,2023,5,14,Newcastle
+1035153,2023-11-12 11:00:00,Anfield,Liverpool,P. Tierney,2023,12,Liverpool,Brentford,3,0,1,0,3,0,Liverpool,12,11,2023,6,11,Brentford
+1035155,2023-11-12 11:00:00,London Stadium,London,M. Salisbury,2023,12,West Ham,Nottingham Forest,3,2,1,1,3,2,West Ham,12,11,2023,6,11,Nottingham Forest
+1035150,2023-11-12 11:00:00,The American Express Community Stadium,"Falmer, East Sussex",J. Brooks,2023,12,Brighton,Sheffield Utd,1,1,1,0,1,1,Draw,12,11,2023,6,11,Draw
+1035149,2023-11-12 11:00:00,Villa Park,Birmingham,S. Hooper,2023,12,Aston Villa,Fulham,3,1,2,0,3,1,Aston Villa,12,11,2023,6,11,Fulham
+1035151,2023-11-12 13:30:00,Stamford Bridge,London,A. Taylor,2023,12,Chelsea,Manchester City,4,4,2,2,4,4,Draw,12,11,2023,6,13,Draw
+1035299,2023-11-25 09:30:00,Etihad Stadium,Manchester,C. Kavanagh,2023,13,Manchester City,Liverpool,1,1,1,0,1,1,Draw,25,11,2023,5,9,Draw
+1035300,2023-11-25 12:00:00,St. James' Park,Newcastle upon Tyne,S. Hooper,2023,13,Newcastle,Chelsea,4,1,1,1,4,1,Newcastle,25,11,2023,5,12,Chelsea
+1035295,2023-11-25 12:00:00,Turf Moor,Burnley,S. Barrott,2023,13,Burnley,West Ham,1,2,0,0,1,2,West Ham,25,11,2023,5,12,Burnley
+1035302,2023-11-25 12:00:00,Bramall Lane,Sheffield,A. Madley,2023,13,Sheffield Utd,Bournemouth,1,3,0,2,1,3,Bournemouth,25,11,2023,5,12,Sheffield Utd
+1035301,2023-11-25 12:00:00,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,2023,13,Nottingham Forest,Brighton,2,3,1,2,2,3,Brighton,25,11,2023,5,12,Nottingham Forest
+1035298,2023-11-25 12:00:00,Kenilworth Road,"Luton, Bedfordshire",J. Gillett,2023,13,Luton,Crystal Palace,2,1,0,0,2,1,Luton,25,11,2023,5,12,Crystal Palace
+1035294,2023-11-25 14:30:00,Gtech Community Stadium,"Brentford, Middlesex",T. Robinson,2023,13,Brentford,Arsenal,0,1,0,0,0,1,Arsenal,25,11,2023,5,14,Brentford
+1035303,2023-11-26 11:00:00,Tottenham Hotspur Stadium,London,R. Jones,2023,13,Tottenham,Aston Villa,1,2,1,1,1,2,Aston Villa,26,11,2023,6,11,Tottenham
+1035296,2023-11-26 13:30:00,Goodison Park,Liverpool,J. Brooks,2023,13,Everton,Manchester United,0,3,0,1,0,3,Manchester United,26,11,2023,6,13,Everton
+1035297,2023-11-27 17:00:00,Craven Cottage,London,M. Salisbury,2023,13,Fulham,Wolves,3,2,1,1,3,2,Fulham,27,11,2023,0,17,Wolves
+1035305,2023-12-02 12:00:00,Emirates Stadium,London,P. Bankes,2023,14,Arsenal,Wolves,2,1,2,0,2,1,Arsenal,2,12,2023,5,12,Wolves
+1035307,2023-12-02 12:00:00,Turf Moor,Burnley,C. Kavanagh,2023,14,Burnley,Sheffield Utd,5,0,2,0,5,0,Burnley,2,12,2023,5,12,Sheffield Utd
+1035306,2023-12-02 12:00:00,Gtech Community Stadium,"Brentford, Middlesex",A. Taylor,2023,14,Brentford,Luton,3,1,0,0,3,1,Brentford,2,12,2023,5,12,Luton
+1035312,2023-12-02 14:30:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2023,14,Nottingham Forest,Everton,0,1,0,0,0,1,Everton,2,12,2023,5,14,Nottingham Forest
+1035311,2023-12-02 17:00:00,St. James' Park,Newcastle upon Tyne,R. Jones,2023,14,Newcastle,Manchester United,1,0,0,0,1,0,Newcastle,2,12,2023,5,17,Manchester United
+1035304,2023-12-03 11:00:00,Vitality Stadium,"Bournemouth, Dorset",T. Bramall,2023,14,Bournemouth,Aston Villa,2,2,1,1,2,2,Draw,3,12,2023,6,11,Draw
+1035309,2023-12-03 11:00:00,Anfield,Liverpool,S. Attwell,2023,14,Liverpool,Fulham,4,3,2,2,4,3,Liverpool,3,12,2023,6,11,Fulham
+1035313,2023-12-03 11:00:00,London Stadium,London,M. Oliver,2023,14,West Ham,Crystal Palace,1,1,1,0,1,1,Draw,3,12,2023,6,11,Draw
+1035308,2023-12-03 11:00:00,Stamford Bridge,London,C. Pawson,2023,14,Chelsea,Brighton,3,2,2,1,3,2,Chelsea,3,12,2023,6,11,Brighton
+1035310,2023-12-03 13:30:00,Etihad Stadium,Manchester,S. Hooper,2023,14,Manchester City,Tottenham,3,3,2,1,3,3,Draw,3,12,2023,6,13,Draw
+1035321,2023-12-05 16:30:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Gillett,2023,15,Wolves,Burnley,1,0,1,0,1,0,Wolves,5,12,2023,1,16,Burnley
+1035318,2023-12-05 17:15:00,Kenilworth Road,"Luton, Bedfordshire",S. Barrott,2023,15,Luton,Arsenal,3,4,1,2,3,4,Arsenal,5,12,2023,1,17,Luton
+1035317,2023-12-06 16:30:00,Craven Cottage,London,J. Smith,2023,15,Fulham,Nottingham Forest,5,0,2,0,5,0,Fulham,6,12,2023,2,16,Nottingham Forest
+1035315,2023-12-06 16:30:00,The American Express Community Stadium,"Falmer, East Sussex",P. Bankes,2023,15,Brighton,Brentford,2,1,1,1,2,1,Brighton,6,12,2023,2,16,Brentford
+1035322,2023-12-06 16:30:00,Selhurst Park,London,C. Pawson,2023,15,Crystal Palace,Bournemouth,0,2,0,1,0,2,Bournemouth,6,12,2023,2,16,Crystal Palace
+1035319,2023-12-06 16:30:00,Bramall Lane,Sheffield,S. Hooper,2023,15,Sheffield Utd,Liverpool,0,2,0,1,0,2,Liverpool,6,12,2023,2,16,Sheffield Utd
+1035323,2023-12-06 17:15:00,Old Trafford,Manchester,C. Kavanagh,2023,15,Manchester United,Chelsea,2,1,1,1,2,1,Manchester United,6,12,2023,2,17,Chelsea
+1035314,2023-12-06 17:15:00,Villa Park,Birmingham,J. Brooks,2023,15,Aston Villa,Manchester City,1,0,0,0,1,0,Aston Villa,6,12,2023,2,17,Manchester City
+1035316,2023-12-07 16:30:00,Goodison Park,Liverpool,T. Robinson,2023,15,Everton,Newcastle,3,0,0,0,3,0,Everton,7,12,2023,3,16,Newcastle
+1035320,2023-12-07 17:15:00,Tottenham Hotspur Stadium,London,M. Salisbury,2023,15,Tottenham,West Ham,1,2,1,0,1,2,West Ham,7,12,2023,3,17,Tottenham
+1035326,2023-12-09 09:30:00,Selhurst Park,London,A. Madley,2023,16,Crystal Palace,Liverpool,1,2,0,0,1,2,Liverpool,9,12,2023,5,9,Crystal Palace
+1035330,2023-12-09 12:00:00,Old Trafford,Manchester,P. Bankes,2023,16,Manchester United,Bournemouth,0,3,0,1,0,3,Bournemouth,9,12,2023,5,12,Manchester United
+1035333,2023-12-09 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Barrott,2023,16,Wolves,Nottingham Forest,1,1,1,1,1,1,Draw,9,12,2023,5,12,Draw
+1035325,2023-12-09 12:00:00,The American Express Community Stadium,"Falmer, East Sussex",S. Hooper,2023,16,Brighton,Burnley,1,1,0,1,1,1,Draw,9,12,2023,5,12,Draw
+1035331,2023-12-09 12:00:00,Bramall Lane,Sheffield,S. Attwell,2023,16,Sheffield Utd,Brentford,1,0,1,0,1,0,Sheffield Utd,9,12,2023,5,12,Brentford
+1035324,2023-12-09 14:30:00,Villa Park,Birmingham,J. Gillett,2023,16,Aston Villa,Arsenal,1,0,1,0,1,0,Aston Villa,9,12,2023,5,14,Arsenal
+1035328,2023-12-10 11:00:00,Craven Cottage,London,P. Tierney,2023,16,Fulham,West Ham,5,0,3,0,5,0,Fulham,10,12,2023,6,11,West Ham
+1035327,2023-12-10 11:00:00,Goodison Park,Liverpool,M. Oliver,2023,16,Everton,Chelsea,2,0,0,0,2,0,Everton,10,12,2023,6,11,Chelsea
+1035329,2023-12-10 11:00:00,Kenilworth Road,"Luton, Bedfordshire",T. Robinson,2023,16,Luton,Manchester City,1,2,1,0,1,2,Manchester City,10,12,2023,6,11,Luton
+1035332,2023-12-10 13:30:00,Tottenham Hotspur Stadium,London,C. Kavanagh,2023,16,Tottenham,Newcastle,4,1,2,0,4,1,Tottenham,10,12,2023,6,13,Newcastle
+1035342,2023-12-15 17:00:00,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,2023,17,Nottingham Forest,Tottenham,0,2,0,1,0,2,Tottenham,15,12,2023,4,17,Nottingham Forest
+1035341,2023-12-16 12:00:00,St. James' Park,Newcastle upon Tyne,S. Barrott,2023,17,Newcastle,Fulham,3,0,0,0,3,0,Newcastle,16,12,2023,5,12,Fulham
+1035338,2023-12-16 12:00:00,Stamford Bridge,London,A. Madley,2023,17,Chelsea,Sheffield Utd,2,0,0,0,2,0,Chelsea,16,12,2023,5,12,Sheffield Utd
+1035340,2023-12-16 12:00:00,Etihad Stadium,Manchester,P. Tierney,2023,17,Manchester City,Crystal Palace,2,2,1,0,2,2,Draw,16,12,2023,5,12,Draw
+1035337,2023-12-16 14:30:00,Turf Moor,Burnley,A. Taylor,2023,17,Burnley,Everton,0,2,0,2,0,2,Everton,16,12,2023,5,14,Burnley
+1035335,2023-12-17 11:00:00,Emirates Stadium,London,T. Robinson,2023,17,Arsenal,Brighton,2,0,0,0,2,0,Arsenal,17,12,2023,6,11,Brighton
+1035343,2023-12-17 11:00:00,London Stadium,London,C. Kavanagh,2023,17,West Ham,Wolves,3,0,2,0,3,0,West Ham,17,12,2023,6,11,Wolves
+1035336,2023-12-17 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",D. Coote,2023,17,Brentford,Aston Villa,1,2,1,0,1,2,Aston Villa,17,12,2023,6,11,Brentford
+1035339,2023-12-17 13:30:00,Anfield,Liverpool,M. Oliver,2023,17,Liverpool,Manchester United,0,0,0,0,0,0,Draw,17,12,2023,6,13,Draw
+1035345,2023-12-21 17:00:00,Selhurst Park,London,J. Brooks,2023,18,Crystal Palace,Brighton,1,1,1,0,1,1,Draw,21,12,2023,3,17,Draw
+1035344,2023-12-22 17:00:00,Villa Park,Birmingham,A. Taylor,2023,18,Aston Villa,Sheffield Utd,1,1,0,0,1,1,Draw,22,12,2023,4,17,Draw
+1035352,2023-12-23 09:30:00,London Stadium,London,S. Hooper,2023,18,West Ham,Manchester United,2,0,0,0,2,0,West Ham,23,12,2023,5,9,Manchester United
+1035346,2023-12-23 12:00:00,Craven Cottage,London,R. Welch,2023,18,Fulham,Burnley,0,2,0,0,0,2,Burnley,23,12,2023,5,12,Fulham
+1035351,2023-12-23 12:00:00,Tottenham Hotspur Stadium,London,S. Attwell,2023,18,Tottenham,Everton,2,1,2,0,2,1,Tottenham,23,12,2023,5,12,Everton
+1035350,2023-12-23 12:00:00,The City Ground,"Nottingham, Nottinghamshire",R. Jones,2023,18,Nottingham Forest,Bournemouth,2,3,0,0,2,3,Bournemouth,23,12,2023,5,12,Nottingham Forest
+1035348,2023-12-23 12:00:00,Kenilworth Road,"Luton, Bedfordshire",D. England,2023,18,Luton,Newcastle,1,0,1,0,1,0,Luton,23,12,2023,5,12,Newcastle
+1035347,2023-12-23 14:30:00,Anfield,Liverpool,C. Kavanagh,2023,18,Liverpool,Arsenal,1,1,1,1,1,1,Draw,23,12,2023,5,14,Draw
+1035353,2023-12-24 10:00:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,2023,18,Wolves,Chelsea,2,1,0,0,2,1,Wolves,24,12,2023,6,10,Chelsea
+1035362,2023-12-26 09:30:00,St. James' Park,Newcastle upon Tyne,C. Kavanagh,2023,19,Newcastle,Nottingham Forest,1,3,1,1,1,3,Nottingham Forest,26,12,2023,1,9,Newcastle
+1035354,2023-12-26 12:00:00,Vitality Stadium,"Bournemouth, Dorset",T. Robinson,2023,19,Bournemouth,Fulham,3,0,1,0,3,0,Bournemouth,26,12,2023,1,12,Fulham
+1035363,2023-12-26 12:00:00,Bramall Lane,Sheffield,S. Allison,2023,19,Sheffield Utd,Luton,2,3,0,1,2,3,Luton,26,12,2023,1,12,Sheffield Utd
+1035358,2023-12-26 14:30:00,Turf Moor,Burnley,P. Tierney,2023,19,Burnley,Liverpool,0,2,0,1,0,2,Liverpool,26,12,2023,1,14,Burnley
+1035361,2023-12-26 17:00:00,Old Trafford,Manchester,C. Pawson,2023,19,Manchester United,Aston Villa,3,2,0,2,3,2,Manchester United,26,12,2023,1,17,Aston Villa
+1035359,2023-12-27 16:30:00,Stamford Bridge,London,M. Salisbury,2023,19,Chelsea,Crystal Palace,2,1,1,1,2,1,Chelsea,27,12,2023,2,16,Crystal Palace
+1035356,2023-12-27 16:30:00,Gtech Community Stadium,"Brentford, Middlesex",A. Madley,2023,19,Brentford,Wolves,1,4,1,3,1,4,Wolves,27,12,2023,2,16,Brentford
+1035360,2023-12-27 17:15:00,Goodison Park,Liverpool,J. Brooks,2023,19,Everton,Manchester City,1,3,1,0,1,3,Manchester City,27,12,2023,2,17,Everton
+1035357,2023-12-28 16:30:00,American Express Stadium,"Falmer, East Sussex",J. Gillett,2023,19,Brighton,Tottenham,4,2,2,0,4,2,Brighton,28,12,2023,3,16,Tottenham
+1035355,2023-12-28 17:15:00,Emirates Stadium,London,M. Oliver,2023,19,Arsenal,West Ham,0,2,0,1,0,2,West Ham,28,12,2023,3,17,Arsenal
+1035368,2023-12-30 09:30:00,Kenilworth Road,"Luton, Bedfordshire",P. Tierney,2023,20,Luton,Chelsea,2,3,0,2,2,3,Chelsea,30,12,2023,5,9,Luton
+1035373,2023-12-30 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Bramall,2023,20,Wolves,Everton,3,0,1,0,3,0,Wolves,30,12,2023,5,12,Everton
+1035369,2023-12-30 12:00:00,Etihad Stadium,Manchester,D. Coote,2023,20,Manchester City,Sheffield Utd,2,0,1,0,2,0,Manchester City,30,12,2023,5,12,Sheffield Utd
+1035365,2023-12-30 12:00:00,Selhurst Park,London,R. Jones,2023,20,Crystal Palace,Brentford,3,1,2,1,3,1,Crystal Palace,30,12,2023,5,12,Brentford
+1035364,2023-12-30 12:00:00,Villa Park,Birmingham,S. Attwell,2023,20,Aston Villa,Burnley,3,2,2,1,3,2,Aston Villa,30,12,2023,5,12,Burnley
+1035370,2023-12-30 14:30:00,The City Ground,"Nottingham, Nottinghamshire",T. Robinson,2023,20,Nottingham Forest,Manchester United,2,1,0,0,2,1,Nottingham Forest,30,12,2023,5,14,Manchester United
+1035366,2023-12-31 11:00:00,Craven Cottage,London,J. Smith,2023,20,Fulham,Arsenal,2,1,1,1,2,1,Fulham,31,12,2023,6,11,Arsenal
+1035371,2023-12-31 11:00:00,Tottenham Hotspur Stadium,London,S. Hooper,2023,20,Tottenham,Bournemouth,3,1,1,0,3,1,Tottenham,31,12,2023,6,11,Bournemouth
+1035367,2024-01-01 17:00:00,Anfield,Liverpool,A. Taylor,2023,20,Liverpool,Newcastle,4,2,0,0,4,2,Liverpool,1,1,2024,0,17,Newcastle
+1035372,2024-01-02 16:30:00,London Stadium,London,S. Barrott,2023,20,West Ham,Brighton,0,0,0,0,0,0,Draw,2,1,2024,1,16,Draw
+1035378,2024-01-12 16:45:00,Turf Moor,Burnley,T. Harrington,2023,21,Burnley,Luton,1,1,1,0,1,1,Draw,12,1,2024,4,16,Draw
+1035379,2024-01-13 09:30:00,Stamford Bridge,London,A. Taylor,2023,21,Chelsea,Fulham,1,0,1,0,1,0,Chelsea,13,1,2024,5,9,Fulham
+1035382,2024-01-13 14:30:00,St. James' Park,Newcastle upon Tyne,C. Kavanagh,2023,21,Newcastle,Manchester City,2,3,2,1,2,3,Manchester City,13,1,2024,5,14,Newcastle
+1035380,2024-01-14 11:00:00,Goodison Park,Liverpool,D. Coote,2023,21,Everton,Aston Villa,0,0,0,0,0,0,Draw,14,1,2024,6,11,Draw
+1035381,2024-01-14 13:30:00,Old Trafford,Manchester,J. Brooks,2023,21,Manchester United,Tottenham,2,2,2,1,2,2,Draw,14,1,2024,6,13,Draw
+1035375,2024-01-20 09:30:00,Emirates Stadium,London,P. Tierney,2023,21,Arsenal,Crystal Palace,5,0,2,0,5,0,Arsenal,20,1,2024,5,9,Crystal Palace
+1035376,2024-01-20 14:30:00,Gtech Community Stadium,"Brentford, Middlesex",D. England,2023,21,Brentford,Nottingham Forest,3,2,1,1,3,2,Brentford,20,1,2024,5,14,Nottingham Forest
+1035383,2024-01-21 11:00:00,Bramall Lane,Sheffield,M. Salisbury,2023,21,Sheffield Utd,West Ham,2,2,1,1,2,2,Draw,21,1,2024,6,11,Draw
+1035374,2024-01-21 13:30:00,Vitality Stadium,"Bournemouth, Dorset",A. Madley,2023,21,Bournemouth,Liverpool,0,4,0,0,0,4,Liverpool,21,1,2024,6,13,Bournemouth
+1035377,2024-01-22 16:45:00,American Express Stadium,"Falmer, East Sussex",C. Pawson,2023,21,Brighton,Wolves,0,0,0,0,0,0,Draw,22,1,2024,0,16,Draw
+1035387,2024-01-30 16:30:00,The City Ground,"Nottingham, Nottinghamshire",S. Hooper,2023,22,Nottingham Forest,Arsenal,1,2,0,0,1,2,Arsenal,30,1,2024,1,16,Nottingham Forest
+1035385,2024-01-30 16:45:00,Craven Cottage,London,T. Bramall,2023,22,Fulham,Everton,0,0,0,0,0,0,Draw,30,1,2024,1,16,Draw
+1035386,2024-01-30 16:45:00,Kenilworth Road,"Luton, Bedfordshire",R. Jones,2023,22,Luton,Brighton,4,0,3,0,4,0,Luton,30,1,2024,1,16,Brighton
+1035391,2024-01-30 17:00:00,Selhurst Park,London,T. Harrington,2023,22,Crystal Palace,Sheffield Utd,3,2,2,2,3,2,Crystal Palace,30,1,2024,1,17,Sheffield Utd
+1035384,2024-01-30 17:15:00,Villa Park,Birmingham,J. Brooks,2023,22,Aston Villa,Newcastle,1,3,0,2,1,3,Newcastle,30,1,2024,1,17,Aston Villa
+1035388,2024-01-31 16:30:00,Tottenham Hotspur Stadium,London,D. Coote,2023,22,Tottenham,Brentford,3,2,0,1,3,2,Tottenham,31,1,2024,2,16,Brentford
+1035393,2024-01-31 16:30:00,Etihad Stadium,Manchester,S. Barrott,2023,22,Manchester City,Burnley,3,1,2,0,3,1,Manchester City,31,1,2024,2,16,Burnley
+1035392,2024-01-31 17:15:00,Anfield,Liverpool,P. Tierney,2023,22,Liverpool,Chelsea,4,1,2,0,4,1,Liverpool,31,1,2024,2,17,Chelsea
+1035389,2024-02-01 16:30:00,London Stadium,London,T. Robinson,2023,22,West Ham,Bournemouth,1,1,0,1,1,1,Draw,1,2,2024,3,16,Draw
+1035390,2024-02-01 17:15:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Gillett,2023,22,Wolves,Manchester United,3,4,0,2,3,4,Manchester United,1,2,2024,3,17,Wolves
+1035400,2024-02-03 09:30:00,Goodison Park,Liverpool,M. Oliver,2023,23,Everton,Tottenham,2,2,1,2,2,2,Draw,3,2,2024,5,9,Draw
+1035402,2024-02-03 12:00:00,St. James' Park,Newcastle upon Tyne,T. Bramall,2023,23,Newcastle,Luton,4,4,2,2,4,4,Draw,3,2,2024,5,12,Draw
+1035398,2024-02-03 12:00:00,Turf Moor,Burnley,D. Bond,2023,23,Burnley,Fulham,2,2,0,2,2,2,Draw,3,2,2024,5,12,Draw
+1035397,2024-02-03 12:00:00,American Express Stadium,"Falmer, East Sussex",S. Hooper,2023,23,Brighton,Crystal Palace,4,1,3,0,4,1,Brighton,3,2,2024,5,12,Crystal Palace
+1035403,2024-02-03 14:30:00,Bramall Lane,Sheffield,P. Tierney,2023,23,Sheffield Utd,Aston Villa,0,5,0,4,0,5,Aston Villa,3,2,2024,5,14,Sheffield Utd
+1035401,2024-02-04 11:00:00,Old Trafford,Manchester,A. Madley,2023,23,Manchester United,West Ham,3,0,1,0,3,0,Manchester United,4,2,2024,6,11,West Ham
+1035394,2024-02-04 11:00:00,Vitality Stadium,"Bournemouth, Dorset",R. Welch,2023,23,Bournemouth,Nottingham Forest,1,1,1,1,1,1,Draw,4,2,2024,6,11,Draw
+1035399,2024-02-04 11:00:00,Stamford Bridge,London,T. Robinson,2023,23,Chelsea,Wolves,2,4,1,2,2,4,Wolves,4,2,2024,6,11,Chelsea
+1035395,2024-02-04 13:30:00,Emirates Stadium,London,A. Taylor,2023,23,Arsenal,Liverpool,3,1,1,1,3,1,Arsenal,4,2,2024,6,13,Liverpool
+1035396,2024-02-05 17:00:00,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,2023,23,Brentford,Manchester City,1,3,1,1,1,3,Manchester City,5,2,2024,0,17,Brentford
+1035409,2024-02-10 09:30:00,Etihad Stadium,Manchester,J. Brooks,2023,24,Manchester City,Everton,2,0,0,0,2,0,Manchester City,10,2,2024,5,9,Everton
+1035406,2024-02-10 12:00:00,Craven Cottage,London,D. England,2023,24,Fulham,Bournemouth,3,1,2,0,3,1,Fulham,10,2,2024,5,12,Bournemouth
+1035413,2024-02-10 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Hooper,2023,24,Wolves,Brentford,0,2,0,1,0,2,Brentford,10,2,2024,5,12,Wolves
+1035407,2024-02-10 12:00:00,Anfield,Liverpool,T. Robinson,2023,24,Liverpool,Burnley,3,1,1,1,3,1,Liverpool,10,2,2024,5,12,Burnley
+1035411,2024-02-10 12:00:00,Tottenham Hotspur Stadium,London,S. Barrott,2023,24,Tottenham,Brighton,2,1,0,1,2,1,Tottenham,10,2,2024,5,12,Brighton
+1035408,2024-02-10 12:00:00,Kenilworth Road,"Luton, Bedfordshire",C. Kavanagh,2023,24,Luton,Sheffield Utd,1,3,0,2,1,3,Sheffield Utd,10,2,2024,5,12,Luton
+1035410,2024-02-10 14:30:00,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,2023,24,Nottingham Forest,Newcastle,2,3,2,2,2,3,Newcastle,10,2,2024,5,14,Nottingham Forest
+1035412,2024-02-11 11:00:00,London Stadium,London,C. Pawson,2023,24,West Ham,Arsenal,0,6,0,4,0,6,Arsenal,11,2,2024,6,11,West Ham
+1035404,2024-02-11 13:30:00,Villa Park,Birmingham,R. Jones,2023,24,Aston Villa,Manchester United,1,2,0,1,1,2,Manchester United,11,2,2024,6,13,Aston Villa
+1035405,2024-02-12 17:00:00,Selhurst Park,London,M. Oliver,2023,24,Crystal Palace,Chelsea,1,3,1,0,1,3,Chelsea,12,2,2024,0,17,Crystal Palace
+1035414,2024-02-17 09:30:00,Gtech Community Stadium,"Brentford, Middlesex",M. Oliver,2023,25,Brentford,Liverpool,1,4,0,1,1,4,Liverpool,17,2,2024,5,9,Brentford
+1035420,2024-02-17 12:00:00,St. James' Park,Newcastle upon Tyne,M. Salisbury,2023,25,Newcastle,Bournemouth,2,2,0,0,2,2,Draw,17,2,2024,5,12,Draw
+1035417,2024-02-17 12:00:00,Craven Cottage,London,L. Smith,2023,25,Fulham,Aston Villa,1,2,0,1,1,2,Aston Villa,17,2,2024,5,12,Fulham
+1035415,2024-02-17 12:00:00,Turf Moor,Burnley,J. Gillett,2023,25,Burnley,Arsenal,0,5,0,2,0,5,Arsenal,17,2,2024,5,12,Burnley
+1035423,2024-02-17 12:00:00,Tottenham Hotspur Stadium,London,A. Taylor,2023,25,Tottenham,Wolves,1,2,0,1,1,2,Wolves,17,2,2024,5,12,Tottenham
+1035421,2024-02-17 12:00:00,The City Ground,"Nottingham, Nottinghamshire",T. Bramall,2023,25,Nottingham Forest,West Ham,2,0,1,0,2,0,Nottingham Forest,17,2,2024,5,12,West Ham
+1035419,2024-02-17 14:30:00,Etihad Stadium,Manchester,A. Madley,2023,25,Manchester City,Chelsea,1,1,0,1,1,1,Draw,17,2,2024,5,14,Draw
+1035422,2024-02-18 11:00:00,Bramall Lane,Sheffield,S. Attwell,2023,25,Sheffield Utd,Brighton,0,5,0,2,0,5,Brighton,18,2,2024,6,11,Sheffield Utd
+1035418,2024-02-18 13:30:00,Kenilworth Road,"Luton, Bedfordshire",D. Coote,2023,25,Luton,Manchester United,1,2,1,2,1,2,Manchester United,18,2,2024,6,13,Luton
+1035416,2024-02-19 17:00:00,Goodison Park,Liverpool,P. Tierney,2023,25,Everton,Crystal Palace,1,1,0,0,1,1,Draw,19,2,2024,0,17,Draw
+1035349,2024-02-20 16:30:00,Etihad Stadium,Manchester,D. England,2023,18,Manchester City,Brentford,1,0,0,0,1,0,Manchester City,20,2,2024,1,16,Brentford
+1035430,2024-02-21 16:30:00,Anfield,Liverpool,A. Madley,2023,26,Liverpool,Luton,4,1,0,1,4,1,Liverpool,21,2,2024,2,16,Luton
+1035431,2024-02-24 12:00:00,Old Trafford,Manchester,M. Oliver,2023,26,Manchester United,Fulham,1,2,0,0,1,2,Fulham,24,2,2024,5,12,Manchester United
+1035427,2024-02-24 12:00:00,American Express Stadium,"Falmer, East Sussex",T. Harrington,2023,26,Brighton,Everton,1,1,0,0,1,1,Draw,24,2,2024,5,12,Draw
+1035429,2024-02-24 12:00:00,Selhurst Park,London,L. Smith,2023,26,Crystal Palace,Burnley,3,0,0,0,3,0,Crystal Palace,24,2,2024,5,12,Burnley
+1035426,2024-02-24 12:00:00,Villa Park,Birmingham,S. Barrott,2023,26,Aston Villa,Nottingham Forest,4,2,3,1,4,2,Aston Villa,24,2,2024,5,12,Nottingham Forest
+1035424,2024-02-24 14:30:00,Vitality Stadium,"Bournemouth, Dorset",J. Gillett,2023,26,Bournemouth,Manchester City,0,1,0,1,0,1,Manchester City,24,2,2024,5,14,Bournemouth
+1035425,2024-02-24 17:00:00,Emirates Stadium,London,P. Tierney,2023,26,Arsenal,Newcastle,4,1,2,0,4,1,Arsenal,24,2,2024,5,17,Newcastle
+1035433,2024-02-25 10:30:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Bond,2023,26,Wolves,Sheffield Utd,1,0,1,0,1,0,Wolves,25,2,2024,6,10,Sheffield Utd
+1035432,2024-02-26 17:00:00,London Stadium,London,S. Hooper,2023,26,West Ham,Brentford,4,2,2,1,4,2,West Ham,26,2,2024,0,17,Brentford
+1035440,2024-03-02 12:00:00,St. James' Park,Newcastle upon Tyne,T. Robinson,2023,27,Newcastle,Wolves,3,0,2,0,3,0,Newcastle,2,3,2024,5,12,Wolves
+1035437,2024-03-02 12:00:00,Craven Cottage,London,S. Hooper,2023,27,Fulham,Brighton,3,0,2,0,3,0,Fulham,2,3,2024,5,12,Brighton
+1035436,2024-03-02 12:00:00,Goodison Park,Liverpool,C. Pawson,2023,27,Everton,West Ham,1,3,0,0,1,3,West Ham,2,3,2024,5,12,Everton
+1035443,2024-03-02 12:00:00,Tottenham Hotspur Stadium,London,J. Brooks,2023,27,Tottenham,Crystal Palace,3,1,0,0,3,1,Tottenham,2,3,2024,5,12,Crystal Palace
+1035434,2024-03-02 12:00:00,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,2023,27,Brentford,Chelsea,2,2,0,1,2,2,Draw,2,3,2024,5,12,Draw
+1035441,2024-03-02 12:00:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2023,27,Nottingham Forest,Liverpool,0,1,0,0,0,1,Liverpool,2,3,2024,5,12,Nottingham Forest
+1035438,2024-03-02 14:30:00,Kenilworth Road,"Luton, Bedfordshire",M. Oliver,2023,27,Luton,Aston Villa,2,3,0,2,2,3,Aston Villa,2,3,2024,5,14,Luton
+1035435,2024-03-03 10:00:00,Turf Moor,Burnley,D. Coote,2023,27,Burnley,Bournemouth,0,2,0,1,0,2,Bournemouth,3,3,2024,6,10,Burnley
+1035439,2024-03-03 12:30:00,Etihad Stadium,Manchester,A. Madley,2023,27,Manchester City,Manchester United,3,1,0,1,3,1,Manchester City,3,3,2024,6,12,Manchester United
+1035442,2024-03-04 17:00:00,Bramall Lane,Sheffield,S. Barrott,2023,27,Sheffield Utd,Arsenal,0,6,0,5,0,6,Arsenal,4,3,2024,0,17,Sheffield Utd
+1035451,2024-03-09 09:30:00,Old Trafford,Manchester,S. Hooper,2023,28,Manchester United,Everton,2,0,2,0,2,0,Manchester United,9,3,2024,5,9,Everton
+1035444,2024-03-09 12:00:00,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,2023,28,Bournemouth,Sheffield Utd,2,2,0,1,2,2,Draw,9,3,2024,5,12,Draw
+1035453,2024-03-09 12:00:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Harrington,2023,28,Wolves,Fulham,2,1,0,0,2,1,Wolves,9,3,2024,5,12,Fulham
+1035449,2024-03-09 12:00:00,Selhurst Park,London,S. Singh,2023,28,Crystal Palace,Luton,1,1,1,0,1,1,Draw,9,3,2024,5,12,Draw
+1035445,2024-03-09 14:30:00,Emirates Stadium,London,R. Jones,2023,28,Arsenal,Brentford,2,1,1,1,2,1,Arsenal,9,3,2024,5,14,Brentford
+1035446,2024-03-10 10:00:00,Villa Park,Birmingham,C. Kavanagh,2023,28,Aston Villa,Tottenham,0,4,0,0,0,4,Tottenham,10,3,2024,6,10,Aston Villa
+1035452,2024-03-10 11:00:00,London Stadium,London,D. England,2023,28,West Ham,Burnley,2,2,0,2,2,2,Draw,10,3,2024,6,11,Draw
+1035447,2024-03-10 11:00:00,American Express Stadium,"Falmer, East Sussex",M. Salisbury,2023,28,Brighton,Nottingham Forest,1,0,1,0,1,0,Brighton,10,3,2024,6,11,Nottingham Forest
+1035450,2024-03-10 12:45:00,Anfield,Liverpool,M. Oliver,2023,28,Liverpool,Manchester City,1,1,0,1,1,1,Draw,10,3,2024,6,12,Draw
+1035448,2024-03-11 17:00:00,Stamford Bridge,London,J. Brooks,2023,28,Chelsea,Newcastle,3,2,1,1,3,2,Chelsea,11,3,2024,0,17,Newcastle
+1035334,2024-03-13 16:30:00,Vitality Stadium,"Bournemouth, Dorset",S. Allison,2023,17,Bournemouth,Luton,4,3,0,3,4,3,Bournemouth,13,3,2024,2,16,Luton
+1035456,2024-03-16 12:00:00,Turf Moor,Burnley,D. Bond,2023,29,Burnley,Brentford,2,1,1,0,2,1,Burnley,16,3,2024,5,12,Brentford
+1035460,2024-03-16 12:00:00,Kenilworth Road,"Luton, Bedfordshire",D. England,2023,29,Luton,Nottingham Forest,1,1,0,1,1,1,Draw,16,3,2024,5,12,Draw
+1035459,2024-03-16 14:30:00,Craven Cottage,London,R. Jones,2023,29,Fulham,Tottenham,3,0,1,0,3,0,Fulham,16,3,2024,5,14,Tottenham
+1035462,2024-03-17 11:00:00,London Stadium,London,J. Gillett,2023,29,West Ham,Aston Villa,1,1,1,0,1,1,Draw,17,3,2024,6,11,Draw
+1035470,2024-03-30 09:30:00,St. James' Park,Newcastle upon Tyne,R. Jones,2023,30,Newcastle,West Ham,4,3,1,2,4,3,Newcastle,30,3,2024,5,9,West Ham
+1035464,2024-03-30 12:00:00,Vitality Stadium,"Bournemouth, Dorset",S. Barrott,2023,30,Bournemouth,Everton,2,1,0,0,2,1,Bournemouth,30,3,2024,5,12,Everton
+1035473,2024-03-30 12:00:00,Tottenham Hotspur Stadium,London,J. Gillett,2023,30,Tottenham,Luton,2,1,0,1,2,1,Tottenham,30,3,2024,5,12,Luton
+1035467,2024-03-30 12:00:00,Stamford Bridge,London,D. England,2023,30,Chelsea,Burnley,2,2,1,0,2,2,Draw,30,3,2024,5,12,Draw
+1035472,2024-03-30 12:00:00,Bramall Lane,Sheffield,T. Robinson,2023,30,Sheffield Utd,Fulham,3,3,0,0,3,3,Draw,30,3,2024,5,12,Draw
+1035471,2024-03-30 12:00:00,The City Ground,"Nottingham, Nottinghamshire",C. Kavanagh,2023,30,Nottingham Forest,Crystal Palace,1,1,0,1,1,1,Draw,30,3,2024,5,12,Draw
+1035465,2024-03-30 14:30:00,Villa Park,Birmingham,P. Tierney,2023,30,Aston Villa,Wolves,2,0,1,0,2,0,Aston Villa,30,3,2024,5,14,Wolves
+1035466,2024-03-30 17:00:00,Gtech Community Stadium,"Brentford, Middlesex",S. Hooper,2023,30,Brentford,Manchester United,1,1,0,0,1,1,Draw,30,3,2024,5,17,Draw
+1035468,2024-03-31 10:00:00,Anfield,Liverpool,D. Coote,2023,30,Liverpool,Brighton,2,1,1,1,2,1,Liverpool,31,3,2024,6,10,Brighton
+1035469,2024-03-31 12:30:00,Etihad Stadium,Manchester,A. Taylor,2023,30,Manchester City,Arsenal,0,0,0,0,0,0,Draw,31,3,2024,6,12,Draw
+1035481,2024-04-02 15:30:00,St. James' Park,Newcastle upon Tyne,T. Harrington,2023,31,Newcastle,Everton,1,1,1,0,1,1,Draw,2,4,2024,1,15,Draw
+1035478,2024-04-02 15:30:00,The City Ground,"Nottingham, Nottinghamshire",M. Oliver,2023,31,Nottingham Forest,Fulham,3,1,3,0,3,1,Nottingham Forest,2,4,2024,1,15,Fulham
+1035474,2024-04-02 15:45:00,Vitality Stadium,"Bournemouth, Dorset",G. Scott,2023,31,Bournemouth,Crystal Palace,1,0,0,0,1,0,Bournemouth,2,4,2024,1,15,Crystal Palace
+1035477,2024-04-02 15:45:00,Turf Moor,Burnley,T. Bramall,2023,31,Burnley,Wolves,1,1,1,1,1,1,Draw,2,4,2024,1,15,Draw
+1035479,2024-04-02 16:15:00,London Stadium,London,J. Brooks,2023,31,West Ham,Tottenham,1,1,1,1,1,1,Draw,2,4,2024,1,16,Draw
+1035475,2024-04-03 15:30:00,Emirates Stadium,London,C. Pawson,2023,31,Arsenal,Luton,2,0,2,0,2,0,Arsenal,3,4,2024,2,15,Luton
+1035476,2024-04-03 15:30:00,Gtech Community Stadium,"Brentford, Middlesex",A. Madley,2023,31,Brentford,Brighton,0,0,0,0,0,0,Draw,3,4,2024,2,15,Draw
+1035483,2024-04-03 16:15:00,Etihad Stadium,Manchester,D. England,2023,31,Manchester City,Aston Villa,4,1,2,1,4,1,Manchester City,3,4,2024,2,16,Aston Villa
+1035482,2024-04-04 15:30:00,Anfield,Liverpool,S. Attwell,2023,31,Liverpool,Sheffield Utd,3,1,1,0,3,1,Liverpool,4,4,2024,3,15,Sheffield Utd
+1035480,2024-04-04 16:15:00,Stamford Bridge,London,J. Gillett,2023,31,Chelsea,Manchester United,4,3,2,2,4,3,Chelsea,4,4,2024,3,16,Manchester United
+1035486,2024-04-06 08:30:00,Selhurst Park,London,P. Tierney,2023,32,Crystal Palace,Manchester City,2,4,1,1,2,4,Manchester City,6,4,2024,5,8,Crystal Palace
+1035488,2024-04-06 11:00:00,Craven Cottage,London,S. Allison,2023,32,Fulham,Newcastle,0,1,0,0,0,1,Newcastle,6,4,2024,5,11,Fulham
+1035493,2024-04-06 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Harrington,2023,32,Wolves,West Ham,1,2,1,0,1,2,West Ham,6,4,2024,5,11,Wolves
+1035487,2024-04-06 11:00:00,Goodison Park,Liverpool,M. Oliver,2023,32,Everton,Burnley,1,0,1,0,1,0,Everton,6,4,2024,5,11,Burnley
+1035484,2024-04-06 11:00:00,Villa Park,Birmingham,M. Salisbury,2023,32,Aston Villa,Brentford,3,3,1,0,3,3,Draw,6,4,2024,5,11,Draw
+1035489,2024-04-06 11:00:00,Kenilworth Road,"Luton, Bedfordshire",A. Madley,2023,32,Luton,Bournemouth,2,1,0,0,2,1,Luton,6,4,2024,5,11,Bournemouth
+1035485,2024-04-06 13:30:00,American Express Stadium,"Falmer, East Sussex",J. Brooks,2023,32,Brighton,Arsenal,0,3,0,1,0,3,Arsenal,6,4,2024,5,13,Brighton
+1035490,2024-04-07 11:30:00,Old Trafford,Manchester,A. Taylor,2023,32,Manchester United,Liverpool,2,2,0,1,2,2,Draw,7,4,2024,6,11,Draw
+1035491,2024-04-07 13:30:00,Bramall Lane,Sheffield,R. Jones,2023,32,Sheffield Utd,Chelsea,2,2,1,1,2,2,Draw,7,4,2024,6,13,Draw
+1035492,2024-04-07 14:00:00,Tottenham Hotspur Stadium,London,S. Hooper,2023,32,Tottenham,Nottingham Forest,3,1,1,1,3,1,Tottenham,7,4,2024,6,14,Nottingham Forest
+1035501,2024-04-13 08:30:00,St. James' Park,Newcastle upon Tyne,T. Robinson,2023,33,Newcastle,Tottenham,4,0,2,0,4,0,Newcastle,13,4,2024,5,8,Tottenham
+1035497,2024-04-13 11:00:00,Turf Moor,Burnley,S. Hooper,2023,33,Burnley,Brighton,1,1,0,0,1,1,Draw,13,4,2024,5,11,Draw
+1035500,2024-04-13 11:00:00,Etihad Stadium,Manchester,J. Brooks,2023,33,Manchester City,Luton,5,1,1,0,5,1,Manchester City,13,4,2024,5,11,Luton
+1035496,2024-04-13 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",S. Barrott,2023,33,Brentford,Sheffield Utd,2,0,0,0,2,0,Brentford,13,4,2024,5,11,Sheffield Utd
+1035502,2024-04-13 11:00:00,The City Ground,"Nottingham, Nottinghamshire",C. Pawson,2023,33,Nottingham Forest,Wolves,2,2,1,1,2,2,Draw,13,4,2024,5,11,Draw
+1035494,2024-04-13 13:30:00,Vitality Stadium,"Bournemouth, Dorset",T. Harrington,2023,33,Bournemouth,Manchester United,2,2,2,1,2,2,Draw,13,4,2024,5,13,Draw
+1035499,2024-04-14 10:00:00,Anfield,Liverpool,C. Kavanagh,2023,33,Liverpool,Crystal Palace,0,1,0,1,0,1,Crystal Palace,14,4,2024,6,10,Liverpool
+1035503,2024-04-14 10:00:00,London Stadium,London,S. Attwell,2023,33,West Ham,Fulham,0,2,0,1,0,2,Fulham,14,4,2024,6,10,West Ham
+1035495,2024-04-14 12:30:00,Emirates Stadium,London,D. Coote,2023,33,Arsenal,Aston Villa,0,2,0,0,0,2,Aston Villa,14,4,2024,6,12,Arsenal
+1035498,2024-04-15 16:00:00,Stamford Bridge,London,P. Tierney,2023,33,Chelsea,Everton,6,0,4,0,6,0,Chelsea,15,4,2024,0,16,Everton
+1035511,2024-04-20 11:00:00,Bramall Lane,Sheffield,A. Madley,2023,34,Sheffield Utd,Burnley,1,4,0,2,1,4,Burnley,20,4,2024,5,11,Sheffield Utd
+1035509,2024-04-20 11:00:00,Kenilworth Road,"Luton, Bedfordshire",J. Gillett,2023,34,Luton,Brentford,1,5,0,2,1,5,Brentford,20,4,2024,5,11,Luton
+1035513,2024-04-20 15:30:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Tierney,2023,34,Wolves,Arsenal,0,2,0,1,0,2,Arsenal,20,4,2024,5,15,Wolves
+1035507,2024-04-21 09:30:00,Goodison Park,Liverpool,A. Taylor,2023,34,Everton,Nottingham Forest,2,0,1,0,2,0,Everton,21,4,2024,6,9,Nottingham Forest
+1035506,2024-04-21 11:00:00,Selhurst Park,London,G. Scott,2023,34,Crystal Palace,West Ham,5,2,4,1,5,2,Crystal Palace,21,4,2024,6,11,West Ham
+1035504,2024-04-21 11:00:00,Villa Park,Birmingham,T. Robinson,2023,34,Aston Villa,Bournemouth,3,1,1,1,3,1,Aston Villa,21,4,2024,6,11,Bournemouth
+1035508,2024-04-21 12:30:00,Craven Cottage,London,C. Pawson,2023,34,Fulham,Liverpool,1,3,1,1,1,3,Liverpool,21,4,2024,6,12,Fulham
+1035454,2024-04-23 16:00:00,Emirates Stadium,London,S. Hooper,2023,29,Arsenal,Chelsea,5,0,1,0,5,0,Arsenal,23,4,2024,1,16,Chelsea
+1035463,2024-04-24 15:45:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Attwell,2023,29,Wolves,Bournemouth,0,1,0,1,0,1,Bournemouth,24,4,2024,2,15,Wolves
+1035461,2024-04-24 16:00:00,Old Trafford,Manchester,M. Salisbury,2023,29,Manchester United,Sheffield Utd,4,2,1,1,4,2,Manchester United,24,4,2024,2,16,Sheffield Utd
+1035458,2024-04-24 16:00:00,Goodison Park,Liverpool,A. Madley,2023,29,Everton,Liverpool,2,0,1,0,2,0,Everton,24,4,2024,2,16,Liverpool
+1035457,2024-04-24 16:00:00,Selhurst Park,London,T. Bramall,2023,29,Crystal Palace,Newcastle,2,0,0,0,2,0,Crystal Palace,24,4,2024,2,16,Newcastle
+1035455,2024-04-25 16:00:00,American Express Stadium,"Falmer, East Sussex",J. Gillett,2023,29,Brighton,Manchester City,0,4,0,3,0,4,Manchester City,25,4,2024,3,16,Brighton
+1035522,2024-04-27 08:30:00,London Stadium,London,A. Taylor,2023,35,West Ham,Liverpool,2,2,1,0,2,2,Draw,27,4,2024,5,8,Draw
+1035518,2024-04-27 11:00:00,Old Trafford,Manchester,J. Brooks,2023,35,Manchester United,Burnley,1,1,0,0,1,1,Draw,27,4,2024,5,11,Draw
+1035519,2024-04-27 11:00:00,St. James' Park,Newcastle upon Tyne,T. Harrington,2023,35,Newcastle,Sheffield Utd,5,1,1,1,5,1,Newcastle,27,4,2024,5,11,Sheffield Utd
+1035517,2024-04-27 11:00:00,Craven Cottage,London,S. Attwell,2023,35,Fulham,Crystal Palace,1,1,0,0,1,1,Draw,27,4,2024,5,11,Draw
+1035523,2024-04-27 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,2023,35,Wolves,Luton,2,1,1,0,2,1,Wolves,27,4,2024,5,11,Luton
+1035516,2024-04-27 13:30:00,Goodison Park,Liverpool,D. England,2023,35,Everton,Brentford,1,0,0,0,1,0,Everton,27,4,2024,5,13,Brentford
+1035515,2024-04-27 16:00:00,Villa Park,Birmingham,C. Pawson,2023,35,Aston Villa,Chelsea,2,2,2,0,2,2,Draw,27,4,2024,5,16,Draw
+1035514,2024-04-28 10:00:00,Vitality Stadium,"Bournemouth, Dorset",P. Tierney,2023,35,Bournemouth,Brighton,3,0,1,0,3,0,Bournemouth,28,4,2024,6,10,Brighton
+1035521,2024-04-28 10:00:00,Tottenham Hotspur Stadium,London,M. Oliver,2023,35,Tottenham,Arsenal,2,3,0,3,2,3,Arsenal,28,4,2024,6,10,Tottenham
+1035520,2024-04-28 12:30:00,The City Ground,"Nottingham, Nottinghamshire",S. Hooper,2023,35,Nottingham Forest,Manchester City,0,2,0,1,0,2,Manchester City,28,4,2024,6,12,Nottingham Forest
+1035428,2024-05-02 15:30:00,Stamford Bridge,London,R. Jones,2023,26,Chelsea,Tottenham,2,0,1,0,2,0,Chelsea,2,5,2024,3,15,Tottenham
+1035531,2024-05-03 16:00:00,Kenilworth Road,"Luton, Bedfordshire",T. Robinson,2023,36,Luton,Everton,1,1,1,1,1,1,Draw,3,5,2024,4,16,Draw
+1035524,2024-05-04 08:30:00,Emirates Stadium,London,D. Coote,2023,36,Arsenal,Bournemouth,3,0,1,0,3,0,Arsenal,4,5,2024,5,8,Bournemouth
+1035527,2024-05-04 11:00:00,Turf Moor,Burnley,A. Taylor,2023,36,Burnley,Newcastle,1,4,0,3,1,4,Newcastle,4,5,2024,5,11,Burnley
+1035525,2024-05-04 11:00:00,Gtech Community Stadium,"Brentford, Middlesex",G. Scott,2023,36,Brentford,Fulham,0,0,0,0,0,0,Draw,4,5,2024,5,11,Draw
+1035533,2024-05-04 11:00:00,Bramall Lane,Sheffield,C. Kavanagh,2023,36,Sheffield Utd,Nottingham Forest,1,3,1,1,1,3,Nottingham Forest,4,5,2024,5,11,Sheffield Utd
+1035532,2024-05-04 13:30:00,Etihad Stadium,Manchester,C. Pawson,2023,36,Manchester City,Wolves,5,1,3,0,5,1,Manchester City,4,5,2024,5,13,Wolves
+1035528,2024-05-05 10:00:00,Stamford Bridge,London,A. Madley,2023,36,Chelsea,West Ham,5,0,3,0,5,0,Chelsea,5,5,2024,6,10,West Ham
+1035526,2024-05-05 10:00:00,American Express Stadium,"Falmer, East Sussex",R. Jones,2023,36,Brighton,Aston Villa,1,0,0,0,1,0,Brighton,5,5,2024,6,10,Aston Villa
+1035530,2024-05-05 12:30:00,Anfield,Liverpool,P. Tierney,2023,36,Liverpool,Tottenham,4,2,2,0,4,2,Liverpool,5,5,2024,6,12,Tottenham
+1035529,2024-05-06 16:00:00,Selhurst Park,London,J. Gillett,2023,36,Crystal Palace,Manchester United,4,0,2,0,4,0,Crystal Palace,6,5,2024,0,16,Manchester United
+1035537,2024-05-11 08:30:00,Craven Cottage,London,A. Taylor,2023,37,Fulham,Manchester City,0,4,0,1,0,4,Manchester City,11,5,2024,5,8,Fulham
+1035539,2024-05-11 11:00:00,St. James' Park,Newcastle upon Tyne,D. England,2023,37,Newcastle,Brighton,1,1,1,1,1,1,Draw,11,5,2024,5,11,Draw
+1035534,2024-05-11 11:00:00,Vitality Stadium,"Bournemouth, Dorset",M. Donohue,2023,37,Bournemouth,Brentford,1,2,0,0,1,2,Brentford,11,5,2024,5,11,Bournemouth
+1035543,2024-05-11 11:00:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Bramall,2023,37,Wolves,Crystal Palace,1,3,0,2,1,3,Crystal Palace,11,5,2024,5,11,Wolves
+1035536,2024-05-11 11:00:00,Goodison Park,Liverpool,S. Attwell,2023,37,Everton,Sheffield Utd,1,0,1,0,1,0,Everton,11,5,2024,5,11,Sheffield Utd
+1035541,2024-05-11 11:00:00,Tottenham Hotspur Stadium,London,J. Gillett,2023,37,Tottenham,Burnley,2,1,1,1,2,1,Tottenham,11,5,2024,5,11,Burnley
+1035542,2024-05-11 11:00:00,London Stadium,London,M. Oliver,2023,37,West Ham,Luton,3,1,0,1,3,1,West Ham,11,5,2024,5,11,Luton
+1035540,2024-05-11 13:30:00,The City Ground,"Nottingham, Nottinghamshire",T. Harrington,2023,37,Nottingham Forest,Chelsea,2,3,1,1,2,3,Chelsea,11,5,2024,5,13,Nottingham Forest
+1035538,2024-05-12 12:30:00,Old Trafford,Manchester,P. Tierney,2023,37,Manchester United,Arsenal,0,1,0,1,0,1,Arsenal,12,5,2024,6,12,Manchester United
+1035535,2024-05-13 16:00:00,Villa Park,Birmingham,S. Hooper,2023,37,Aston Villa,Liverpool,3,3,1,2,3,3,Draw,13,5,2024,0,16,Draw
+1035512,2024-05-14 16:00:00,Tottenham Hotspur Stadium,London,C. Kavanagh,2023,34,Tottenham,Manchester City,0,2,0,0,0,2,Manchester City,14,5,2024,1,16,Tottenham
+1035505,2024-05-15 15:45:00,American Express Stadium,"Falmer, East Sussex",M. Salisbury,2023,34,Brighton,Chelsea,1,2,0,1,1,2,Chelsea,15,5,2024,2,15,Brighton
+1035510,2024-05-15 16:00:00,Old Trafford,Manchester,R. Jones,2023,34,Manchester United,Newcastle,3,2,1,0,3,2,Manchester United,15,5,2024,2,16,Newcastle
+1035550,2024-05-19 12:00:00,Anfield,Liverpool,C. Kavanagh,2023,38,Liverpool,Wolves,2,0,2,0,2,0,Liverpool,19,5,2024,6,12,Wolves
+1035544,2024-05-19 12:00:00,Emirates Stadium,London,M. Oliver,2023,38,Arsenal,Everton,2,1,1,1,2,1,Arsenal,19,5,2024,6,12,Everton
+1035547,2024-05-19 12:00:00,Turf Moor,Burnley,G. Scott,2023,38,Burnley,Nottingham Forest,1,2,0,2,1,2,Nottingham Forest,19,5,2024,6,12,Burnley
+1035548,2024-05-19 12:00:00,Stamford Bridge,London,A. Taylor,2023,38,Chelsea,Bournemouth,2,1,1,0,2,1,Chelsea,19,5,2024,6,12,Bournemouth
+1035552,2024-05-19 12:00:00,Etihad Stadium,Manchester,J. Brooks,2023,38,Manchester City,West Ham,3,1,2,1,3,1,Manchester City,19,5,2024,6,12,West Ham
+1035546,2024-05-19 12:00:00,American Express Stadium,"Falmer, East Sussex",C. Pawson,2023,38,Brighton,Manchester United,0,2,0,0,0,2,Manchester United,19,5,2024,6,12,Brighton
+1035549,2024-05-19 12:00:00,Selhurst Park,London,D. Bond,2023,38,Crystal Palace,Aston Villa,5,0,2,0,5,0,Crystal Palace,19,5,2024,6,12,Aston Villa
+1035545,2024-05-19 12:00:00,Gtech Community Stadium,"Brentford, Middlesex",S. Hooper,2023,38,Brentford,Newcastle,2,4,0,3,2,4,Newcastle,19,5,2024,6,12,Brentford
+1035553,2024-05-19 12:00:00,Bramall Lane,Sheffield,A. Madley,2023,38,Sheffield Utd,Tottenham,0,3,0,1,0,3,Tottenham,19,5,2024,6,12,Sheffield Utd
+1035551,2024-05-19 12:00:00,Kenilworth Road,"Luton, Bedfordshire",M. Donohue,2023,38,Luton,Fulham,2,4,1,2,2,4,Fulham,19,5,2024,6,12,Luton

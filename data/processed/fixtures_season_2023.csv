@@ -1,0 +1,381 @@
+match_id,date,stadium,city,referee,season,round,home_team,away_team,goals_home,goals_away,score_home_in_half_time,score_away_in_half_time,score_home_in_full_time,score_away_in_full_time,score_home_in_extra_time,score_Away_in_extra_time,score_home_in_penalties,score_Away_in_penalties,elapsed_time,extra_time,winner_name,status
+1035037,2023-08-11T16:00:00-03:00,Turf Moor,Burnley,C. Pawson,2023,Regular Season - 1,Burnley,Manchester City,0,3,0,2,0,3,,,,,90,,Manchester City,Match Finished
+1035038,2023-08-12T08:30:00-03:00,Emirates Stadium,London,M. Oliver,2023,Regular Season - 1,Arsenal,Nottingham Forest,2,1,2,0,2,1,,,,,90,,Arsenal,Match Finished
+1035039,2023-08-12T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",P. Bankes,2023,Regular Season - 1,Bournemouth,West Ham,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035041,2023-08-12T11:00:00-03:00,Goodison Park,Liverpool,S. Attwell,2023,Regular Season - 1,Everton,Fulham,0,1,0,0,0,1,,,,,90,,Fulham,Match Finished
+1035040,2023-08-12T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",D. Coote,2023,Regular Season - 1,Brighton,Luton,4,1,1,0,4,1,,,,,90,,Brighton,Match Finished
+1035042,2023-08-12T11:00:00-03:00,Bramall Lane,Sheffield,J. Brooks,2023,Regular Season - 1,Sheffield Utd,Crystal Palace,0,1,0,0,0,1,,,,,90,,Crystal Palace,Match Finished
+1035043,2023-08-12T13:30:00-03:00,St. James' Park,Newcastle upon Tyne,A. Madley,2023,Regular Season - 1,Newcastle,Aston Villa,5,1,2,1,5,1,,,,,90,,Newcastle,Match Finished
+1035044,2023-08-13T10:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",R. Jones,2023,Regular Season - 1,Brentford,Tottenham,2,2,2,2,2,2,,,,,90,,Draw,Match Finished
+1035045,2023-08-13T12:30:00-03:00,Stamford Bridge,London,A. Taylor,2023,Regular Season - 1,Chelsea,Liverpool,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+1035046,2023-08-14T16:00:00-03:00,Old Trafford,Manchester,S. Hooper,2023,Regular Season - 1,Manchester United,Wolves,1,0,0,0,1,0,,,,,90,,Manchester United,Match Finished
+1035053,2023-08-18T15:45:00-03:00,The City Ground,"Nottingham, Nottinghamshire",P. Bankes,2023,Regular Season - 2,Nottingham Forest,Sheffield Utd,2,1,1,0,2,1,,,,,90,,Nottingham Forest,Match Finished
+1035049,2023-08-19T11:00:00-03:00,Craven Cottage,London,D. Bond,2023,Regular Season - 2,Fulham,Brentford,0,3,0,1,0,3,,,,,90,,Brentford,Match Finished
+1035056,2023-08-19T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",A. Madley,2023,Regular Season - 2,Wolves,Brighton,1,4,0,1,1,4,,,,,90,,Brighton,Match Finished
+1035050,2023-08-19T11:00:00-03:00,Anfield,Liverpool,T. Bramall,2023,Regular Season - 2,Liverpool,Bournemouth,3,1,2,1,3,1,,,,,90,,Liverpool,Match Finished
+1035054,2023-08-19T13:30:00-03:00,Tottenham Hotspur Stadium,London,M. Oliver,2023,Regular Season - 2,Tottenham,Manchester United,2,0,0,0,2,0,,,,,90,,Tottenham,Match Finished
+1035052,2023-08-19T16:00:00-03:00,Etihad Stadium,Manchester,R. Jones,2023,Regular Season - 2,Manchester City,Newcastle,1,0,1,0,1,0,,,,,90,,Manchester City,Match Finished
+1035047,2023-08-20T10:00:00-03:00,Villa Park,Birmingham,A. Taylor,2023,Regular Season - 2,Aston Villa,Everton,4,0,2,0,4,0,,,,,90,,Aston Villa,Match Finished
+1035055,2023-08-20T12:30:00-03:00,London Stadium,London,J. Brooks,2023,Regular Season - 2,West Ham,Chelsea,3,1,1,1,3,1,,,,,90,,West Ham,Match Finished
+1035048,2023-08-21T16:00:00-03:00,Selhurst Park,London,D. Coote,2023,Regular Season - 2,Crystal Palace,Arsenal,0,1,0,0,0,1,,,,,90,,Arsenal,Match Finished
+1035062,2023-08-25T16:00:00-03:00,Stamford Bridge,London,R. Jones,2023,Regular Season - 3,Chelsea,Luton,3,0,1,0,3,0,,,,,90,,Chelsea,Match Finished
+1035057,2023-08-26T08:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",T. Robinson,2023,Regular Season - 3,Bournemouth,Tottenham,0,2,0,1,0,2,,,,,90,,Tottenham,Match Finished
+1035064,2023-08-26T11:00:00-03:00,Old Trafford,Manchester,S. Attwell,2023,Regular Season - 3,Manchester United,Nottingham Forest,3,2,1,2,3,2,,,,,90,,Manchester United,Match Finished
+1035058,2023-08-26T11:00:00-03:00,Emirates Stadium,London,P. Tierney,2023,Regular Season - 3,Arsenal,Fulham,2,2,0,1,2,2,,,,,90,,Draw,Match Finished
+1035063,2023-08-26T11:00:00-03:00,Goodison Park,Liverpool,C. Pawson,2023,Regular Season - 3,Everton,Wolves,0,1,0,0,0,1,,,,,90,,Wolves,Match Finished
+1035059,2023-08-26T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",P. Bankes,2023,Regular Season - 3,Brentford,Crystal Palace,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035060,2023-08-26T13:30:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,2023,Regular Season - 3,Brighton,West Ham,1,3,0,1,1,3,,,,,90,,West Ham,Match Finished
+1035061,2023-08-27T10:00:00-03:00,Turf Moor,Burnley,M. Salisbury,2023,Regular Season - 3,Burnley,Aston Villa,1,3,0,2,1,3,,,,,90,,Aston Villa,Match Finished
+1035066,2023-08-27T10:00:00-03:00,Bramall Lane,Sheffield,J. Gillett,2023,Regular Season - 3,Sheffield Utd,Manchester City,1,2,0,0,1,2,,,,,90,,Manchester City,Match Finished
+1035065,2023-08-27T12:30:00-03:00,St. James' Park,Newcastle upon Tyne,J. Brooks,2023,Regular Season - 3,Newcastle,Liverpool,1,2,1,0,1,2,,,,,90,,Liverpool,Match Finished
+1035074,2023-09-01T16:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",P. Tierney,2023,Regular Season - 4,Luton,West Ham,1,2,0,1,1,2,,,,,90,,West Ham,Match Finished
+1035076,2023-09-02T08:30:00-03:00,Bramall Lane,Sheffield,A. Madley,2023,Regular Season - 4,Sheffield Utd,Everton,2,2,2,1,2,2,,,,,90,,Draw,Match Finished
+1035070,2023-09-02T11:00:00-03:00,Turf Moor,Burnley,D. England,2023,Regular Season - 4,Burnley,Tottenham,2,5,1,2,2,5,,,,,90,,Tottenham,Match Finished
+1035071,2023-09-02T11:00:00-03:00,Stamford Bridge,London,T. Robinson,2023,Regular Season - 4,Chelsea,Nottingham Forest,0,1,0,0,0,1,,,,,90,,Nottingham Forest,Match Finished
+1035075,2023-09-02T11:00:00-03:00,Etihad Stadium,Manchester,M. Oliver,2023,Regular Season - 4,Manchester City,Fulham,5,1,2,1,5,1,,,,,90,,Manchester City,Match Finished
+1035068,2023-09-02T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",R. Madley,2023,Regular Season - 4,Brentford,Bournemouth,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+1035069,2023-09-02T13:30:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",S. Attwell,2023,Regular Season - 4,Brighton,Newcastle,3,1,1,0,3,1,,,,,90,,Brighton,Match Finished
+1035073,2023-09-03T10:00:00-03:00,Anfield,Liverpool,S. Hooper,2023,Regular Season - 4,Liverpool,Aston Villa,3,0,2,0,3,0,,,,,90,,Liverpool,Match Finished
+1035072,2023-09-03T10:00:00-03:00,Selhurst Park,London,R. Jones,2023,Regular Season - 4,Crystal Palace,Wolves,3,2,0,0,3,2,,,,,90,,Crystal Palace,Match Finished
+1035067,2023-09-03T12:30:00-03:00,Emirates Stadium,London,A. Taylor,2023,Regular Season - 4,Arsenal,Manchester United,3,1,1,1,3,1,,,,,90,,Arsenal,Match Finished
+1035086,2023-09-16T08:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Oliver,2023,Regular Season - 5,Wolves,Liverpool,1,3,1,0,1,3,,,,,90,,Liverpool,Match Finished
+1035081,2023-09-16T11:00:00-03:00,Old Trafford,Manchester,J. Gillett,2023,Regular Season - 5,Manchester United,Brighton,1,3,0,1,1,3,,,,,90,,Brighton,Match Finished
+1035080,2023-09-16T11:00:00-03:00,Craven Cottage,London,M. Salisbury,2023,Regular Season - 5,Fulham,Luton,1,0,0,0,1,0,,,,,90,,Fulham,Match Finished
+1035084,2023-09-16T11:00:00-03:00,Tottenham Hotspur Stadium,London,P. Bankes,2023,Regular Season - 5,Tottenham,Sheffield Utd,2,1,0,0,2,1,,,,,90,,Tottenham,Match Finished
+1035085,2023-09-16T11:00:00-03:00,London Stadium,London,A. Madley,2023,Regular Season - 5,West Ham,Manchester City,1,3,1,0,1,3,,,,,90,,Manchester City,Match Finished
+1035078,2023-09-16T11:00:00-03:00,Villa Park,Birmingham,D. England,2023,Regular Season - 5,Aston Villa,Crystal Palace,3,1,0,0,3,1,,,,,90,,Aston Villa,Match Finished
+1035082,2023-09-16T13:30:00-03:00,St. James' Park,Newcastle upon Tyne,C. Pawson,2023,Regular Season - 5,Newcastle,Brentford,1,0,0,0,1,0,,,,,90,,Newcastle,Match Finished
+1035077,2023-09-17T10:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",D. Coote,2023,Regular Season - 5,Bournemouth,Chelsea,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035079,2023-09-17T12:30:00-03:00,Goodison Park,Liverpool,S. Hooper,2023,Regular Season - 5,Everton,Arsenal,0,1,0,0,0,1,,,,,90,,Arsenal,Match Finished
+1035083,2023-09-18T15:45:00-03:00,The City Ground,"Nottingham, Nottinghamshire",R. Jones,2023,Regular Season - 5,Nottingham Forest,Burnley,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+1035095,2023-09-23T11:00:00-03:00,Etihad Stadium,Manchester,A. Taylor,2023,Regular Season - 6,Manchester City,Nottingham Forest,2,0,2,0,2,0,,,,,90,,Manchester City,Match Finished
+1035092,2023-09-23T11:00:00-03:00,Selhurst Park,London,P. Tierney,2023,Regular Season - 6,Crystal Palace,Fulham,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035094,2023-09-23T11:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",J. Smith,2023,Regular Season - 6,Luton,Wolves,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035088,2023-09-23T13:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",M. Oliver,2023,Regular Season - 6,Brentford,Everton,1,3,1,1,1,3,,,,,90,,Everton,Match Finished
+1035090,2023-09-23T16:00:00-03:00,Turf Moor,Burnley,T. Harrington,2023,Regular Season - 6,Burnley,Manchester United,0,1,0,1,0,1,,,,,90,,Manchester United,Match Finished
+1035093,2023-09-24T10:00:00-03:00,Anfield,Liverpool,C. Kavanagh,2023,Regular Season - 6,Liverpool,West Ham,3,1,1,1,3,1,,,,,90,,Liverpool,Match Finished
+1035087,2023-09-24T10:00:00-03:00,Emirates Stadium,London,R. Jones,2023,Regular Season - 6,Arsenal,Tottenham,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+1035091,2023-09-24T10:00:00-03:00,Stamford Bridge,London,J. Gillett,2023,Regular Season - 6,Chelsea,Aston Villa,0,1,0,0,0,1,,,,,90,,Aston Villa,Match Finished
+1035089,2023-09-24T10:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",J. Brooks,2023,Regular Season - 6,Brighton,Bournemouth,3,1,1,1,3,1,,,,,90,,Brighton,Match Finished
+1035096,2023-09-24T12:30:00-03:00,Bramall Lane,Sheffield,S. Attwell,2023,Regular Season - 6,Sheffield Utd,Newcastle,0,8,0,3,0,8,,,,,90,,Newcastle,Match Finished
+1035098,2023-09-30T08:30:00-03:00,Villa Park,Birmingham,A. Madley,2023,Regular Season - 7,Aston Villa,Brighton,6,1,3,0,6,1,,,,,90,,Aston Villa,Match Finished
+1035101,2023-09-30T11:00:00-03:00,Old Trafford,Manchester,C. Kavanagh,2023,Regular Season - 7,Manchester United,Crystal Palace,0,1,0,1,0,1,,,,,90,,Crystal Palace,Match Finished
+1035102,2023-09-30T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,T. Bramall,2023,Regular Season - 7,Newcastle,Burnley,2,0,1,0,2,0,,,,,90,,Newcastle,Match Finished
+1035097,2023-09-30T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",M. Salisbury,2023,Regular Season - 7,Bournemouth,Arsenal,0,4,0,2,0,4,,,,,90,,Arsenal,Match Finished
+1035106,2023-09-30T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",C. Pawson,2023,Regular Season - 7,Wolves,Manchester City,2,1,1,0,2,1,,,,,90,,Wolves,Match Finished
+1035099,2023-09-30T11:00:00-03:00,Goodison Park,Liverpool,A. Taylor,2023,Regular Season - 7,Everton,Luton,1,2,1,2,1,2,,,,,90,,Luton,Match Finished
+1035105,2023-09-30T11:00:00-03:00,London Stadium,London,G. Scott,2023,Regular Season - 7,West Ham,Sheffield Utd,2,0,2,0,2,0,,,,,90,,West Ham,Match Finished
+1035104,2023-09-30T13:30:00-03:00,Tottenham Hotspur Stadium,London,S. Hooper,2023,Regular Season - 7,Tottenham,Liverpool,2,1,1,1,2,1,,,,,90,,Tottenham,Match Finished
+1035103,2023-10-01T10:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2023,Regular Season - 7,Nottingham Forest,Brentford,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035100,2023-10-02T16:00:00-03:00,Craven Cottage,London,T. Robinson,2023,Regular Season - 7,Fulham,Chelsea,0,2,0,2,0,2,,,,,90,,Chelsea,Match Finished
+1035051,2023-10-03T15:30:00-03:00,Kenilworth Road,"Luton, Bedfordshire",P. Bankes,2023,Regular Season - 2,Luton,Burnley,1,2,0,1,1,2,,,,,90,,Burnley,Match Finished
+1035113,2023-10-07T08:30:00-03:00,Kenilworth Road,"Luton, Bedfordshire",J. Brooks,2023,Regular Season - 8,Luton,Tottenham,0,1,0,0,0,1,,,,,90,,Tottenham,Match Finished
+1035114,2023-10-07T11:00:00-03:00,Old Trafford,Manchester,A. Madley,2023,Regular Season - 8,Manchester United,Brentford,2,1,0,1,2,1,,,,,90,,Manchester United,Match Finished
+1035112,2023-10-07T11:00:00-03:00,Craven Cottage,London,S. Barrott,2023,Regular Season - 8,Fulham,Sheffield Utd,3,1,0,0,3,1,,,,,90,,Fulham,Match Finished
+1035109,2023-10-07T11:00:00-03:00,Turf Moor,Burnley,S. Attwell,2023,Regular Season - 8,Burnley,Chelsea,1,4,1,1,1,4,,,,,90,,Chelsea,Match Finished
+1035111,2023-10-07T11:00:00-03:00,Goodison Park,Liverpool,D. Coote,2023,Regular Season - 8,Everton,Bournemouth,3,0,2,0,3,0,,,,,90,,Everton,Match Finished
+1035110,2023-10-07T13:30:00-03:00,Selhurst Park,London,C. Pawson,2023,Regular Season - 8,Crystal Palace,Nottingham Forest,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035116,2023-10-08T10:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",R. Jones,2023,Regular Season - 8,Wolves,Aston Villa,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035115,2023-10-08T10:00:00-03:00,London Stadium,London,P. Bankes,2023,Regular Season - 8,West Ham,Newcastle,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+1035108,2023-10-08T10:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,2023,Regular Season - 8,Brighton,Liverpool,2,2,1,2,2,2,,,,,90,,Draw,Match Finished
+1035107,2023-10-08T12:30:00-03:00,Emirates Stadium,London,M. Oliver,2023,Regular Season - 8,Arsenal,Manchester City,1,0,0,0,1,0,,,,,90,,Arsenal,Match Finished
+1035121,2023-10-21T08:30:00-03:00,Anfield,Liverpool,C. Pawson,2023,Regular Season - 9,Liverpool,Everton,2,0,0,0,2,0,,,,,90,,Liverpool,Match Finished
+1035123,2023-10-21T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,T. Robinson,2023,Regular Season - 9,Newcastle,Crystal Palace,4,0,3,0,4,0,,,,,90,,Newcastle,Match Finished
+1035117,2023-10-21T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",P. Tierney,2023,Regular Season - 9,Bournemouth,Wolves,1,2,1,0,1,2,,,,,90,,Wolves,Match Finished
+1035122,2023-10-21T11:00:00-03:00,Etihad Stadium,Manchester,R. Jones,2023,Regular Season - 9,Manchester City,Brighton,2,1,2,0,2,1,,,,,90,,Manchester City,Match Finished
+1035119,2023-10-21T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",J. Smith,2023,Regular Season - 9,Brentford,Burnley,3,0,1,0,3,0,,,,,90,,Brentford,Match Finished
+1035124,2023-10-21T11:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",S. Barrott,2023,Regular Season - 9,Nottingham Forest,Luton,2,2,0,0,2,2,,,,,90,,Draw,Match Finished
+1035120,2023-10-21T13:30:00-03:00,Stamford Bridge,London,C. Kavanagh,2023,Regular Season - 9,Chelsea,Arsenal,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+1035125,2023-10-21T16:00:00-03:00,Bramall Lane,Sheffield,M. Oliver,2023,Regular Season - 9,Sheffield Utd,Manchester United,1,2,1,1,1,2,,,,,90,,Manchester United,Match Finished
+1035118,2023-10-22T12:30:00-03:00,Villa Park,Birmingham,D. Coote,2023,Regular Season - 9,Aston Villa,West Ham,4,1,1,0,4,1,,,,,90,,Aston Villa,Match Finished
+1035126,2023-10-23T16:00:00-03:00,Tottenham Hotspur Stadium,London,A. Taylor,2023,Regular Season - 9,Tottenham,Fulham,2,0,1,0,2,0,,,,,90,,Tottenham,Match Finished
+1035132,2023-10-27T16:00:00-03:00,Selhurst Park,London,A. Madley,2023,Regular Season - 10,Crystal Palace,Tottenham,1,2,0,0,1,2,,,,,90,,Tottenham,Match Finished
+1035131,2023-10-28T08:30:00-03:00,Stamford Bridge,London,S. Hooper,2023,Regular Season - 10,Chelsea,Brentford,0,2,0,0,0,2,,,,,90,,Brentford,Match Finished
+1035127,2023-10-28T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",S. Barrott,2023,Regular Season - 10,Bournemouth,Burnley,2,1,1,1,2,1,,,,,90,,Bournemouth,Match Finished
+1035128,2023-10-28T11:00:00-03:00,Emirates Stadium,London,T. Robinson,2023,Regular Season - 10,Arsenal,Sheffield Utd,5,0,1,0,5,0,,,,,90,,Arsenal,Match Finished
+1035136,2023-10-28T13:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",A. Taylor,2023,Regular Season - 10,Wolves,Newcastle,2,2,1,2,2,2,,,,,90,,Draw,Match Finished
+1035135,2023-10-29T10:00:00-03:00,London Stadium,London,S. Attwell,2023,Regular Season - 10,West Ham,Everton,0,1,0,0,0,1,,,,,90,,Everton,Match Finished
+1035133,2023-10-29T11:00:00-03:00,Anfield,Liverpool,C. Kavanagh,2023,Regular Season - 10,Liverpool,Nottingham Forest,3,0,2,0,3,0,,,,,90,,Liverpool,Match Finished
+1035130,2023-10-29T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",M. Salisbury,2023,Regular Season - 10,Brighton,Fulham,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035129,2023-10-29T11:00:00-03:00,Villa Park,Birmingham,J. Brooks,2023,Regular Season - 10,Aston Villa,Luton,3,1,1,0,3,1,,,,,90,,Aston Villa,Match Finished
+1035134,2023-10-29T12:30:00-03:00,Old Trafford,Manchester,P. Tierney,2023,Regular Season - 10,Manchester United,Manchester City,0,3,0,1,0,3,,,,,90,,Manchester City,Match Finished
+1035140,2023-11-04T09:30:00-03:00,Craven Cottage,London,J. Brooks,2023,Regular Season - 11,Fulham,Manchester United,0,1,0,0,0,1,,,,,90,,Manchester United,Match Finished
+1035138,2023-11-04T12:00:00-03:00,Turf Moor,Burnley,P. Bankes,2023,Regular Season - 11,Burnley,Crystal Palace,0,2,0,1,0,2,,,,,90,,Crystal Palace,Match Finished
+1035139,2023-11-04T12:00:00-03:00,Goodison Park,Liverpool,T. Robinson,2023,Regular Season - 11,Everton,Brighton,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035142,2023-11-04T12:00:00-03:00,Etihad Stadium,Manchester,C. Pawson,2023,Regular Season - 11,Manchester City,Bournemouth,6,1,3,0,6,1,,,,,90,,Manchester City,Match Finished
+1035137,2023-11-04T12:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",T. Bramall,2023,Regular Season - 11,Brentford,West Ham,3,2,1,2,3,2,,,,,90,,Brentford,Match Finished
+1035145,2023-11-04T12:00:00-03:00,Bramall Lane,Sheffield,R. Jones,2023,Regular Season - 11,Sheffield Utd,Wolves,2,1,0,0,2,1,,,,,90,,Sheffield Utd,Match Finished
+1035143,2023-11-04T14:30:00-03:00,St. James' Park,Newcastle upon Tyne,S. Attwell,2023,Regular Season - 11,Newcastle,Arsenal,1,0,0,0,1,0,,,,,90,,Newcastle,Match Finished
+1035144,2023-11-05T11:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,2023,Regular Season - 11,Nottingham Forest,Aston Villa,2,0,1,0,2,0,,,,,90,,Nottingham Forest,Match Finished
+1035141,2023-11-05T13:30:00-03:00,Kenilworth Road,"Luton, Bedfordshire",A. Madley,2023,Regular Season - 11,Luton,Liverpool,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035146,2023-11-06T17:00:00-03:00,Tottenham Hotspur Stadium,London,M. Oliver,2023,Regular Season - 11,Tottenham,Chelsea,1,4,1,1,1,4,,,,,90,,Chelsea,Match Finished
+1035156,2023-11-11T09:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Robinson,2023,Regular Season - 12,Wolves,Tottenham,2,1,0,1,2,1,,,,,90,,Wolves,Match Finished
+1035154,2023-11-11T12:00:00-03:00,Old Trafford,Manchester,G. Scott,2023,Regular Season - 12,Manchester United,Luton,1,0,0,0,1,0,,,,,90,,Manchester United,Match Finished
+1035148,2023-11-11T12:00:00-03:00,Emirates Stadium,London,M. Oliver,2023,Regular Season - 12,Arsenal,Burnley,3,1,1,0,3,1,,,,,90,,Arsenal,Match Finished
+1035152,2023-11-11T12:00:00-03:00,Selhurst Park,London,S. Barrott,2023,Regular Season - 12,Crystal Palace,Everton,2,3,1,1,2,3,,,,,90,,Everton,Match Finished
+1035147,2023-11-11T14:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",C. Kavanagh,2023,Regular Season - 12,Bournemouth,Newcastle,2,0,0,0,2,0,,,,,90,,Bournemouth,Match Finished
+1035153,2023-11-12T11:00:00-03:00,Anfield,Liverpool,P. Tierney,2023,Regular Season - 12,Liverpool,Brentford,3,0,1,0,3,0,,,,,90,,Liverpool,Match Finished
+1035155,2023-11-12T11:00:00-03:00,London Stadium,London,M. Salisbury,2023,Regular Season - 12,West Ham,Nottingham Forest,3,2,1,1,3,2,,,,,90,,West Ham,Match Finished
+1035150,2023-11-12T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",J. Brooks,2023,Regular Season - 12,Brighton,Sheffield Utd,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035149,2023-11-12T11:00:00-03:00,Villa Park,Birmingham,S. Hooper,2023,Regular Season - 12,Aston Villa,Fulham,3,1,2,0,3,1,,,,,90,,Aston Villa,Match Finished
+1035151,2023-11-12T13:30:00-03:00,Stamford Bridge,London,A. Taylor,2023,Regular Season - 12,Chelsea,Manchester City,4,4,2,2,4,4,,,,,90,,Draw,Match Finished
+1035299,2023-11-25T09:30:00-03:00,Etihad Stadium,Manchester,C. Kavanagh,2023,Regular Season - 13,Manchester City,Liverpool,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035300,2023-11-25T12:00:00-03:00,St. James' Park,Newcastle upon Tyne,S. Hooper,2023,Regular Season - 13,Newcastle,Chelsea,4,1,1,1,4,1,,,,,90,,Newcastle,Match Finished
+1035295,2023-11-25T12:00:00-03:00,Turf Moor,Burnley,S. Barrott,2023,Regular Season - 13,Burnley,West Ham,1,2,0,0,1,2,,,,,90,,West Ham,Match Finished
+1035302,2023-11-25T12:00:00-03:00,Bramall Lane,Sheffield,A. Madley,2023,Regular Season - 13,Sheffield Utd,Bournemouth,1,3,0,2,1,3,,,,,90,,Bournemouth,Match Finished
+1035301,2023-11-25T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,2023,Regular Season - 13,Nottingham Forest,Brighton,2,3,1,2,2,3,,,,,90,,Brighton,Match Finished
+1035298,2023-11-25T12:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",J. Gillett,2023,Regular Season - 13,Luton,Crystal Palace,2,1,0,0,2,1,,,,,90,,Luton,Match Finished
+1035294,2023-11-25T14:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",T. Robinson,2023,Regular Season - 13,Brentford,Arsenal,0,1,0,0,0,1,,,,,90,,Arsenal,Match Finished
+1035303,2023-11-26T11:00:00-03:00,Tottenham Hotspur Stadium,London,R. Jones,2023,Regular Season - 13,Tottenham,Aston Villa,1,2,1,1,1,2,,,,,90,,Aston Villa,Match Finished
+1035296,2023-11-26T13:30:00-03:00,Goodison Park,Liverpool,J. Brooks,2023,Regular Season - 13,Everton,Manchester United,0,3,0,1,0,3,,,,,90,,Manchester United,Match Finished
+1035297,2023-11-27T17:00:00-03:00,Craven Cottage,London,M. Salisbury,2023,Regular Season - 13,Fulham,Wolves,3,2,1,1,3,2,,,,,90,,Fulham,Match Finished
+1035305,2023-12-02T12:00:00-03:00,Emirates Stadium,London,P. Bankes,2023,Regular Season - 14,Arsenal,Wolves,2,1,2,0,2,1,,,,,90,,Arsenal,Match Finished
+1035307,2023-12-02T12:00:00-03:00,Turf Moor,Burnley,C. Kavanagh,2023,Regular Season - 14,Burnley,Sheffield Utd,5,0,2,0,5,0,,,,,90,,Burnley,Match Finished
+1035306,2023-12-02T12:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",A. Taylor,2023,Regular Season - 14,Brentford,Luton,3,1,0,0,3,1,,,,,90,,Brentford,Match Finished
+1035312,2023-12-02T14:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2023,Regular Season - 14,Nottingham Forest,Everton,0,1,0,0,0,1,,,,,90,,Everton,Match Finished
+1035311,2023-12-02T17:00:00-03:00,St. James' Park,Newcastle upon Tyne,R. Jones,2023,Regular Season - 14,Newcastle,Manchester United,1,0,0,0,1,0,,,,,90,,Newcastle,Match Finished
+1035304,2023-12-03T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",T. Bramall,2023,Regular Season - 14,Bournemouth,Aston Villa,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+1035309,2023-12-03T11:00:00-03:00,Anfield,Liverpool,S. Attwell,2023,Regular Season - 14,Liverpool,Fulham,4,3,2,2,4,3,,,,,90,,Liverpool,Match Finished
+1035313,2023-12-03T11:00:00-03:00,London Stadium,London,M. Oliver,2023,Regular Season - 14,West Ham,Crystal Palace,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035308,2023-12-03T11:00:00-03:00,Stamford Bridge,London,C. Pawson,2023,Regular Season - 14,Chelsea,Brighton,3,2,2,1,3,2,,,,,90,,Chelsea,Match Finished
+1035310,2023-12-03T13:30:00-03:00,Etihad Stadium,Manchester,S. Hooper,2023,Regular Season - 14,Manchester City,Tottenham,3,3,2,1,3,3,,,,,90,,Draw,Match Finished
+1035321,2023-12-05T16:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Gillett,2023,Regular Season - 15,Wolves,Burnley,1,0,1,0,1,0,,,,,90,,Wolves,Match Finished
+1035318,2023-12-05T17:15:00-03:00,Kenilworth Road,"Luton, Bedfordshire",S. Barrott,2023,Regular Season - 15,Luton,Arsenal,3,4,1,2,3,4,,,,,90,,Arsenal,Match Finished
+1035317,2023-12-06T16:30:00-03:00,Craven Cottage,London,J. Smith,2023,Regular Season - 15,Fulham,Nottingham Forest,5,0,2,0,5,0,,,,,90,,Fulham,Match Finished
+1035315,2023-12-06T16:30:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",P. Bankes,2023,Regular Season - 15,Brighton,Brentford,2,1,1,1,2,1,,,,,90,,Brighton,Match Finished
+1035322,2023-12-06T16:30:00-03:00,Selhurst Park,London,C. Pawson,2023,Regular Season - 15,Crystal Palace,Bournemouth,0,2,0,1,0,2,,,,,90,,Bournemouth,Match Finished
+1035319,2023-12-06T16:30:00-03:00,Bramall Lane,Sheffield,S. Hooper,2023,Regular Season - 15,Sheffield Utd,Liverpool,0,2,0,1,0,2,,,,,90,,Liverpool,Match Finished
+1035323,2023-12-06T17:15:00-03:00,Old Trafford,Manchester,C. Kavanagh,2023,Regular Season - 15,Manchester United,Chelsea,2,1,1,1,2,1,,,,,90,,Manchester United,Match Finished
+1035314,2023-12-06T17:15:00-03:00,Villa Park,Birmingham,J. Brooks,2023,Regular Season - 15,Aston Villa,Manchester City,1,0,0,0,1,0,,,,,90,,Aston Villa,Match Finished
+1035316,2023-12-07T16:30:00-03:00,Goodison Park,Liverpool,T. Robinson,2023,Regular Season - 15,Everton,Newcastle,3,0,0,0,3,0,,,,,90,,Everton,Match Finished
+1035320,2023-12-07T17:15:00-03:00,Tottenham Hotspur Stadium,London,M. Salisbury,2023,Regular Season - 15,Tottenham,West Ham,1,2,1,0,1,2,,,,,90,,West Ham,Match Finished
+1035326,2023-12-09T09:30:00-03:00,Selhurst Park,London,A. Madley,2023,Regular Season - 16,Crystal Palace,Liverpool,1,2,0,0,1,2,,,,,90,,Liverpool,Match Finished
+1035330,2023-12-09T12:00:00-03:00,Old Trafford,Manchester,P. Bankes,2023,Regular Season - 16,Manchester United,Bournemouth,0,3,0,1,0,3,,,,,90,,Bournemouth,Match Finished
+1035333,2023-12-09T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Barrott,2023,Regular Season - 16,Wolves,Nottingham Forest,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+1035325,2023-12-09T12:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",S. Hooper,2023,Regular Season - 16,Brighton,Burnley,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+1035331,2023-12-09T12:00:00-03:00,Bramall Lane,Sheffield,S. Attwell,2023,Regular Season - 16,Sheffield Utd,Brentford,1,0,1,0,1,0,,,,,90,,Sheffield Utd,Match Finished
+1035324,2023-12-09T14:30:00-03:00,Villa Park,Birmingham,J. Gillett,2023,Regular Season - 16,Aston Villa,Arsenal,1,0,1,0,1,0,,,,,90,,Aston Villa,Match Finished
+1035328,2023-12-10T11:00:00-03:00,Craven Cottage,London,P. Tierney,2023,Regular Season - 16,Fulham,West Ham,5,0,3,0,5,0,,,,,90,,Fulham,Match Finished
+1035327,2023-12-10T11:00:00-03:00,Goodison Park,Liverpool,M. Oliver,2023,Regular Season - 16,Everton,Chelsea,2,0,0,0,2,0,,,,,90,,Everton,Match Finished
+1035329,2023-12-10T11:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",T. Robinson,2023,Regular Season - 16,Luton,Manchester City,1,2,1,0,1,2,,,,,90,,Manchester City,Match Finished
+1035332,2023-12-10T13:30:00-03:00,Tottenham Hotspur Stadium,London,C. Kavanagh,2023,Regular Season - 16,Tottenham,Newcastle,4,1,2,0,4,1,,,,,90,,Tottenham,Match Finished
+1035342,2023-12-15T17:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,2023,Regular Season - 17,Nottingham Forest,Tottenham,0,2,0,1,0,2,,,,,90,,Tottenham,Match Finished
+1035341,2023-12-16T12:00:00-03:00,St. James' Park,Newcastle upon Tyne,S. Barrott,2023,Regular Season - 17,Newcastle,Fulham,3,0,0,0,3,0,,,,,90,,Newcastle,Match Finished
+1035338,2023-12-16T12:00:00-03:00,Stamford Bridge,London,A. Madley,2023,Regular Season - 17,Chelsea,Sheffield Utd,2,0,0,0,2,0,,,,,90,,Chelsea,Match Finished
+1035340,2023-12-16T12:00:00-03:00,Etihad Stadium,Manchester,P. Tierney,2023,Regular Season - 17,Manchester City,Crystal Palace,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+1035337,2023-12-16T14:30:00-03:00,Turf Moor,Burnley,A. Taylor,2023,Regular Season - 17,Burnley,Everton,0,2,0,2,0,2,,,,,90,,Everton,Match Finished
+1035335,2023-12-17T11:00:00-03:00,Emirates Stadium,London,T. Robinson,2023,Regular Season - 17,Arsenal,Brighton,2,0,0,0,2,0,,,,,90,,Arsenal,Match Finished
+1035343,2023-12-17T11:00:00-03:00,London Stadium,London,C. Kavanagh,2023,Regular Season - 17,West Ham,Wolves,3,0,2,0,3,0,,,,,90,,West Ham,Match Finished
+1035336,2023-12-17T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",D. Coote,2023,Regular Season - 17,Brentford,Aston Villa,1,2,1,0,1,2,,,,,90,,Aston Villa,Match Finished
+1035339,2023-12-17T13:30:00-03:00,Anfield,Liverpool,M. Oliver,2023,Regular Season - 17,Liverpool,Manchester United,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035345,2023-12-21T17:00:00-03:00,Selhurst Park,London,J. Brooks,2023,Regular Season - 18,Crystal Palace,Brighton,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035344,2023-12-22T17:00:00-03:00,Villa Park,Birmingham,A. Taylor,2023,Regular Season - 18,Aston Villa,Sheffield Utd,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035352,2023-12-23T09:30:00-03:00,London Stadium,London,S. Hooper,2023,Regular Season - 18,West Ham,Manchester United,2,0,0,0,2,0,,,,,90,,West Ham,Match Finished
+1035346,2023-12-23T12:00:00-03:00,Craven Cottage,London,R. Welch,2023,Regular Season - 18,Fulham,Burnley,0,2,0,0,0,2,,,,,90,,Burnley,Match Finished
+1035351,2023-12-23T12:00:00-03:00,Tottenham Hotspur Stadium,London,S. Attwell,2023,Regular Season - 18,Tottenham,Everton,2,1,2,0,2,1,,,,,90,,Tottenham,Match Finished
+1035350,2023-12-23T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",R. Jones,2023,Regular Season - 18,Nottingham Forest,Bournemouth,2,3,0,0,2,3,,,,,90,,Bournemouth,Match Finished
+1035348,2023-12-23T12:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",D. England,2023,Regular Season - 18,Luton,Newcastle,1,0,1,0,1,0,,,,,90,,Luton,Match Finished
+1035347,2023-12-23T14:30:00-03:00,Anfield,Liverpool,C. Kavanagh,2023,Regular Season - 18,Liverpool,Arsenal,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+1035353,2023-12-24T10:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,2023,Regular Season - 18,Wolves,Chelsea,2,1,0,0,2,1,,,,,90,,Wolves,Match Finished
+1035362,2023-12-26T09:30:00-03:00,St. James' Park,Newcastle upon Tyne,C. Kavanagh,2023,Regular Season - 19,Newcastle,Nottingham Forest,1,3,1,1,1,3,,,,,90,,Nottingham Forest,Match Finished
+1035354,2023-12-26T12:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",T. Robinson,2023,Regular Season - 19,Bournemouth,Fulham,3,0,1,0,3,0,,,,,90,,Bournemouth,Match Finished
+1035363,2023-12-26T12:00:00-03:00,Bramall Lane,Sheffield,S. Allison,2023,Regular Season - 19,Sheffield Utd,Luton,2,3,0,1,2,3,,,,,90,,Luton,Match Finished
+1035358,2023-12-26T14:30:00-03:00,Turf Moor,Burnley,P. Tierney,2023,Regular Season - 19,Burnley,Liverpool,0,2,0,1,0,2,,,,,90,,Liverpool,Match Finished
+1035361,2023-12-26T17:00:00-03:00,Old Trafford,Manchester,C. Pawson,2023,Regular Season - 19,Manchester United,Aston Villa,3,2,0,2,3,2,,,,,90,,Manchester United,Match Finished
+1035359,2023-12-27T16:30:00-03:00,Stamford Bridge,London,M. Salisbury,2023,Regular Season - 19,Chelsea,Crystal Palace,2,1,1,1,2,1,,,,,90,,Chelsea,Match Finished
+1035356,2023-12-27T16:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",A. Madley,2023,Regular Season - 19,Brentford,Wolves,1,4,1,3,1,4,,,,,90,,Wolves,Match Finished
+1035360,2023-12-27T17:15:00-03:00,Goodison Park,Liverpool,J. Brooks,2023,Regular Season - 19,Everton,Manchester City,1,3,1,0,1,3,,,,,90,,Manchester City,Match Finished
+1035357,2023-12-28T16:30:00-03:00,American Express Stadium,"Falmer, East Sussex",J. Gillett,2023,Regular Season - 19,Brighton,Tottenham,4,2,2,0,4,2,,,,,90,,Brighton,Match Finished
+1035355,2023-12-28T17:15:00-03:00,Emirates Stadium,London,M. Oliver,2023,Regular Season - 19,Arsenal,West Ham,0,2,0,1,0,2,,,,,90,,West Ham,Match Finished
+1035368,2023-12-30T09:30:00-03:00,Kenilworth Road,"Luton, Bedfordshire",P. Tierney,2023,Regular Season - 20,Luton,Chelsea,2,3,0,2,2,3,,,,,90,,Chelsea,Match Finished
+1035373,2023-12-30T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Bramall,2023,Regular Season - 20,Wolves,Everton,3,0,1,0,3,0,,,,,90,,Wolves,Match Finished
+1035369,2023-12-30T12:00:00-03:00,Etihad Stadium,Manchester,D. Coote,2023,Regular Season - 20,Manchester City,Sheffield Utd,2,0,1,0,2,0,,,,,90,,Manchester City,Match Finished
+1035365,2023-12-30T12:00:00-03:00,Selhurst Park,London,R. Jones,2023,Regular Season - 20,Crystal Palace,Brentford,3,1,2,1,3,1,,,,,90,,Crystal Palace,Match Finished
+1035364,2023-12-30T12:00:00-03:00,Villa Park,Birmingham,S. Attwell,2023,Regular Season - 20,Aston Villa,Burnley,3,2,2,1,3,2,,,,,90,,Aston Villa,Match Finished
+1035370,2023-12-30T14:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",T. Robinson,2023,Regular Season - 20,Nottingham Forest,Manchester United,2,1,0,0,2,1,,,,,90,,Nottingham Forest,Match Finished
+1035366,2023-12-31T11:00:00-03:00,Craven Cottage,London,J. Smith,2023,Regular Season - 20,Fulham,Arsenal,2,1,1,1,2,1,,,,,90,,Fulham,Match Finished
+1035371,2023-12-31T11:00:00-03:00,Tottenham Hotspur Stadium,London,S. Hooper,2023,Regular Season - 20,Tottenham,Bournemouth,3,1,1,0,3,1,,,,,90,,Tottenham,Match Finished
+1035367,2024-01-01T17:00:00-03:00,Anfield,Liverpool,A. Taylor,2023,Regular Season - 20,Liverpool,Newcastle,4,2,0,0,4,2,,,,,90,,Liverpool,Match Finished
+1035372,2024-01-02T16:30:00-03:00,London Stadium,London,S. Barrott,2023,Regular Season - 20,West Ham,Brighton,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035378,2024-01-12T16:45:00-03:00,Turf Moor,Burnley,T. Harrington,2023,Regular Season - 21,Burnley,Luton,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035379,2024-01-13T09:30:00-03:00,Stamford Bridge,London,A. Taylor,2023,Regular Season - 21,Chelsea,Fulham,1,0,1,0,1,0,,,,,90,,Chelsea,Match Finished
+1035382,2024-01-13T14:30:00-03:00,St. James' Park,Newcastle upon Tyne,C. Kavanagh,2023,Regular Season - 21,Newcastle,Manchester City,2,3,2,1,2,3,,,,,90,,Manchester City,Match Finished
+1035380,2024-01-14T11:00:00-03:00,Goodison Park,Liverpool,D. Coote,2023,Regular Season - 21,Everton,Aston Villa,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035381,2024-01-14T13:30:00-03:00,Old Trafford,Manchester,J. Brooks,2023,Regular Season - 21,Manchester United,Tottenham,2,2,2,1,2,2,,,,,90,,Draw,Match Finished
+1035375,2024-01-20T09:30:00-03:00,Emirates Stadium,London,P. Tierney,2023,Regular Season - 21,Arsenal,Crystal Palace,5,0,2,0,5,0,,,,,90,,Arsenal,Match Finished
+1035376,2024-01-20T14:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",D. England,2023,Regular Season - 21,Brentford,Nottingham Forest,3,2,1,1,3,2,,,,,90,,Brentford,Match Finished
+1035383,2024-01-21T11:00:00-03:00,Bramall Lane,Sheffield,M. Salisbury,2023,Regular Season - 21,Sheffield Utd,West Ham,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+1035374,2024-01-21T13:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",A. Madley,2023,Regular Season - 21,Bournemouth,Liverpool,0,4,0,0,0,4,,,,,90,,Liverpool,Match Finished
+1035377,2024-01-22T16:45:00-03:00,American Express Stadium,"Falmer, East Sussex",C. Pawson,2023,Regular Season - 21,Brighton,Wolves,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035387,2024-01-30T16:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",S. Hooper,2023,Regular Season - 22,Nottingham Forest,Arsenal,1,2,0,0,1,2,,,,,90,,Arsenal,Match Finished
+1035385,2024-01-30T16:45:00-03:00,Craven Cottage,London,T. Bramall,2023,Regular Season - 22,Fulham,Everton,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035386,2024-01-30T16:45:00-03:00,Kenilworth Road,"Luton, Bedfordshire",R. Jones,2023,Regular Season - 22,Luton,Brighton,4,0,3,0,4,0,,,,,90,,Luton,Match Finished
+1035391,2024-01-30T17:00:00-03:00,Selhurst Park,London,T. Harrington,2023,Regular Season - 22,Crystal Palace,Sheffield Utd,3,2,2,2,3,2,,,,,90,,Crystal Palace,Match Finished
+1035384,2024-01-30T17:15:00-03:00,Villa Park,Birmingham,J. Brooks,2023,Regular Season - 22,Aston Villa,Newcastle,1,3,0,2,1,3,,,,,90,,Newcastle,Match Finished
+1035388,2024-01-31T16:30:00-03:00,Tottenham Hotspur Stadium,London,D. Coote,2023,Regular Season - 22,Tottenham,Brentford,3,2,0,1,3,2,,,,,90,,Tottenham,Match Finished
+1035393,2024-01-31T16:30:00-03:00,Etihad Stadium,Manchester,S. Barrott,2023,Regular Season - 22,Manchester City,Burnley,3,1,2,0,3,1,,,,,90,,Manchester City,Match Finished
+1035392,2024-01-31T17:15:00-03:00,Anfield,Liverpool,P. Tierney,2023,Regular Season - 22,Liverpool,Chelsea,4,1,2,0,4,1,,,,,90,,Liverpool,Match Finished
+1035389,2024-02-01T16:30:00-03:00,London Stadium,London,T. Robinson,2023,Regular Season - 22,West Ham,Bournemouth,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+1035390,2024-02-01T17:15:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Gillett,2023,Regular Season - 22,Wolves,Manchester United,3,4,0,2,3,4,,,,,90,,Manchester United,Match Finished
+1035400,2024-02-03T09:30:00-03:00,Goodison Park,Liverpool,M. Oliver,2023,Regular Season - 23,Everton,Tottenham,2,2,1,2,2,2,,,,,90,,Draw,Match Finished
+1035402,2024-02-03T12:00:00-03:00,St. James' Park,Newcastle upon Tyne,T. Bramall,2023,Regular Season - 23,Newcastle,Luton,4,4,2,2,4,4,,,,,90,,Draw,Match Finished
+1035398,2024-02-03T12:00:00-03:00,Turf Moor,Burnley,D. Bond,2023,Regular Season - 23,Burnley,Fulham,2,2,0,2,2,2,,,,,90,,Draw,Match Finished
+1035397,2024-02-03T12:00:00-03:00,American Express Stadium,"Falmer, East Sussex",S. Hooper,2023,Regular Season - 23,Brighton,Crystal Palace,4,1,3,0,4,1,,,,,90,,Brighton,Match Finished
+1035403,2024-02-03T14:30:00-03:00,Bramall Lane,Sheffield,P. Tierney,2023,Regular Season - 23,Sheffield Utd,Aston Villa,0,5,0,4,0,5,,,,,90,,Aston Villa,Match Finished
+1035401,2024-02-04T11:00:00-03:00,Old Trafford,Manchester,A. Madley,2023,Regular Season - 23,Manchester United,West Ham,3,0,1,0,3,0,,,,,90,,Manchester United,Match Finished
+1035394,2024-02-04T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",R. Welch,2023,Regular Season - 23,Bournemouth,Nottingham Forest,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+1035399,2024-02-04T11:00:00-03:00,Stamford Bridge,London,T. Robinson,2023,Regular Season - 23,Chelsea,Wolves,2,4,1,2,2,4,,,,,90,,Wolves,Match Finished
+1035395,2024-02-04T13:30:00-03:00,Emirates Stadium,London,A. Taylor,2023,Regular Season - 23,Arsenal,Liverpool,3,1,1,1,3,1,,,,,90,,Arsenal,Match Finished
+1035396,2024-02-05T17:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,2023,Regular Season - 23,Brentford,Manchester City,1,3,1,1,1,3,,,,,90,,Manchester City,Match Finished
+1035409,2024-02-10T09:30:00-03:00,Etihad Stadium,Manchester,J. Brooks,2023,Regular Season - 24,Manchester City,Everton,2,0,0,0,2,0,,,,,90,,Manchester City,Match Finished
+1035406,2024-02-10T12:00:00-03:00,Craven Cottage,London,D. England,2023,Regular Season - 24,Fulham,Bournemouth,3,1,2,0,3,1,,,,,90,,Fulham,Match Finished
+1035413,2024-02-10T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Hooper,2023,Regular Season - 24,Wolves,Brentford,0,2,0,1,0,2,,,,,90,,Brentford,Match Finished
+1035407,2024-02-10T12:00:00-03:00,Anfield,Liverpool,T. Robinson,2023,Regular Season - 24,Liverpool,Burnley,3,1,1,1,3,1,,,,,90,,Liverpool,Match Finished
+1035411,2024-02-10T12:00:00-03:00,Tottenham Hotspur Stadium,London,S. Barrott,2023,Regular Season - 24,Tottenham,Brighton,2,1,0,1,2,1,,,,,90,,Tottenham,Match Finished
+1035408,2024-02-10T12:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",C. Kavanagh,2023,Regular Season - 24,Luton,Sheffield Utd,1,3,0,2,1,3,,,,,90,,Sheffield Utd,Match Finished
+1035410,2024-02-10T14:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,2023,Regular Season - 24,Nottingham Forest,Newcastle,2,3,2,2,2,3,,,,,90,,Newcastle,Match Finished
+1035412,2024-02-11T11:00:00-03:00,London Stadium,London,C. Pawson,2023,Regular Season - 24,West Ham,Arsenal,0,6,0,4,0,6,,,,,90,,Arsenal,Match Finished
+1035404,2024-02-11T13:30:00-03:00,Villa Park,Birmingham,R. Jones,2023,Regular Season - 24,Aston Villa,Manchester United,1,2,0,1,1,2,,,,,90,,Manchester United,Match Finished
+1035405,2024-02-12T17:00:00-03:00,Selhurst Park,London,M. Oliver,2023,Regular Season - 24,Crystal Palace,Chelsea,1,3,1,0,1,3,,,,,90,,Chelsea,Match Finished
+1035414,2024-02-17T09:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",M. Oliver,2023,Regular Season - 25,Brentford,Liverpool,1,4,0,1,1,4,,,,,90,,Liverpool,Match Finished
+1035420,2024-02-17T12:00:00-03:00,St. James' Park,Newcastle upon Tyne,M. Salisbury,2023,Regular Season - 25,Newcastle,Bournemouth,2,2,0,0,2,2,,,,,90,,Draw,Match Finished
+1035417,2024-02-17T12:00:00-03:00,Craven Cottage,London,L. Smith,2023,Regular Season - 25,Fulham,Aston Villa,1,2,0,1,1,2,,,,,90,,Aston Villa,Match Finished
+1035415,2024-02-17T12:00:00-03:00,Turf Moor,Burnley,J. Gillett,2023,Regular Season - 25,Burnley,Arsenal,0,5,0,2,0,5,,,,,90,,Arsenal,Match Finished
+1035423,2024-02-17T12:00:00-03:00,Tottenham Hotspur Stadium,London,A. Taylor,2023,Regular Season - 25,Tottenham,Wolves,1,2,0,1,1,2,,,,,90,,Wolves,Match Finished
+1035421,2024-02-17T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",T. Bramall,2023,Regular Season - 25,Nottingham Forest,West Ham,2,0,1,0,2,0,,,,,90,,Nottingham Forest,Match Finished
+1035419,2024-02-17T14:30:00-03:00,Etihad Stadium,Manchester,A. Madley,2023,Regular Season - 25,Manchester City,Chelsea,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+1035422,2024-02-18T11:00:00-03:00,Bramall Lane,Sheffield,S. Attwell,2023,Regular Season - 25,Sheffield Utd,Brighton,0,5,0,2,0,5,,,,,90,,Brighton,Match Finished
+1035418,2024-02-18T13:30:00-03:00,Kenilworth Road,"Luton, Bedfordshire",D. Coote,2023,Regular Season - 25,Luton,Manchester United,1,2,1,2,1,2,,,,,90,,Manchester United,Match Finished
+1035416,2024-02-19T17:00:00-03:00,Goodison Park,Liverpool,P. Tierney,2023,Regular Season - 25,Everton,Crystal Palace,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035349,2024-02-20T16:30:00-03:00,Etihad Stadium,Manchester,D. England,2023,Regular Season - 18,Manchester City,Brentford,1,0,0,0,1,0,,,,,90,,Manchester City,Match Finished
+1035430,2024-02-21T16:30:00-03:00,Anfield,Liverpool,A. Madley,2023,Regular Season - 26,Liverpool,Luton,4,1,0,1,4,1,,,,,90,,Liverpool,Match Finished
+1035431,2024-02-24T12:00:00-03:00,Old Trafford,Manchester,M. Oliver,2023,Regular Season - 26,Manchester United,Fulham,1,2,0,0,1,2,,,,,90,,Fulham,Match Finished
+1035427,2024-02-24T12:00:00-03:00,American Express Stadium,"Falmer, East Sussex",T. Harrington,2023,Regular Season - 26,Brighton,Everton,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035429,2024-02-24T12:00:00-03:00,Selhurst Park,London,L. Smith,2023,Regular Season - 26,Crystal Palace,Burnley,3,0,0,0,3,0,,,,,90,,Crystal Palace,Match Finished
+1035426,2024-02-24T12:00:00-03:00,Villa Park,Birmingham,S. Barrott,2023,Regular Season - 26,Aston Villa,Nottingham Forest,4,2,3,1,4,2,,,,,90,,Aston Villa,Match Finished
+1035424,2024-02-24T14:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",J. Gillett,2023,Regular Season - 26,Bournemouth,Manchester City,0,1,0,1,0,1,,,,,90,,Manchester City,Match Finished
+1035425,2024-02-24T17:00:00-03:00,Emirates Stadium,London,P. Tierney,2023,Regular Season - 26,Arsenal,Newcastle,4,1,2,0,4,1,,,,,90,,Arsenal,Match Finished
+1035433,2024-02-25T10:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Bond,2023,Regular Season - 26,Wolves,Sheffield Utd,1,0,1,0,1,0,,,,,90,,Wolves,Match Finished
+1035432,2024-02-26T17:00:00-03:00,London Stadium,London,S. Hooper,2023,Regular Season - 26,West Ham,Brentford,4,2,2,1,4,2,,,,,90,,West Ham,Match Finished
+1035440,2024-03-02T12:00:00-03:00,St. James' Park,Newcastle upon Tyne,T. Robinson,2023,Regular Season - 27,Newcastle,Wolves,3,0,2,0,3,0,,,,,90,,Newcastle,Match Finished
+1035437,2024-03-02T12:00:00-03:00,Craven Cottage,London,S. Hooper,2023,Regular Season - 27,Fulham,Brighton,3,0,2,0,3,0,,,,,90,,Fulham,Match Finished
+1035436,2024-03-02T12:00:00-03:00,Goodison Park,Liverpool,C. Pawson,2023,Regular Season - 27,Everton,West Ham,1,3,0,0,1,3,,,,,90,,West Ham,Match Finished
+1035443,2024-03-02T12:00:00-03:00,Tottenham Hotspur Stadium,London,J. Brooks,2023,Regular Season - 27,Tottenham,Crystal Palace,3,1,0,0,3,1,,,,,90,,Tottenham,Match Finished
+1035434,2024-03-02T12:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,2023,Regular Season - 27,Brentford,Chelsea,2,2,0,1,2,2,,,,,90,,Draw,Match Finished
+1035441,2024-03-02T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2023,Regular Season - 27,Nottingham Forest,Liverpool,0,1,0,0,0,1,,,,,90,,Liverpool,Match Finished
+1035438,2024-03-02T14:30:00-03:00,Kenilworth Road,"Luton, Bedfordshire",M. Oliver,2023,Regular Season - 27,Luton,Aston Villa,2,3,0,2,2,3,,,,,90,,Aston Villa,Match Finished
+1035435,2024-03-03T10:00:00-03:00,Turf Moor,Burnley,D. Coote,2023,Regular Season - 27,Burnley,Bournemouth,0,2,0,1,0,2,,,,,90,,Bournemouth,Match Finished
+1035439,2024-03-03T12:30:00-03:00,Etihad Stadium,Manchester,A. Madley,2023,Regular Season - 27,Manchester City,Manchester United,3,1,0,1,3,1,,,,,90,,Manchester City,Match Finished
+1035442,2024-03-04T17:00:00-03:00,Bramall Lane,Sheffield,S. Barrott,2023,Regular Season - 27,Sheffield Utd,Arsenal,0,6,0,5,0,6,,,,,90,,Arsenal,Match Finished
+1035451,2024-03-09T09:30:00-03:00,Old Trafford,Manchester,S. Hooper,2023,Regular Season - 28,Manchester United,Everton,2,0,2,0,2,0,,,,,90,,Manchester United,Match Finished
+1035444,2024-03-09T12:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,2023,Regular Season - 28,Bournemouth,Sheffield Utd,2,2,0,1,2,2,,,,,90,,Draw,Match Finished
+1035453,2024-03-09T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Harrington,2023,Regular Season - 28,Wolves,Fulham,2,1,0,0,2,1,,,,,90,,Wolves,Match Finished
+1035449,2024-03-09T12:00:00-03:00,Selhurst Park,London,S. Singh,2023,Regular Season - 28,Crystal Palace,Luton,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035445,2024-03-09T14:30:00-03:00,Emirates Stadium,London,R. Jones,2023,Regular Season - 28,Arsenal,Brentford,2,1,1,1,2,1,,,,,90,,Arsenal,Match Finished
+1035446,2024-03-10T10:00:00-03:00,Villa Park,Birmingham,C. Kavanagh,2023,Regular Season - 28,Aston Villa,Tottenham,0,4,0,0,0,4,,,,,90,,Tottenham,Match Finished
+1035452,2024-03-10T11:00:00-03:00,London Stadium,London,D. England,2023,Regular Season - 28,West Ham,Burnley,2,2,0,2,2,2,,,,,90,,Draw,Match Finished
+1035447,2024-03-10T11:00:00-03:00,American Express Stadium,"Falmer, East Sussex",M. Salisbury,2023,Regular Season - 28,Brighton,Nottingham Forest,1,0,1,0,1,0,,,,,90,,Brighton,Match Finished
+1035450,2024-03-10T12:45:00-03:00,Anfield,Liverpool,M. Oliver,2023,Regular Season - 28,Liverpool,Manchester City,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+1035448,2024-03-11T17:00:00-03:00,Stamford Bridge,London,J. Brooks,2023,Regular Season - 28,Chelsea,Newcastle,3,2,1,1,3,2,,,,,90,,Chelsea,Match Finished
+1035334,2024-03-13T16:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",S. Allison,2023,Regular Season - 17,Bournemouth,Luton,4,3,0,3,4,3,,,,,90,,Bournemouth,Match Finished
+1035456,2024-03-16T12:00:00-03:00,Turf Moor,Burnley,D. Bond,2023,Regular Season - 29,Burnley,Brentford,2,1,1,0,2,1,,,,,90,,Burnley,Match Finished
+1035460,2024-03-16T12:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",D. England,2023,Regular Season - 29,Luton,Nottingham Forest,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+1035459,2024-03-16T14:30:00-03:00,Craven Cottage,London,R. Jones,2023,Regular Season - 29,Fulham,Tottenham,3,0,1,0,3,0,,,,,90,,Fulham,Match Finished
+1035462,2024-03-17T11:00:00-03:00,London Stadium,London,J. Gillett,2023,Regular Season - 29,West Ham,Aston Villa,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035470,2024-03-30T09:30:00-03:00,St. James' Park,Newcastle upon Tyne,R. Jones,2023,Regular Season - 30,Newcastle,West Ham,4,3,1,2,4,3,,,,,90,,Newcastle,Match Finished
+1035464,2024-03-30T12:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",S. Barrott,2023,Regular Season - 30,Bournemouth,Everton,2,1,0,0,2,1,,,,,90,,Bournemouth,Match Finished
+1035473,2024-03-30T12:00:00-03:00,Tottenham Hotspur Stadium,London,J. Gillett,2023,Regular Season - 30,Tottenham,Luton,2,1,0,1,2,1,,,,,90,,Tottenham,Match Finished
+1035467,2024-03-30T12:00:00-03:00,Stamford Bridge,London,D. England,2023,Regular Season - 30,Chelsea,Burnley,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+1035472,2024-03-30T12:00:00-03:00,Bramall Lane,Sheffield,T. Robinson,2023,Regular Season - 30,Sheffield Utd,Fulham,3,3,0,0,3,3,,,,,90,,Draw,Match Finished
+1035471,2024-03-30T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",C. Kavanagh,2023,Regular Season - 30,Nottingham Forest,Crystal Palace,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+1035465,2024-03-30T14:30:00-03:00,Villa Park,Birmingham,P. Tierney,2023,Regular Season - 30,Aston Villa,Wolves,2,0,1,0,2,0,,,,,90,,Aston Villa,Match Finished
+1035466,2024-03-30T17:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",S. Hooper,2023,Regular Season - 30,Brentford,Manchester United,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035468,2024-03-31T10:00:00-03:00,Anfield,Liverpool,D. Coote,2023,Regular Season - 30,Liverpool,Brighton,2,1,1,1,2,1,,,,,90,,Liverpool,Match Finished
+1035469,2024-03-31T12:30:00-03:00,Etihad Stadium,Manchester,A. Taylor,2023,Regular Season - 30,Manchester City,Arsenal,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035481,2024-04-02T15:30:00-03:00,St. James' Park,Newcastle upon Tyne,T. Harrington,2023,Regular Season - 31,Newcastle,Everton,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+1035478,2024-04-02T15:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",M. Oliver,2023,Regular Season - 31,Nottingham Forest,Fulham,3,1,3,0,3,1,,,,,90,,Nottingham Forest,Match Finished
+1035474,2024-04-02T15:45:00-03:00,Vitality Stadium,"Bournemouth, Dorset",G. Scott,2023,Regular Season - 31,Bournemouth,Crystal Palace,1,0,0,0,1,0,,,,,90,,Bournemouth,Match Finished
+1035477,2024-04-02T15:45:00-03:00,Turf Moor,Burnley,T. Bramall,2023,Regular Season - 31,Burnley,Wolves,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+1035479,2024-04-02T16:15:00-03:00,London Stadium,London,J. Brooks,2023,Regular Season - 31,West Ham,Tottenham,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+1035475,2024-04-03T15:30:00-03:00,Emirates Stadium,London,C. Pawson,2023,Regular Season - 31,Arsenal,Luton,2,0,2,0,2,0,,,,,90,,Arsenal,Match Finished
+1035476,2024-04-03T15:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",A. Madley,2023,Regular Season - 31,Brentford,Brighton,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035483,2024-04-03T16:15:00-03:00,Etihad Stadium,Manchester,D. England,2023,Regular Season - 31,Manchester City,Aston Villa,4,1,2,1,4,1,,,,,90,,Manchester City,Match Finished
+1035482,2024-04-04T15:30:00-03:00,Anfield,Liverpool,S. Attwell,2023,Regular Season - 31,Liverpool,Sheffield Utd,3,1,1,0,3,1,,,,,90,,Liverpool,Match Finished
+1035480,2024-04-04T16:15:00-03:00,Stamford Bridge,London,J. Gillett,2023,Regular Season - 31,Chelsea,Manchester United,4,3,2,2,4,3,,,,,90,,Chelsea,Match Finished
+1035486,2024-04-06T08:30:00-03:00,Selhurst Park,London,P. Tierney,2023,Regular Season - 32,Crystal Palace,Manchester City,2,4,1,1,2,4,,,,,90,,Manchester City,Match Finished
+1035488,2024-04-06T11:00:00-03:00,Craven Cottage,London,S. Allison,2023,Regular Season - 32,Fulham,Newcastle,0,1,0,0,0,1,,,,,90,,Newcastle,Match Finished
+1035493,2024-04-06T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Harrington,2023,Regular Season - 32,Wolves,West Ham,1,2,1,0,1,2,,,,,90,,West Ham,Match Finished
+1035487,2024-04-06T11:00:00-03:00,Goodison Park,Liverpool,M. Oliver,2023,Regular Season - 32,Everton,Burnley,1,0,1,0,1,0,,,,,90,,Everton,Match Finished
+1035484,2024-04-06T11:00:00-03:00,Villa Park,Birmingham,M. Salisbury,2023,Regular Season - 32,Aston Villa,Brentford,3,3,1,0,3,3,,,,,90,,Draw,Match Finished
+1035489,2024-04-06T11:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",A. Madley,2023,Regular Season - 32,Luton,Bournemouth,2,1,0,0,2,1,,,,,90,,Luton,Match Finished
+1035485,2024-04-06T13:30:00-03:00,American Express Stadium,"Falmer, East Sussex",J. Brooks,2023,Regular Season - 32,Brighton,Arsenal,0,3,0,1,0,3,,,,,90,,Arsenal,Match Finished
+1035490,2024-04-07T11:30:00-03:00,Old Trafford,Manchester,A. Taylor,2023,Regular Season - 32,Manchester United,Liverpool,2,2,0,1,2,2,,,,,90,,Draw,Match Finished
+1035491,2024-04-07T13:30:00-03:00,Bramall Lane,Sheffield,R. Jones,2023,Regular Season - 32,Sheffield Utd,Chelsea,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+1035492,2024-04-07T14:00:00-03:00,Tottenham Hotspur Stadium,London,S. Hooper,2023,Regular Season - 32,Tottenham,Nottingham Forest,3,1,1,1,3,1,,,,,90,,Tottenham,Match Finished
+1035501,2024-04-13T08:30:00-03:00,St. James' Park,Newcastle upon Tyne,T. Robinson,2023,Regular Season - 33,Newcastle,Tottenham,4,0,2,0,4,0,,,,,90,,Newcastle,Match Finished
+1035497,2024-04-13T11:00:00-03:00,Turf Moor,Burnley,S. Hooper,2023,Regular Season - 33,Burnley,Brighton,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035500,2024-04-13T11:00:00-03:00,Etihad Stadium,Manchester,J. Brooks,2023,Regular Season - 33,Manchester City,Luton,5,1,1,0,5,1,,,,,90,,Manchester City,Match Finished
+1035496,2024-04-13T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",S. Barrott,2023,Regular Season - 33,Brentford,Sheffield Utd,2,0,0,0,2,0,,,,,90,,Brentford,Match Finished
+1035502,2024-04-13T11:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",C. Pawson,2023,Regular Season - 33,Nottingham Forest,Wolves,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+1035494,2024-04-13T13:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",T. Harrington,2023,Regular Season - 33,Bournemouth,Manchester United,2,2,2,1,2,2,,,,,90,,Draw,Match Finished
+1035499,2024-04-14T10:00:00-03:00,Anfield,Liverpool,C. Kavanagh,2023,Regular Season - 33,Liverpool,Crystal Palace,0,1,0,1,0,1,,,,,90,,Crystal Palace,Match Finished
+1035503,2024-04-14T10:00:00-03:00,London Stadium,London,S. Attwell,2023,Regular Season - 33,West Ham,Fulham,0,2,0,1,0,2,,,,,90,,Fulham,Match Finished
+1035495,2024-04-14T12:30:00-03:00,Emirates Stadium,London,D. Coote,2023,Regular Season - 33,Arsenal,Aston Villa,0,2,0,0,0,2,,,,,90,,Aston Villa,Match Finished
+1035498,2024-04-15T16:00:00-03:00,Stamford Bridge,London,P. Tierney,2023,Regular Season - 33,Chelsea,Everton,6,0,4,0,6,0,,,,,90,,Chelsea,Match Finished
+1035511,2024-04-20T11:00:00-03:00,Bramall Lane,Sheffield,A. Madley,2023,Regular Season - 34,Sheffield Utd,Burnley,1,4,0,2,1,4,,,,,90,,Burnley,Match Finished
+1035509,2024-04-20T11:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",J. Gillett,2023,Regular Season - 34,Luton,Brentford,1,5,0,2,1,5,,,,,90,,Brentford,Match Finished
+1035513,2024-04-20T15:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Tierney,2023,Regular Season - 34,Wolves,Arsenal,0,2,0,1,0,2,,,,,90,,Arsenal,Match Finished
+1035507,2024-04-21T09:30:00-03:00,Goodison Park,Liverpool,A. Taylor,2023,Regular Season - 34,Everton,Nottingham Forest,2,0,1,0,2,0,,,,,90,,Everton,Match Finished
+1035506,2024-04-21T11:00:00-03:00,Selhurst Park,London,G. Scott,2023,Regular Season - 34,Crystal Palace,West Ham,5,2,4,1,5,2,,,,,90,,Crystal Palace,Match Finished
+1035504,2024-04-21T11:00:00-03:00,Villa Park,Birmingham,T. Robinson,2023,Regular Season - 34,Aston Villa,Bournemouth,3,1,1,1,3,1,,,,,90,,Aston Villa,Match Finished
+1035508,2024-04-21T12:30:00-03:00,Craven Cottage,London,C. Pawson,2023,Regular Season - 34,Fulham,Liverpool,1,3,1,1,1,3,,,,,90,,Liverpool,Match Finished
+1035454,2024-04-23T16:00:00-03:00,Emirates Stadium,London,S. Hooper,2023,Regular Season - 29,Arsenal,Chelsea,5,0,1,0,5,0,,,,,90,,Arsenal,Match Finished
+1035463,2024-04-24T15:45:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Attwell,2023,Regular Season - 29,Wolves,Bournemouth,0,1,0,1,0,1,,,,,90,,Bournemouth,Match Finished
+1035461,2024-04-24T16:00:00-03:00,Old Trafford,Manchester,M. Salisbury,2023,Regular Season - 29,Manchester United,Sheffield Utd,4,2,1,1,4,2,,,,,90,,Manchester United,Match Finished
+1035458,2024-04-24T16:00:00-03:00,Goodison Park,Liverpool,A. Madley,2023,Regular Season - 29,Everton,Liverpool,2,0,1,0,2,0,,,,,90,,Everton,Match Finished
+1035457,2024-04-24T16:00:00-03:00,Selhurst Park,London,T. Bramall,2023,Regular Season - 29,Crystal Palace,Newcastle,2,0,0,0,2,0,,,,,90,,Crystal Palace,Match Finished
+1035455,2024-04-25T16:00:00-03:00,American Express Stadium,"Falmer, East Sussex",J. Gillett,2023,Regular Season - 29,Brighton,Manchester City,0,4,0,3,0,4,,,,,90,,Manchester City,Match Finished
+1035522,2024-04-27T08:30:00-03:00,London Stadium,London,A. Taylor,2023,Regular Season - 35,West Ham,Liverpool,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+1035518,2024-04-27T11:00:00-03:00,Old Trafford,Manchester,J. Brooks,2023,Regular Season - 35,Manchester United,Burnley,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035519,2024-04-27T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,T. Harrington,2023,Regular Season - 35,Newcastle,Sheffield Utd,5,1,1,1,5,1,,,,,90,,Newcastle,Match Finished
+1035517,2024-04-27T11:00:00-03:00,Craven Cottage,London,S. Attwell,2023,Regular Season - 35,Fulham,Crystal Palace,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+1035523,2024-04-27T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,2023,Regular Season - 35,Wolves,Luton,2,1,1,0,2,1,,,,,90,,Wolves,Match Finished
+1035516,2024-04-27T13:30:00-03:00,Goodison Park,Liverpool,D. England,2023,Regular Season - 35,Everton,Brentford,1,0,0,0,1,0,,,,,90,,Everton,Match Finished
+1035515,2024-04-27T16:00:00-03:00,Villa Park,Birmingham,C. Pawson,2023,Regular Season - 35,Aston Villa,Chelsea,2,2,2,0,2,2,,,,,90,,Draw,Match Finished
+1035514,2024-04-28T10:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",P. Tierney,2023,Regular Season - 35,Bournemouth,Brighton,3,0,1,0,3,0,,,,,90,,Bournemouth,Match Finished
+1035521,2024-04-28T10:00:00-03:00,Tottenham Hotspur Stadium,London,M. Oliver,2023,Regular Season - 35,Tottenham,Arsenal,2,3,0,3,2,3,,,,,90,,Arsenal,Match Finished
+1035520,2024-04-28T12:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",S. Hooper,2023,Regular Season - 35,Nottingham Forest,Manchester City,0,2,0,1,0,2,,,,,90,,Manchester City,Match Finished
+1035428,2024-05-02T15:30:00-03:00,Stamford Bridge,London,R. Jones,2023,Regular Season - 26,Chelsea,Tottenham,2,0,1,0,2,0,,,,,90,,Chelsea,Match Finished
+1035531,2024-05-03T16:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",T. Robinson,2023,Regular Season - 36,Luton,Everton,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+1035524,2024-05-04T08:30:00-03:00,Emirates Stadium,London,D. Coote,2023,Regular Season - 36,Arsenal,Bournemouth,3,0,1,0,3,0,,,,,90,,Arsenal,Match Finished
+1035527,2024-05-04T11:00:00-03:00,Turf Moor,Burnley,A. Taylor,2023,Regular Season - 36,Burnley,Newcastle,1,4,0,3,1,4,,,,,90,,Newcastle,Match Finished
+1035525,2024-05-04T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",G. Scott,2023,Regular Season - 36,Brentford,Fulham,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+1035533,2024-05-04T11:00:00-03:00,Bramall Lane,Sheffield,C. Kavanagh,2023,Regular Season - 36,Sheffield Utd,Nottingham Forest,1,3,1,1,1,3,,,,,90,,Nottingham Forest,Match Finished
+1035532,2024-05-04T13:30:00-03:00,Etihad Stadium,Manchester,C. Pawson,2023,Regular Season - 36,Manchester City,Wolves,5,1,3,0,5,1,,,,,90,,Manchester City,Match Finished
+1035528,2024-05-05T10:00:00-03:00,Stamford Bridge,London,A. Madley,2023,Regular Season - 36,Chelsea,West Ham,5,0,3,0,5,0,,,,,90,,Chelsea,Match Finished
+1035526,2024-05-05T10:00:00-03:00,American Express Stadium,"Falmer, East Sussex",R. Jones,2023,Regular Season - 36,Brighton,Aston Villa,1,0,0,0,1,0,,,,,90,,Brighton,Match Finished
+1035530,2024-05-05T12:30:00-03:00,Anfield,Liverpool,P. Tierney,2023,Regular Season - 36,Liverpool,Tottenham,4,2,2,0,4,2,,,,,90,,Liverpool,Match Finished
+1035529,2024-05-06T16:00:00-03:00,Selhurst Park,London,J. Gillett,2023,Regular Season - 36,Crystal Palace,Manchester United,4,0,2,0,4,0,,,,,90,,Crystal Palace,Match Finished
+1035537,2024-05-11T08:30:00-03:00,Craven Cottage,London,A. Taylor,2023,Regular Season - 37,Fulham,Manchester City,0,4,0,1,0,4,,,,,90,,Manchester City,Match Finished
+1035539,2024-05-11T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,D. England,2023,Regular Season - 37,Newcastle,Brighton,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+1035534,2024-05-11T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",M. Donohue,2023,Regular Season - 37,Bournemouth,Brentford,1,2,0,0,1,2,,,,,90,,Brentford,Match Finished
+1035543,2024-05-11T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Bramall,2023,Regular Season - 37,Wolves,Crystal Palace,1,3,0,2,1,3,,,,,90,,Crystal Palace,Match Finished
+1035536,2024-05-11T11:00:00-03:00,Goodison Park,Liverpool,S. Attwell,2023,Regular Season - 37,Everton,Sheffield Utd,1,0,1,0,1,0,,,,,90,,Everton,Match Finished
+1035541,2024-05-11T11:00:00-03:00,Tottenham Hotspur Stadium,London,J. Gillett,2023,Regular Season - 37,Tottenham,Burnley,2,1,1,1,2,1,,,,,90,,Tottenham,Match Finished
+1035542,2024-05-11T11:00:00-03:00,London Stadium,London,M. Oliver,2023,Regular Season - 37,West Ham,Luton,3,1,0,1,3,1,,,,,90,,West Ham,Match Finished
+1035540,2024-05-11T13:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",T. Harrington,2023,Regular Season - 37,Nottingham Forest,Chelsea,2,3,1,1,2,3,,,,,90,,Chelsea,Match Finished
+1035538,2024-05-12T12:30:00-03:00,Old Trafford,Manchester,P. Tierney,2023,Regular Season - 37,Manchester United,Arsenal,0,1,0,1,0,1,,,,,90,,Arsenal,Match Finished
+1035535,2024-05-13T16:00:00-03:00,Villa Park,Birmingham,S. Hooper,2023,Regular Season - 37,Aston Villa,Liverpool,3,3,1,2,3,3,,,,,90,,Draw,Match Finished
+1035512,2024-05-14T16:00:00-03:00,Tottenham Hotspur Stadium,London,C. Kavanagh,2023,Regular Season - 34,Tottenham,Manchester City,0,2,0,0,0,2,,,,,90,,Manchester City,Match Finished
+1035505,2024-05-15T15:45:00-03:00,American Express Stadium,"Falmer, East Sussex",M. Salisbury,2023,Regular Season - 34,Brighton,Chelsea,1,2,0,1,1,2,,,,,90,,Chelsea,Match Finished
+1035510,2024-05-15T16:00:00-03:00,Old Trafford,Manchester,R. Jones,2023,Regular Season - 34,Manchester United,Newcastle,3,2,1,0,3,2,,,,,90,,Manchester United,Match Finished
+1035550,2024-05-19T12:00:00-03:00,Anfield,Liverpool,C. Kavanagh,2023,Regular Season - 38,Liverpool,Wolves,2,0,2,0,2,0,,,,,90,,Liverpool,Match Finished
+1035544,2024-05-19T12:00:00-03:00,Emirates Stadium,London,M. Oliver,2023,Regular Season - 38,Arsenal,Everton,2,1,1,1,2,1,,,,,90,,Arsenal,Match Finished
+1035547,2024-05-19T12:00:00-03:00,Turf Moor,Burnley,G. Scott,2023,Regular Season - 38,Burnley,Nottingham Forest,1,2,0,2,1,2,,,,,90,,Nottingham Forest,Match Finished
+1035548,2024-05-19T12:00:00-03:00,Stamford Bridge,London,A. Taylor,2023,Regular Season - 38,Chelsea,Bournemouth,2,1,1,0,2,1,,,,,90,,Chelsea,Match Finished
+1035552,2024-05-19T12:00:00-03:00,Etihad Stadium,Manchester,J. Brooks,2023,Regular Season - 38,Manchester City,West Ham,3,1,2,1,3,1,,,,,90,,Manchester City,Match Finished
+1035546,2024-05-19T12:00:00-03:00,American Express Stadium,"Falmer, East Sussex",C. Pawson,2023,Regular Season - 38,Brighton,Manchester United,0,2,0,0,0,2,,,,,90,,Manchester United,Match Finished
+1035549,2024-05-19T12:00:00-03:00,Selhurst Park,London,D. Bond,2023,Regular Season - 38,Crystal Palace,Aston Villa,5,0,2,0,5,0,,,,,90,,Crystal Palace,Match Finished
+1035545,2024-05-19T12:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",S. Hooper,2023,Regular Season - 38,Brentford,Newcastle,2,4,0,3,2,4,,,,,90,,Newcastle,Match Finished
+1035553,2024-05-19T12:00:00-03:00,Bramall Lane,Sheffield,A. Madley,2023,Regular Season - 38,Sheffield Utd,Tottenham,0,3,0,1,0,3,,,,,90,,Tottenham,Match Finished
+1035551,2024-05-19T12:00:00-03:00,Kenilworth Road,"Luton, Bedfordshire",M. Donohue,2023,Regular Season - 38,Luton,Fulham,2,4,1,2,2,4,,,,,90,,Fulham,Match Finished

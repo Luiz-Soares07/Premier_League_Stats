@@ -1,0 +1,381 @@
+match_id,date,stadium,city,referee,season,round,home_team,away_team,goals_home,goals_away,score_home_in_half_time,score_away_in_half_time,score_home_in_full_time,score_away_in_full_time,score_home_in_extra_time,score_Away_in_extra_time,score_home_in_penalties,score_Away_in_penalties,elapsed_time,extra_time,winner_name,status
+867946,2022-08-05T16:00:00-03:00,Selhurst Park,London,A. Taylor,2022,Regular Season - 1,Crystal Palace,Arsenal,0,2,0,1,0,2,,,,,90,,Arsenal,Match Finished
+867947,2022-08-06T08:30:00-03:00,Craven Cottage,London,A. Madley,2022,Regular Season - 1,Fulham,Liverpool,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+867951,2022-08-06T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,S. Hooper,2022,Regular Season - 1,Newcastle,Nottingham Forest,2,0,0,0,2,0,,,,,90,,Newcastle,Match Finished
+867948,2022-08-06T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",P. Bankes,2022,Regular Season - 1,Bournemouth,Aston Villa,2,0,1,0,2,0,,,,,90,,Bournemouth,Match Finished
+867952,2022-08-06T11:00:00-03:00,Tottenham Hotspur Stadium,London,A. Marriner,2022,Regular Season - 1,Tottenham,Southampton,4,1,2,1,4,1,,,,,90,,Tottenham,Match Finished
+867949,2022-08-06T11:00:00-03:00,Elland Road,"Leeds, West Yorkshire",R. Jones,2022,Regular Season - 1,Leeds,Wolves,2,1,1,1,2,1,,,,,90,,Leeds,Match Finished
+867953,2022-08-06T13:30:00-03:00,Goodison Park,Liverpool,C. Pawson,2022,Regular Season - 1,Everton,Chelsea,0,1,0,1,0,1,,,,,90,,Chelsea,Match Finished
+867954,2022-08-07T10:00:00-03:00,Old Trafford,Manchester,P. Tierney,2022,Regular Season - 1,Manchester United,Brighton,1,2,0,2,1,2,,,,,90,,Brighton,Match Finished
+867950,2022-08-07T10:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",J. Gillett,2022,Regular Season - 1,Leicester,Brentford,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+867955,2022-08-07T12:30:00-03:00,London Stadium,London,M. Oliver,2022,Regular Season - 1,West Ham,Manchester City,0,2,0,1,0,2,,,,,90,,Manchester City,Match Finished
+867957,2022-08-13T08:30:00-03:00,Villa Park,Birmingham,M. Oliver,2022,Regular Season - 2,Aston Villa,Everton,2,1,1,0,2,1,,,,,90,,Aston Villa,Match Finished
+867965,2022-08-13T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Brooks,2022,Regular Season - 2,Wolves,Fulham,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+867964,2022-08-13T11:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",T. Harrington,2022,Regular Season - 2,Southampton,Leeds,2,2,0,0,2,2,,,,,90,,Draw,Match Finished
+867956,2022-08-13T11:00:00-03:00,Emirates Stadium,London,D. England,2022,Regular Season - 2,Arsenal,Leicester,4,2,2,0,4,2,,,,,90,,Arsenal,Match Finished
+867962,2022-08-13T11:00:00-03:00,Etihad Stadium,Manchester,D. Coote,2022,Regular Season - 2,Manchester City,Bournemouth,4,0,3,0,4,0,,,,,90,,Manchester City,Match Finished
+867959,2022-08-13T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",G. Scott,2022,Regular Season - 2,Brighton,Newcastle,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+867958,2022-08-13T13:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",S. Attwell,2022,Regular Season - 2,Brentford,Manchester United,4,0,4,0,4,0,,,,,90,,Brentford,Match Finished
+867963,2022-08-14T10:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",R. Jones,2022,Regular Season - 2,Nottingham Forest,West Ham,1,0,1,0,1,0,,,,,90,,Nottingham Forest,Match Finished
+867960,2022-08-14T12:30:00-03:00,Stamford Bridge,London,A. Taylor,2022,Regular Season - 2,Chelsea,Tottenham,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+867961,2022-08-15T16:00:00-03:00,Anfield,Liverpool,P. Tierney,2022,Regular Season - 2,Liverpool,Crystal Palace,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+867974,2022-08-20T08:30:00-03:00,Tottenham Hotspur Stadium,London,S. Hooper,2022,Regular Season - 3,Tottenham,Wolves,1,0,0,0,1,0,,,,,90,,Tottenham,Match Finished
+867969,2022-08-20T11:00:00-03:00,Craven Cottage,London,P. Bankes,2022,Regular Season - 3,Fulham,Brentford,3,2,2,1,3,2,,,,,90,,Fulham,Match Finished
+867968,2022-08-20T11:00:00-03:00,Goodison Park,Liverpool,A. Marriner,2022,Regular Season - 3,Everton,Nottingham Forest,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+867971,2022-08-20T11:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",M. Salisbury,2022,Regular Season - 3,Leicester,Southampton,1,2,0,0,1,2,,,,,90,,Southampton,Match Finished
+867967,2022-08-20T11:00:00-03:00,Selhurst Park,London,A. Madley,2022,Regular Season - 3,Crystal Palace,Aston Villa,3,1,1,1,3,1,,,,,90,,Crystal Palace,Match Finished
+867966,2022-08-20T13:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",C. Pawson,2022,Regular Season - 3,Bournemouth,Arsenal,0,3,0,2,0,3,,,,,90,,Arsenal,Match Finished
+867975,2022-08-21T10:00:00-03:00,London Stadium,London,A. Taylor,2022,Regular Season - 3,West Ham,Brighton,0,2,0,1,0,2,,,,,90,,Brighton,Match Finished
+867970,2022-08-21T10:00:00-03:00,Elland Road,"Leeds, West Yorkshire",S. Attwell,2022,Regular Season - 3,Leeds,Chelsea,3,0,2,0,3,0,,,,,90,,Leeds,Match Finished
+867973,2022-08-21T12:30:00-03:00,St. James' Park,Newcastle upon Tyne,J. Gillett,2022,Regular Season - 3,Newcastle,Manchester City,3,3,2,1,3,3,,,,,90,,Draw,Match Finished
+867972,2022-08-22T16:00:00-03:00,Old Trafford,Manchester,M. Oliver,2022,Regular Season - 3,Manchester United,Liverpool,2,1,1,0,2,1,,,,,90,,Manchester United,Match Finished
+867984,2022-08-27T08:30:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",A. Madley,2022,Regular Season - 4,Southampton,Manchester United,0,1,0,0,0,1,,,,,90,,Manchester United,Match Finished
+867981,2022-08-27T11:00:00-03:00,Anfield,Liverpool,S. Attwell,2022,Regular Season - 4,Liverpool,Bournemouth,9,0,5,0,9,0,,,,,90,,Liverpool,Match Finished
+867980,2022-08-27T11:00:00-03:00,Stamford Bridge,London,P. Tierney,2022,Regular Season - 4,Chelsea,Leicester,2,1,0,0,2,1,,,,,90,,Chelsea,Match Finished
+867982,2022-08-27T11:00:00-03:00,Etihad Stadium,Manchester,D. England,2022,Regular Season - 4,Manchester City,Crystal Palace,4,2,0,2,4,2,,,,,90,,Manchester City,Match Finished
+867979,2022-08-27T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",M. Salisbury,2022,Regular Season - 4,Brighton,Leeds,1,0,0,0,1,0,,,,,90,,Brighton,Match Finished
+867978,2022-08-27T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",J. Brooks,2022,Regular Season - 4,Brentford,Everton,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+867976,2022-08-27T13:30:00-03:00,Emirates Stadium,London,J. Gillett,2022,Regular Season - 4,Arsenal,Fulham,2,1,0,0,2,1,,,,,90,,Arsenal,Match Finished
+867985,2022-08-28T10:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Bankes,2022,Regular Season - 4,Wolves,Newcastle,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+867977,2022-08-28T10:00:00-03:00,Villa Park,Birmingham,D. Coote,2022,Regular Season - 4,Aston Villa,West Ham,0,1,0,0,0,1,,,,,90,,West Ham,Match Finished
+867983,2022-08-28T12:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",C. Pawson,2022,Regular Season - 4,Nottingham Forest,Tottenham,0,2,0,1,0,2,,,,,90,,Tottenham,Match Finished
+867988,2022-08-30T15:30:00-03:00,Craven Cottage,London,T. Bramall,2022,Regular Season - 5,Fulham,Brighton,2,1,0,0,2,1,,,,,90,,Fulham,Match Finished
+867992,2022-08-30T15:30:00-03:00,Selhurst Park,London,S. Hooper,2022,Regular Season - 5,Crystal Palace,Brentford,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+867993,2022-08-30T15:45:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",M. Oliver,2022,Regular Season - 5,Southampton,Chelsea,2,1,2,1,2,1,,,,,90,,Southampton,Match Finished
+867989,2022-08-30T16:00:00-03:00,Elland Road,"Leeds, West Yorkshire",D. England,2022,Regular Season - 5,Leeds,Everton,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+867986,2022-08-31T15:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,2022,Regular Season - 5,Bournemouth,Wolves,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+867987,2022-08-31T15:30:00-03:00,Emirates Stadium,London,R. Jones,2022,Regular Season - 5,Arsenal,Aston Villa,2,1,1,0,2,1,,,,,90,,Arsenal,Match Finished
+867995,2022-08-31T15:30:00-03:00,Etihad Stadium,Manchester,P. Tierney,2022,Regular Season - 5,Manchester City,Nottingham Forest,6,0,3,0,6,0,,,,,90,,Manchester City,Match Finished
+867991,2022-08-31T15:45:00-03:00,London Stadium,London,P. Bankes,2022,Regular Season - 5,West Ham,Tottenham,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+867994,2022-08-31T16:00:00-03:00,Anfield,Liverpool,A. Marriner,2022,Regular Season - 5,Liverpool,Newcastle,2,1,0,1,2,1,,,,,90,,Liverpool,Match Finished
+867990,2022-09-01T16:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2022,Regular Season - 5,Leicester,Manchester United,0,1,0,1,0,1,,,,,90,,Manchester United,Match Finished
+868000,2022-09-03T08:30:00-03:00,Goodison Park,Liverpool,A. Taylor,2022,Regular Season - 6,Everton,Liverpool,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868002,2022-09-03T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,M. Salisbury,2022,Regular Season - 6,Newcastle,Crystal Palace,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868005,2022-09-03T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",J. Brooks,2022,Regular Season - 6,Wolves,Southampton,1,0,1,0,1,0,,,,,90,,Wolves,Match Finished
+868004,2022-09-03T11:00:00-03:00,Tottenham Hotspur Stadium,London,S. Attwell,2022,Regular Season - 6,Tottenham,Fulham,2,1,1,0,2,1,,,,,90,,Tottenham,Match Finished
+867999,2022-09-03T11:00:00-03:00,Stamford Bridge,London,A. Madley,2022,Regular Season - 6,Chelsea,West Ham,2,1,0,0,2,1,,,,,90,,Chelsea,Match Finished
+867997,2022-09-03T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",R. Jones,2022,Regular Season - 6,Brentford,Leeds,5,2,2,1,5,2,,,,,90,,Brentford,Match Finished
+868003,2022-09-03T11:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",M. Oliver,2022,Regular Season - 6,Nottingham Forest,Bournemouth,2,3,2,0,2,3,,,,,90,,Bournemouth,Match Finished
+867996,2022-09-03T13:30:00-03:00,Villa Park,Birmingham,S. Hooper,2022,Regular Season - 6,Aston Villa,Manchester City,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+867998,2022-09-04T10:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",T. Harrington,2022,Regular Season - 6,Brighton,Leicester,5,2,2,2,5,2,,,,,90,,Brighton,Match Finished
+868001,2022-09-04T12:30:00-03:00,Old Trafford,Manchester,P. Tierney,2022,Regular Season - 6,Manchester United,Arsenal,3,1,1,0,3,1,,,,,90,,Manchester United,Match Finished
+868023,2022-09-16T16:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,2022,Regular Season - 8,Nottingham Forest,Fulham,2,3,1,0,2,3,,,,,90,,Fulham,Match Finished
+868016,2022-09-16T16:00:00-03:00,Villa Park,Birmingham,T. Harrington,2022,Regular Season - 8,Aston Villa,Southampton,1,0,1,0,1,0,,,,,90,,Aston Villa,Match Finished
+868025,2022-09-17T08:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",A. Taylor,2022,Regular Season - 8,Wolves,Manchester City,0,3,0,2,0,3,,,,,90,,Manchester City,Match Finished
+868022,2022-09-17T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,C. Pawson,2022,Regular Season - 8,Newcastle,Bournemouth,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+868024,2022-09-17T13:30:00-03:00,Tottenham Hotspur Stadium,London,S. Hooper,2022,Regular Season - 8,Tottenham,Leicester,6,2,2,2,6,2,,,,,90,,Tottenham,Match Finished
+868017,2022-09-18T08:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",D. Coote,2022,Regular Season - 8,Brentford,Arsenal,0,3,0,2,0,3,,,,,90,,Arsenal,Match Finished
+868020,2022-09-18T10:15:00-03:00,Goodison Park,Liverpool,M. Oliver,2022,Regular Season - 8,Everton,West Ham,1,0,0,0,1,0,,,,,90,,Everton,Match Finished
+868027,2022-10-01T08:30:00-03:00,Emirates Stadium,London,A. Taylor,2022,Regular Season - 9,Arsenal,Tottenham,3,1,1,1,3,1,,,,,90,,Arsenal,Match Finished
+868026,2022-10-01T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",T. Bramall,2022,Regular Season - 9,Bournemouth,Brentford,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868029,2022-10-01T11:00:00-03:00,Craven Cottage,London,D. England,2022,Regular Season - 9,Fulham,Newcastle,1,4,0,3,1,4,,,,,90,,Newcastle,Match Finished
+868032,2022-10-01T11:00:00-03:00,Anfield,Liverpool,A. Madley,2022,Regular Season - 9,Liverpool,Brighton,3,3,1,2,3,3,,,,,90,,Draw,Match Finished
+868034,2022-10-01T11:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",A. Marriner,2022,Regular Season - 9,Southampton,Everton,1,2,0,0,1,2,,,,,90,,Everton,Match Finished
+868028,2022-10-01T11:00:00-03:00,Selhurst Park,London,C. Kavanagh,2022,Regular Season - 9,Crystal Palace,Chelsea,1,2,1,1,1,2,,,,,90,,Chelsea,Match Finished
+868035,2022-10-01T13:30:00-03:00,London Stadium,London,P. Tierney,2022,Regular Season - 9,West Ham,Wolves,2,0,1,0,2,0,,,,,90,,West Ham,Match Finished
+868033,2022-10-02T10:00:00-03:00,Etihad Stadium,Manchester,M. Oliver,2022,Regular Season - 9,Manchester City,Manchester United,6,3,4,0,6,3,,,,,90,,Manchester City,Match Finished
+868030,2022-10-02T12:30:00-03:00,Elland Road,"Leeds, West Yorkshire",S. Attwell,2022,Regular Season - 9,Leeds,Aston Villa,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868031,2022-10-03T16:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",R. Jones,2022,Regular Season - 9,Leicester,Nottingham Forest,4,0,3,0,4,0,,,,,90,,Leicester,Match Finished
+868043,2022-10-08T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,J. Brooks,2022,Regular Season - 10,Newcastle,Brentford,5,1,2,0,5,1,,,,,90,,Newcastle,Match Finished
+868036,2022-10-08T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",M. Salisbury,2022,Regular Season - 10,Bournemouth,Leicester,2,1,0,1,2,1,,,,,90,,Bournemouth,Match Finished
+868039,2022-10-08T11:00:00-03:00,Stamford Bridge,London,S. Hooper,2022,Regular Season - 10,Chelsea,Wolves,3,0,1,0,3,0,,,,,90,,Chelsea,Match Finished
+868042,2022-10-08T11:00:00-03:00,Etihad Stadium,Manchester,A. Madley,2022,Regular Season - 10,Manchester City,Southampton,4,0,2,0,4,0,,,,,90,,Manchester City,Match Finished
+868038,2022-10-08T13:30:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",T. Harrington,2022,Regular Season - 10,Brighton,Tottenham,0,1,0,1,0,1,,,,,90,,Tottenham,Match Finished
+868045,2022-10-09T10:00:00-03:00,London Stadium,London,C. Kavanagh,2022,Regular Season - 10,West Ham,Fulham,3,1,1,1,3,1,,,,,90,,West Ham,Match Finished
+868040,2022-10-09T10:00:00-03:00,Selhurst Park,London,P. Tierney,2022,Regular Season - 10,Crystal Palace,Leeds,2,1,1,1,2,1,,,,,90,,Crystal Palace,Match Finished
+868037,2022-10-09T12:30:00-03:00,Emirates Stadium,London,M. Oliver,2022,Regular Season - 10,Arsenal,Liverpool,3,2,2,1,3,2,,,,,90,,Arsenal,Match Finished
+868041,2022-10-09T15:00:00-03:00,Goodison Park,Liverpool,D. Coote,2022,Regular Season - 10,Everton,Manchester United,1,2,1,2,1,2,,,,,90,,Manchester United,Match Finished
+868044,2022-10-10T16:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,2022,Regular Season - 10,Nottingham Forest,Aston Villa,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+868047,2022-10-14T16:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",M. Salisbury,2022,Regular Season - 11,Brentford,Brighton,2,0,1,0,2,0,,,,,90,,Brentford,Match Finished
+868050,2022-10-15T08:30:00-03:00,King Power Stadium,"Leicester, Leicestershire",A. Madley,2022,Regular Season - 11,Leicester,Crystal Palace,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868048,2022-10-15T11:00:00-03:00,Craven Cottage,London,G. Scott,2022,Regular Season - 11,Fulham,Bournemouth,2,2,1,2,2,2,,,,,90,,Draw,Match Finished
+868055,2022-10-15T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Bramall,2022,Regular Season - 11,Wolves,Nottingham Forest,1,0,0,0,1,0,,,,,90,,Wolves,Match Finished
+868054,2022-10-15T13:30:00-03:00,Tottenham Hotspur Stadium,London,P. Tierney,2022,Regular Season - 11,Tottenham,Everton,2,0,0,0,2,0,,,,,90,,Tottenham,Match Finished
+868052,2022-10-16T10:00:00-03:00,Old Trafford,Manchester,C. Pawson,2022,Regular Season - 11,Manchester United,Newcastle,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868053,2022-10-16T10:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",P. Bankes,2022,Regular Season - 11,Southampton,West Ham,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+868049,2022-10-16T10:00:00-03:00,Elland Road,"Leeds, West Yorkshire",C. Kavanagh,2022,Regular Season - 11,Leeds,Arsenal,0,1,0,1,0,1,,,,,90,,Arsenal,Match Finished
+868046,2022-10-16T10:00:00-03:00,Villa Park,Birmingham,R. Jones,2022,Regular Season - 11,Aston Villa,Chelsea,0,2,0,1,0,2,,,,,90,,Chelsea,Match Finished
+868051,2022-10-16T12:30:00-03:00,Anfield,Liverpool,A. Taylor,2022,Regular Season - 11,Liverpool,Manchester City,1,0,0,0,1,0,,,,,90,,Liverpool,Match Finished
+868059,2022-10-18T15:30:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",D. England,2022,Regular Season - 12,Brighton,Nottingham Forest,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868062,2022-10-18T16:15:00-03:00,Selhurst Park,London,D. Coote,2022,Regular Season - 12,Crystal Palace,Wolves,2,1,0,1,2,1,,,,,90,,Crystal Palace,Match Finished
+868063,2022-10-19T15:30:00-03:00,St. James' Park,Newcastle upon Tyne,T. Harrington,2022,Regular Season - 12,Newcastle,Everton,1,0,1,0,1,0,,,,,90,,Newcastle,Match Finished
+868056,2022-10-19T15:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",J. Brooks,2022,Regular Season - 12,Bournemouth,Southampton,0,1,0,1,0,1,,,,,90,,Southampton,Match Finished
+868064,2022-10-19T15:30:00-03:00,Anfield,Liverpool,S. Attwell,2022,Regular Season - 12,Liverpool,West Ham,1,0,1,0,1,0,,,,,90,,Liverpool,Match Finished
+868058,2022-10-19T15:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,2022,Regular Season - 12,Brentford,Chelsea,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868065,2022-10-19T16:15:00-03:00,Old Trafford,Manchester,S. Hooper,2022,Regular Season - 12,Manchester United,Tottenham,2,0,0,0,2,0,,,,,90,,Manchester United,Match Finished
+868060,2022-10-20T15:30:00-03:00,Craven Cottage,London,M. Oliver,2022,Regular Season - 12,Fulham,Aston Villa,3,0,1,0,3,0,,,,,90,,Fulham,Match Finished
+868061,2022-10-20T16:15:00-03:00,King Power Stadium,"Leicester, Leicestershire",P. Bankes,2022,Regular Season - 12,Leicester,Leeds,2,0,2,0,2,0,,,,,90,,Leicester,Match Finished
+868071,2022-10-22T08:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2022,Regular Season - 13,Nottingham Forest,Liverpool,1,0,0,0,1,0,,,,,90,,Nottingham Forest,Match Finished
+868068,2022-10-22T11:00:00-03:00,Goodison Park,Liverpool,S. Hooper,2022,Regular Season - 13,Everton,Crystal Palace,3,0,1,0,3,0,,,,,90,,Everton,Match Finished
+868070,2022-10-22T11:00:00-03:00,Etihad Stadium,Manchester,C. Pawson,2022,Regular Season - 13,Manchester City,Brighton,3,1,2,0,3,1,,,,,90,,Manchester City,Match Finished
+868067,2022-10-22T13:30:00-03:00,Stamford Bridge,London,S. Attwell,2022,Regular Season - 13,Chelsea,Manchester United,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+868075,2022-10-23T10:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Oliver,2022,Regular Season - 13,Wolves,Leicester,0,4,0,2,0,4,,,,,90,,Leicester,Match Finished
+868072,2022-10-23T10:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2022,Regular Season - 13,Southampton,Arsenal,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+868069,2022-10-23T10:00:00-03:00,Elland Road,"Leeds, West Yorkshire",A. Taylor,2022,Regular Season - 13,Leeds,Fulham,2,3,1,1,2,3,,,,,90,,Fulham,Match Finished
+868066,2022-10-23T10:00:00-03:00,Villa Park,Birmingham,D. England,2022,Regular Season - 13,Aston Villa,Brentford,4,0,3,0,4,0,,,,,90,,Aston Villa,Match Finished
+868073,2022-10-23T12:30:00-03:00,Tottenham Hotspur Stadium,London,J. Gillett,2022,Regular Season - 13,Tottenham,Newcastle,1,2,0,2,1,2,,,,,90,,Newcastle,Match Finished
+868074,2022-10-24T16:00:00-03:00,London Stadium,London,D. Coote,2022,Regular Season - 13,West Ham,Bournemouth,2,0,1,0,2,0,,,,,90,,West Ham,Match Finished
+868082,2022-10-29T08:30:00-03:00,King Power Stadium,"Leicester, Leicestershire",R. Jones,2022,Regular Season - 14,Leicester,Manchester City,0,1,0,0,0,1,,,,,90,,Manchester City,Match Finished
+868085,2022-10-29T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,P. Tierney,2022,Regular Season - 14,Newcastle,Aston Villa,4,0,1,0,4,0,,,,,90,,Newcastle,Match Finished
+868076,2022-10-29T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,2022,Regular Season - 14,Bournemouth,Tottenham,2,3,1,0,2,3,,,,,90,,Tottenham,Match Finished
+868079,2022-10-29T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",A. Madley,2022,Regular Season - 14,Brighton,Chelsea,4,1,3,0,4,1,,,,,90,,Brighton,Match Finished
+868080,2022-10-29T11:00:00-03:00,Selhurst Park,London,M. Salisbury,2022,Regular Season - 14,Crystal Palace,Southampton,1,0,1,0,1,0,,,,,90,,Crystal Palace,Match Finished
+868078,2022-10-29T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",R. Madley,2022,Regular Season - 14,Brentford,Wolves,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+868081,2022-10-29T13:30:00-03:00,Craven Cottage,London,J. Brooks,2022,Regular Season - 14,Fulham,Everton,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868083,2022-10-29T15:45:00-03:00,Anfield,Liverpool,M. Oliver,2022,Regular Season - 14,Liverpool,Leeds,1,2,1,1,1,2,,,,,90,,Leeds,Match Finished
+868077,2022-10-30T11:00:00-03:00,Emirates Stadium,London,S. Hooper,2022,Regular Season - 14,Arsenal,Nottingham Forest,5,0,1,0,5,0,,,,,90,,Arsenal,Match Finished
+868084,2022-10-30T13:15:00-03:00,Old Trafford,Manchester,C. Kavanagh,2022,Regular Season - 14,Manchester United,West Ham,1,0,1,0,1,0,,,,,90,,Manchester United,Match Finished
+868095,2022-11-05T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",G. Scott,2022,Regular Season - 15,Wolves,Brighton,2,3,2,2,2,3,,,,,90,,Brighton,Match Finished
+868090,2022-11-05T12:00:00-03:00,Etihad Stadium,Manchester,D. England,2022,Regular Season - 15,Manchester City,Fulham,2,1,1,1,2,1,,,,,90,,Manchester City,Match Finished
+868089,2022-11-05T12:00:00-03:00,Elland Road,"Leeds, West Yorkshire",T. Harrington,2022,Regular Season - 15,Leeds,Bournemouth,4,3,1,2,4,3,,,,,90,,Leeds,Match Finished
+868091,2022-11-05T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",A. Marriner,2022,Regular Season - 15,Nottingham Forest,Brentford,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+868088,2022-11-05T14:30:00-03:00,Goodison Park,Liverpool,D. Coote,2022,Regular Season - 15,Everton,Leicester,0,2,0,1,0,2,,,,,90,,Leicester,Match Finished
+868087,2022-11-06T09:00:00-03:00,Stamford Bridge,London,M. Oliver,2022,Regular Season - 15,Chelsea,Arsenal,0,1,0,0,0,1,,,,,90,,Arsenal,Match Finished
+868092,2022-11-06T11:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",S. Attwell,2022,Regular Season - 15,Southampton,Newcastle,1,4,0,1,1,4,,,,,90,,Newcastle,Match Finished
+868094,2022-11-06T11:00:00-03:00,London Stadium,London,P. Tierney,2022,Regular Season - 15,West Ham,Crystal Palace,1,2,1,1,1,2,,,,,90,,Crystal Palace,Match Finished
+868086,2022-11-06T11:00:00-03:00,Villa Park,Birmingham,A. Taylor,2022,Regular Season - 15,Aston Villa,Manchester United,3,1,2,1,3,1,,,,,90,,Aston Villa,Match Finished
+868093,2022-11-06T13:30:00-03:00,Tottenham Hotspur Stadium,London,A. Madley,2022,Regular Season - 15,Tottenham,Liverpool,1,2,0,2,1,2,,,,,90,,Liverpool,Match Finished
+868100,2022-11-12T09:30:00-03:00,Etihad Stadium,Manchester,P. Bankes,2022,Regular Season - 16,Manchester City,Brentford,1,2,1,1,1,2,,,,,90,,Brentford,Match Finished
+868096,2022-11-12T12:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",C. Pawson,2022,Regular Season - 16,Bournemouth,Everton,3,0,2,0,3,0,,,,,90,,Bournemouth,Match Finished
+868099,2022-11-12T12:00:00-03:00,Anfield,Liverpool,S. Hooper,2022,Regular Season - 16,Liverpool,Southampton,3,1,3,1,3,1,,,,,90,,Liverpool,Match Finished
+868103,2022-11-12T12:00:00-03:00,Tottenham Hotspur Stadium,London,M. Salisbury,2022,Regular Season - 16,Tottenham,Leeds,4,3,1,2,4,3,,,,,90,,Tottenham,Match Finished
+868104,2022-11-12T12:00:00-03:00,London Stadium,London,J. Gillett,2022,Regular Season - 16,West Ham,Leicester,0,2,0,1,0,2,,,,,90,,Leicester,Match Finished
+868102,2022-11-12T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",J. Brooks,2022,Regular Season - 16,Nottingham Forest,Crystal Palace,1,0,0,0,1,0,,,,,90,,Nottingham Forest,Match Finished
+868101,2022-11-12T14:30:00-03:00,St. James' Park,Newcastle upon Tyne,R. Jones,2022,Regular Season - 16,Newcastle,Chelsea,1,0,0,0,1,0,,,,,90,,Newcastle,Match Finished
+868105,2022-11-12T16:45:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Attwell,2022,Regular Season - 16,Wolves,Arsenal,0,2,0,0,0,2,,,,,90,,Arsenal,Match Finished
+868097,2022-11-13T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",C. Kavanagh,2022,Regular Season - 16,Brighton,Aston Villa,1,2,1,1,1,2,,,,,90,,Aston Villa,Match Finished
+868098,2022-11-13T13:30:00-03:00,Craven Cottage,London,P. Tierney,2022,Regular Season - 16,Fulham,Manchester United,1,2,0,1,1,2,,,,,90,,Manchester United,Match Finished
+868108,2022-12-26T09:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",D. Coote,2022,Regular Season - 17,Brentford,Tottenham,2,2,1,0,2,2,,,,,90,,Draw,Match Finished
+868115,2022-12-26T12:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2022,Regular Season - 17,Southampton,Brighton,1,3,0,2,1,3,,,,,90,,Brighton,Match Finished
+868111,2022-12-26T12:00:00-03:00,Goodison Park,Liverpool,C. Pawson,2022,Regular Season - 17,Everton,Wolves,1,2,1,1,1,2,,,,,90,,Wolves,Match Finished
+868113,2022-12-26T12:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",J. Gillett,2022,Regular Season - 17,Leicester,Newcastle,0,3,0,3,0,3,,,,,90,,Newcastle,Match Finished
+868110,2022-12-26T12:00:00-03:00,Selhurst Park,London,A. Madley,2022,Regular Season - 17,Crystal Palace,Fulham,0,3,0,1,0,3,,,,,90,,Fulham,Match Finished
+868107,2022-12-26T14:30:00-03:00,Villa Park,Birmingham,P. Tierney,2022,Regular Season - 17,Aston Villa,Liverpool,1,3,0,2,1,3,,,,,90,,Liverpool,Match Finished
+868106,2022-12-26T17:00:00-03:00,Emirates Stadium,London,M. Oliver,2022,Regular Season - 17,Arsenal,West Ham,3,1,0,1,3,1,,,,,90,,Arsenal,Match Finished
+868109,2022-12-27T14:30:00-03:00,Stamford Bridge,London,S. Hooper,2022,Regular Season - 17,Chelsea,Bournemouth,2,0,2,0,2,0,,,,,90,,Chelsea,Match Finished
+868114,2022-12-27T17:00:00-03:00,Old Trafford,Manchester,A. Taylor,2022,Regular Season - 17,Manchester United,Nottingham Forest,3,0,2,0,3,0,,,,,90,,Manchester United,Match Finished
+868112,2022-12-28T17:00:00-03:00,Elland Road,"Leeds, West Yorkshire",S. Attwell,2022,Regular Season - 17,Leeds,Manchester City,1,3,0,1,1,3,,,,,90,,Manchester City,Match Finished
+868124,2022-12-30T16:45:00-03:00,London Stadium,London,D. England,2022,Regular Season - 18,West Ham,Brentford,0,2,0,2,0,2,,,,,90,,Brentford,Match Finished
+868119,2022-12-30T17:00:00-03:00,Anfield,Liverpool,C. Pawson,2022,Regular Season - 18,Liverpool,Leicester,2,1,2,1,2,1,,,,,90,,Liverpool,Match Finished
+868125,2022-12-31T09:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",R. Jones,2022,Regular Season - 18,Wolves,Manchester United,0,1,0,0,0,1,,,,,90,,Manchester United,Match Finished
+868121,2022-12-31T12:00:00-03:00,St. James' Park,Newcastle upon Tyne,S. Hooper,2022,Regular Season - 18,Newcastle,Leeds,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868116,2022-12-31T12:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",A. Marriner,2022,Regular Season - 18,Bournemouth,Crystal Palace,0,2,0,2,0,2,,,,,90,,Crystal Palace,Match Finished
+868118,2022-12-31T12:00:00-03:00,Craven Cottage,London,G. Scott,2022,Regular Season - 18,Fulham,Southampton,2,1,1,0,2,1,,,,,90,,Fulham,Match Finished
+868120,2022-12-31T12:00:00-03:00,Etihad Stadium,Manchester,A. Madley,2022,Regular Season - 18,Manchester City,Everton,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+868117,2022-12-31T14:30:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",A. Taylor,2022,Regular Season - 18,Brighton,Arsenal,2,4,0,2,2,4,,,,,90,,Arsenal,Match Finished
+868123,2023-01-01T11:00:00-03:00,Tottenham Hotspur Stadium,London,J. Brooks,2022,Regular Season - 18,Tottenham,Aston Villa,0,2,0,0,0,2,,,,,90,,Aston Villa,Match Finished
+868122,2023-01-01T13:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",P. Bankes,2022,Regular Season - 18,Nottingham Forest,Chelsea,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+868128,2023-01-02T14:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",S. Attwell,2022,Regular Season - 19,Brentford,Liverpool,3,1,2,0,3,1,,,,,90,,Brentford,Match Finished
+868126,2023-01-03T16:45:00-03:00,Emirates Stadium,London,A. Madley,2022,Regular Season - 19,Arsenal,Newcastle,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868131,2023-01-03T16:45:00-03:00,Goodison Park,Liverpool,A. Marriner,2022,Regular Season - 19,Everton,Brighton,1,4,0,1,1,4,,,,,90,,Brighton,Match Finished
+868133,2023-01-03T16:45:00-03:00,King Power Stadium,"Leicester, Leicestershire",D. Bond,2022,Regular Season - 19,Leicester,Fulham,0,1,0,1,0,1,,,,,90,,Fulham,Match Finished
+868134,2023-01-03T17:00:00-03:00,Old Trafford,Manchester,M. Salisbury,2022,Regular Season - 19,Manchester United,Bournemouth,3,0,1,0,3,0,,,,,90,,Manchester United,Match Finished
+868135,2023-01-04T16:30:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",T. Bramall,2022,Regular Season - 19,Southampton,Nottingham Forest,0,1,0,1,0,1,,,,,90,,Nottingham Forest,Match Finished
+868132,2023-01-04T16:45:00-03:00,Elland Road,"Leeds, West Yorkshire",D. Coote,2022,Regular Season - 19,Leeds,West Ham,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+868130,2023-01-04T17:00:00-03:00,Selhurst Park,London,M. Oliver,2022,Regular Season - 19,Crystal Palace,Tottenham,0,4,0,0,0,4,,,,,90,,Tottenham,Match Finished
+868127,2023-01-04T17:00:00-03:00,Villa Park,Birmingham,J. Gillett,2022,Regular Season - 19,Aston Villa,Wolves,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+868129,2023-01-05T17:00:00-03:00,Stamford Bridge,London,P. Tierney,2022,Regular Season - 19,Chelsea,Manchester City,0,1,0,0,0,1,,,,,90,,Manchester City,Match Finished
+868009,2023-01-12T17:00:00-03:00,Craven Cottage,London,D. Coote,2022,Regular Season - 7,Fulham,Chelsea,2,1,1,0,2,1,,,,,90,,Fulham,Match Finished
+868136,2023-01-13T17:00:00-03:00,Villa Park,Birmingham,M. Oliver,2022,Regular Season - 20,Aston Villa,Leeds,2,1,1,0,2,1,,,,,90,,Aston Villa,Match Finished
+868141,2023-01-14T09:30:00-03:00,Old Trafford,Manchester,S. Attwell,2022,Regular Season - 20,Manchester United,Manchester City,2,1,0,0,2,1,,,,,90,,Manchester United,Match Finished
+868145,2023-01-14T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Hooper,2022,Regular Season - 20,Wolves,West Ham,1,0,0,0,1,0,,,,,90,,Wolves,Match Finished
+868140,2023-01-14T12:00:00-03:00,Goodison Park,Liverpool,J. Brooks,2022,Regular Season - 20,Everton,Southampton,1,2,1,0,1,2,,,,,90,,Southampton,Match Finished
+868138,2023-01-14T12:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",D. England,2022,Regular Season - 20,Brighton,Liverpool,3,0,0,0,3,0,,,,,90,,Brighton,Match Finished
+868143,2023-01-14T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2022,Regular Season - 20,Nottingham Forest,Leicester,2,0,0,0,2,0,,,,,90,,Nottingham Forest,Match Finished
+868137,2023-01-14T14:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",J. Gillett,2022,Regular Season - 20,Brentford,Bournemouth,2,0,1,0,2,0,,,,,90,,Brentford,Match Finished
+868142,2023-01-15T11:00:00-03:00,St. James' Park,Newcastle upon Tyne,R. Jones,2022,Regular Season - 20,Newcastle,Fulham,1,0,0,0,1,0,,,,,90,,Newcastle,Match Finished
+868139,2023-01-15T11:00:00-03:00,Stamford Bridge,London,P. Bankes,2022,Regular Season - 20,Chelsea,Crystal Palace,1,0,0,0,1,0,,,,,90,,Chelsea,Match Finished
+868144,2023-01-15T13:30:00-03:00,Tottenham Hotspur Stadium,London,C. Pawson,2022,Regular Season - 20,Tottenham,Arsenal,0,2,0,2,0,2,,,,,90,,Arsenal,Match Finished
+868008,2023-01-18T17:00:00-03:00,Selhurst Park,London,R. Jones,2022,Regular Season - 7,Crystal Palace,Manchester United,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+868013,2023-01-19T17:00:00-03:00,Etihad Stadium,Manchester,S. Hooper,2022,Regular Season - 7,Manchester City,Tottenham,4,2,0,2,4,2,,,,,90,,Manchester City,Match Finished
+868152,2023-01-21T09:30:00-03:00,Anfield,Liverpool,M. Oliver,2022,Regular Season - 21,Liverpool,Chelsea,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868146,2023-01-21T12:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",A. Madley,2022,Regular Season - 21,Bournemouth,Nottingham Forest,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+868154,2023-01-21T12:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",M. Salisbury,2022,Regular Season - 21,Southampton,Aston Villa,0,1,0,0,0,1,,,,,90,,Aston Villa,Match Finished
+868151,2023-01-21T12:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",T. Bramall,2022,Regular Season - 21,Leicester,Brighton,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+868155,2023-01-21T12:00:00-03:00,London Stadium,London,S. Attwell,2022,Regular Season - 21,West Ham,Everton,2,0,2,0,2,0,,,,,90,,West Ham,Match Finished
+868148,2023-01-21T14:30:00-03:00,Selhurst Park,London,C. Pawson,2022,Regular Season - 21,Crystal Palace,Newcastle,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868153,2023-01-22T11:00:00-03:00,Etihad Stadium,Manchester,D. Coote,2022,Regular Season - 21,Manchester City,Wolves,3,0,1,0,3,0,,,,,90,,Manchester City,Match Finished
+868150,2023-01-22T11:00:00-03:00,Elland Road,"Leeds, West Yorkshire",P. Bankes,2022,Regular Season - 21,Leeds,Brentford,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868147,2023-01-22T13:30:00-03:00,Emirates Stadium,London,A. Taylor,2022,Regular Season - 21,Arsenal,Manchester United,3,2,1,1,3,2,,,,,90,,Arsenal,Match Finished
+868149,2023-01-23T17:00:00-03:00,Craven Cottage,London,P. Tierney,2022,Regular Season - 21,Fulham,Tottenham,0,1,0,1,0,1,,,,,90,,Tottenham,Match Finished
+868159,2023-02-03T17:00:00-03:00,Stamford Bridge,London,S. Attwell,2022,Regular Season - 22,Chelsea,Fulham,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868160,2023-02-04T09:30:00-03:00,Goodison Park,Liverpool,D. Coote,2022,Regular Season - 22,Everton,Arsenal,1,0,0,0,1,0,,,,,90,,Everton,Match Finished
+868161,2023-02-04T12:00:00-03:00,Old Trafford,Manchester,A. Marriner,2022,Regular Season - 22,Manchester United,Crystal Palace,2,1,1,0,2,1,,,,,90,,Manchester United,Match Finished
+868165,2023-02-04T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Tierney,2022,Regular Season - 22,Wolves,Liverpool,3,0,2,0,3,0,,,,,90,,Wolves,Match Finished
+868158,2023-02-04T12:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",C. Pawson,2022,Regular Season - 22,Brighton,Bournemouth,1,0,0,0,1,0,,,,,90,,Brighton,Match Finished
+868157,2023-02-04T12:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",D. Bond,2022,Regular Season - 22,Brentford,Southampton,3,0,2,0,3,0,,,,,90,,Brentford,Match Finished
+868156,2023-02-04T12:00:00-03:00,Villa Park,Birmingham,D. England,2022,Regular Season - 22,Aston Villa,Leicester,2,4,2,3,2,4,,,,,90,,Leicester,Match Finished
+868162,2023-02-04T14:30:00-03:00,St. James' Park,Newcastle upon Tyne,P. Bankes,2022,Regular Season - 22,Newcastle,West Ham,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+868163,2023-02-05T11:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",R. Jones,2022,Regular Season - 22,Nottingham Forest,Leeds,1,0,1,0,1,0,,,,,90,,Nottingham Forest,Match Finished
+868164,2023-02-05T13:30:00-03:00,Tottenham Hotspur Stadium,London,A. Madley,2022,Regular Season - 22,Tottenham,Manchester City,1,0,1,0,1,0,,,,,90,,Tottenham,Match Finished
+868021,2023-02-08T17:00:00-03:00,Old Trafford,Manchester,S. Hooper,2022,Regular Season - 8,Manchester United,Leeds,2,2,0,1,2,2,,,,,90,,Draw,Match Finished
+868175,2023-02-11T09:30:00-03:00,London Stadium,London,C. Pawson,2022,Regular Season - 23,West Ham,Chelsea,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+868169,2023-02-11T12:00:00-03:00,Craven Cottage,London,A. Madley,2022,Regular Season - 23,Fulham,Nottingham Forest,2,0,1,0,2,0,,,,,90,,Fulham,Match Finished
+868174,2023-02-11T12:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",J. Gillett,2022,Regular Season - 23,Southampton,Wolves,1,2,1,0,1,2,,,,,90,,Wolves,Match Finished
+868167,2023-02-11T12:00:00-03:00,Emirates Stadium,London,P. Bankes,2022,Regular Season - 23,Arsenal,Brentford,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+868171,2023-02-11T12:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",M. Salisbury,2022,Regular Season - 23,Leicester,Tottenham,4,1,3,1,4,1,,,,,90,,Leicester,Match Finished
+868168,2023-02-11T12:00:00-03:00,Selhurst Park,London,M. Oliver,2022,Regular Season - 23,Crystal Palace,Brighton,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+868166,2023-02-11T14:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",S. Attwell,2022,Regular Season - 23,Bournemouth,Newcastle,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+868170,2023-02-12T11:00:00-03:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2022,Regular Season - 23,Leeds,Manchester United,0,2,0,0,0,2,,,,,90,,Manchester United,Match Finished
+868173,2023-02-12T13:30:00-03:00,Etihad Stadium,Manchester,R. Jones,2022,Regular Season - 23,Manchester City,Aston Villa,3,1,3,0,3,1,,,,,90,,Manchester City,Match Finished
+868172,2023-02-13T17:00:00-03:00,Anfield,Liverpool,S. Hooper,2022,Regular Season - 23,Liverpool,Everton,2,0,1,0,2,0,,,,,90,,Liverpool,Match Finished
+868057,2023-02-15T16:30:00-03:00,Emirates Stadium,London,A. Taylor,2022,Regular Season - 12,Arsenal,Manchester City,1,3,1,1,1,3,,,,,90,,Manchester City,Match Finished
+868176,2023-02-18T09:30:00-03:00,Villa Park,Birmingham,S. Hooper,2022,Regular Season - 24,Aston Villa,Arsenal,2,4,2,1,2,4,,,,,90,,Arsenal,Match Finished
+868185,2023-02-18T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Salisbury,2022,Regular Season - 24,Wolves,Bournemouth,0,1,0,0,0,1,,,,,90,,Bournemouth,Match Finished
+868180,2023-02-18T12:00:00-03:00,Goodison Park,Liverpool,A. Madley,2022,Regular Season - 24,Everton,Leeds,1,0,0,0,1,0,,,,,90,,Everton,Match Finished
+868179,2023-02-18T12:00:00-03:00,Stamford Bridge,London,D. Coote,2022,Regular Season - 24,Chelsea,Southampton,0,1,0,1,0,1,,,,,90,,Southampton,Match Finished
+868178,2023-02-18T12:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",D. England,2022,Regular Season - 24,Brighton,Fulham,0,1,0,0,0,1,,,,,90,,Fulham,Match Finished
+868177,2023-02-18T12:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",P. Tierney,2022,Regular Season - 24,Brentford,Crystal Palace,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+868183,2023-02-18T12:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",G. Scott,2022,Regular Season - 24,Nottingham Forest,Manchester City,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+868182,2023-02-18T14:30:00-03:00,St. James' Park,Newcastle upon Tyne,A. Taylor,2022,Regular Season - 24,Newcastle,Liverpool,0,2,0,2,0,2,,,,,90,,Liverpool,Match Finished
+868181,2023-02-19T11:00:00-03:00,Old Trafford,Manchester,S. Attwell,2022,Regular Season - 24,Manchester United,Leicester,3,0,1,0,3,0,,,,,90,,Manchester United,Match Finished
+868184,2023-02-19T13:30:00-03:00,Tottenham Hotspur Stadium,London,M. Oliver,2022,Regular Season - 24,Tottenham,West Ham,2,0,0,0,2,0,,,,,90,,Tottenham,Match Finished
+868189,2023-02-24T17:00:00-03:00,Craven Cottage,London,M. Oliver,2022,Regular Season - 25,Fulham,Wolves,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+868188,2023-02-25T12:00:00-03:00,Goodison Park,Liverpool,A. Taylor,2022,Regular Season - 25,Everton,Aston Villa,0,2,0,0,0,2,,,,,90,,Aston Villa,Match Finished
+868191,2023-02-25T12:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2022,Regular Season - 25,Leicester,Arsenal,0,1,0,0,0,1,,,,,90,,Arsenal,Match Finished
+868195,2023-02-25T12:00:00-03:00,London Stadium,London,J. Gillett,2022,Regular Season - 25,West Ham,Nottingham Forest,4,0,0,0,4,0,,,,,90,,West Ham,Match Finished
+868190,2023-02-25T12:00:00-03:00,Elland Road,"Leeds, West Yorkshire",P. Bankes,2022,Regular Season - 25,Leeds,Southampton,1,0,0,0,1,0,,,,,90,,Leeds,Match Finished
+868186,2023-02-25T14:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",P. Tierney,2022,Regular Season - 25,Bournemouth,Manchester City,1,4,0,3,1,4,,,,,90,,Manchester City,Match Finished
+868187,2023-02-25T16:45:00-03:00,Selhurst Park,London,D. England,2022,Regular Season - 25,Crystal Palace,Liverpool,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868194,2023-02-26T10:30:00-03:00,Tottenham Hotspur Stadium,London,S. Attwell,2022,Regular Season - 25,Tottenham,Chelsea,2,0,0,0,2,0,,,,,90,,Tottenham,Match Finished
+868007,2023-03-01T16:45:00-03:00,Emirates Stadium,London,M. Oliver,2022,Regular Season - 7,Arsenal,Everton,4,0,2,0,4,0,,,,,90,,Arsenal,Match Finished
+868012,2023-03-01T17:00:00-03:00,Anfield,Liverpool,P. Tierney,2022,Regular Season - 7,Liverpool,Wolves,2,0,0,0,2,0,,,,,90,,Liverpool,Match Finished
+868202,2023-03-04T09:30:00-03:00,Etihad Stadium,Manchester,S. Hooper,2022,Regular Season - 26,Manchester City,Newcastle,2,0,1,0,2,0,,,,,90,,Manchester City,Match Finished
+868205,2023-03-04T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",T. Robinson,2022,Regular Season - 26,Wolves,Tottenham,1,0,0,0,1,0,,,,,90,,Wolves,Match Finished
+868196,2023-03-04T12:00:00-03:00,Emirates Stadium,London,C. Kavanagh,2022,Regular Season - 26,Arsenal,Bournemouth,3,2,0,1,3,2,,,,,90,,Arsenal,Match Finished
+868200,2023-03-04T12:00:00-03:00,Stamford Bridge,London,M. Oliver,2022,Regular Season - 26,Chelsea,Leeds,1,0,0,0,1,0,,,,,90,,Chelsea,Match Finished
+868199,2023-03-04T12:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",S. Attwell,2022,Regular Season - 26,Brighton,West Ham,4,0,1,0,4,0,,,,,90,,Brighton,Match Finished
+868197,2023-03-04T12:00:00-03:00,Villa Park,Birmingham,C. Pawson,2022,Regular Season - 26,Aston Villa,Crystal Palace,1,0,1,0,1,0,,,,,90,,Aston Villa,Match Finished
+868204,2023-03-04T14:30:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2022,Regular Season - 26,Southampton,Leicester,1,0,1,0,1,0,,,,,90,,Southampton,Match Finished
+868203,2023-03-05T11:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",J. Brooks,2022,Regular Season - 26,Nottingham Forest,Everton,2,2,1,2,2,2,,,,,90,,Draw,Match Finished
+868201,2023-03-05T13:30:00-03:00,Anfield,Liverpool,A. Madley,2022,Regular Season - 26,Liverpool,Manchester United,7,0,1,0,7,0,,,,,90,,Liverpool,Match Finished
+868198,2023-03-06T17:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",A. Taylor,2022,Regular Season - 26,Brentford,Fulham,3,2,1,1,3,2,,,,,90,,Brentford,Match Finished
+868206,2023-03-11T09:30:00-03:00,Vitality Stadium,"Bournemouth, Dorset",J. Brooks,2022,Regular Season - 27,Bournemouth,Liverpool,1,0,1,0,1,0,,,,,90,,Bournemouth,Match Finished
+868208,2023-03-11T12:00:00-03:00,Goodison Park,Liverpool,S. Hooper,2022,Regular Season - 27,Everton,Brentford,1,0,1,0,1,0,,,,,90,,Everton,Match Finished
+868211,2023-03-11T12:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",A. Marriner,2022,Regular Season - 27,Leicester,Chelsea,1,3,1,2,1,3,,,,,90,,Chelsea,Match Finished
+868214,2023-03-11T12:00:00-03:00,Tottenham Hotspur Stadium,London,C. Pawson,2022,Regular Season - 27,Tottenham,Nottingham Forest,3,1,2,0,3,1,,,,,90,,Tottenham,Match Finished
+868210,2023-03-11T12:00:00-03:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2022,Regular Season - 27,Leeds,Brighton,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+868207,2023-03-11T14:30:00-03:00,Selhurst Park,London,R. Jones,2022,Regular Season - 27,Crystal Palace,Manchester City,0,1,0,0,0,1,,,,,90,,Manchester City,Match Finished
+868212,2023-03-12T11:00:00-03:00,Old Trafford,Manchester,A. Taylor,2022,Regular Season - 27,Manchester United,Southampton,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868209,2023-03-12T11:00:00-03:00,Craven Cottage,London,D. Coote,2022,Regular Season - 27,Fulham,Arsenal,0,3,0,3,0,3,,,,,90,,Arsenal,Match Finished
+868215,2023-03-12T11:00:00-03:00,London Stadium,London,C. Kavanagh,2022,Regular Season - 27,West Ham,Aston Villa,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+868213,2023-03-12T13:30:00-03:00,St. James' Park,Newcastle upon Tyne,A. Madley,2022,Regular Season - 27,Newcastle,Wolves,2,1,1,0,2,1,,,,,90,,Newcastle,Match Finished
+868014,2023-03-15T16:30:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",M. Salisbury,2022,Regular Season - 7,Southampton,Brentford,0,2,0,1,0,2,,,,,90,,Brentford,Match Finished
+868018,2023-03-15T16:30:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",P. Bankes,2022,Regular Season - 8,Brighton,Crystal Palace,1,0,1,0,1,0,,,,,90,,Brighton,Match Finished
+868223,2023-03-17T17:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",P. Tierney,2022,Regular Season - 28,Nottingham Forest,Newcastle,1,2,1,1,1,2,,,,,90,,Newcastle,Match Finished
+868225,2023-03-18T12:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",M. Salisbury,2022,Regular Season - 28,Wolves,Leeds,2,4,0,1,2,4,,,,,90,,Leeds,Match Finished
+868224,2023-03-18T12:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",S. Hooper,2022,Regular Season - 28,Southampton,Tottenham,3,3,0,1,3,3,,,,,90,,Draw,Match Finished
+868218,2023-03-18T12:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",D. Bond,2022,Regular Season - 28,Brentford,Leicester,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+868217,2023-03-18T12:00:00-03:00,Villa Park,Birmingham,R. Jones,2022,Regular Season - 28,Aston Villa,Bournemouth,3,0,1,0,3,0,,,,,90,,Aston Villa,Match Finished
+868220,2023-03-18T14:30:00-03:00,Stamford Bridge,London,D. England,2022,Regular Season - 28,Chelsea,Everton,2,2,0,0,2,2,,,,,90,,Draw,Match Finished
+868216,2023-03-19T11:00:00-03:00,Emirates Stadium,London,S. Attwell,2022,Regular Season - 28,Arsenal,Crystal Palace,4,1,2,0,4,1,,,,,90,,Arsenal,Match Finished
+868232,2023-04-01T08:30:00-03:00,Etihad Stadium,Manchester,S. Hooper,2022,Regular Season - 29,Manchester City,Liverpool,4,1,1,1,4,1,,,,,90,,Manchester City,Match Finished
+868226,2023-04-01T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",P. Bankes,2022,Regular Season - 29,Bournemouth,Fulham,2,1,0,1,2,1,,,,,90,,Bournemouth,Match Finished
+868227,2023-04-01T11:00:00-03:00,Emirates Stadium,London,D. England,2022,Regular Season - 29,Arsenal,Leeds,4,1,1,0,4,1,,,,,90,,Arsenal,Match Finished
+868228,2023-04-01T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",M. Oliver,2022,Regular Season - 29,Brighton,Brentford,3,3,2,2,3,3,,,,,90,,Draw,Match Finished
+868230,2023-04-01T11:00:00-03:00,Selhurst Park,London,T. Robinson,2022,Regular Season - 29,Crystal Palace,Leicester,2,1,0,0,2,1,,,,,90,,Crystal Palace,Match Finished
+868234,2023-04-01T11:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",C. Kavanagh,2022,Regular Season - 29,Nottingham Forest,Wolves,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+868229,2023-04-01T13:30:00-03:00,Stamford Bridge,London,A. Madley,2022,Regular Season - 29,Chelsea,Aston Villa,0,2,0,1,0,2,,,,,90,,Aston Villa,Match Finished
+868235,2023-04-02T10:00:00-03:00,London Stadium,London,P. Tierney,2022,Regular Season - 29,West Ham,Southampton,1,0,1,0,1,0,,,,,90,,West Ham,Match Finished
+868233,2023-04-02T12:30:00-03:00,St. James' Park,Newcastle upon Tyne,S. Attwell,2022,Regular Season - 29,Newcastle,Manchester United,2,0,0,0,2,0,,,,,90,,Newcastle,Match Finished
+868231,2023-04-03T16:00:00-03:00,Goodison Park,Liverpool,D. Coote,2022,Regular Season - 29,Everton,Tottenham,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+868006,2023-04-04T15:45:00-03:00,Vitality Stadium,"Bournemouth, Dorset",D. Bond,2022,Regular Season - 7,Bournemouth,Brighton,0,2,0,1,0,2,,,,,90,,Brighton,Match Finished
+868011,2023-04-04T15:45:00-03:00,King Power Stadium,"Leicester, Leicestershire",G. Scott,2022,Regular Season - 7,Leicester,Aston Villa,1,2,1,1,1,2,,,,,90,,Aston Villa,Match Finished
+868010,2023-04-04T15:45:00-03:00,Elland Road,"Leeds, West Yorkshire",R. Jones,2022,Regular Season - 7,Leeds,Nottingham Forest,2,1,2,1,2,1,,,,,90,,Leeds,Match Finished
+868019,2023-04-04T16:00:00-03:00,Stamford Bridge,London,A. Taylor,2022,Regular Season - 8,Chelsea,Liverpool,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868192,2023-04-05T16:00:00-03:00,Old Trafford,Manchester,J. Brooks,2022,Regular Season - 25,Manchester United,Brentford,1,0,1,0,1,0,,,,,90,,Manchester United,Match Finished
+868015,2023-04-05T16:00:00-03:00,London Stadium,London,C. Pawson,2022,Regular Season - 7,West Ham,Newcastle,1,5,1,2,1,5,,,,,90,,Newcastle,Match Finished
+868242,2023-04-08T08:30:00-03:00,Old Trafford,Manchester,M. Oliver,2022,Regular Season - 30,Manchester United,Everton,2,0,1,0,2,0,,,,,90,,Manchester United,Match Finished
+868238,2023-04-08T11:00:00-03:00,Craven Cottage,London,J. Gillett,2022,Regular Season - 30,Fulham,West Ham,0,1,0,1,0,1,,,,,90,,West Ham,Match Finished
+868245,2023-04-08T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Bankes,2022,Regular Season - 30,Wolves,Chelsea,1,0,1,0,1,0,,,,,90,,Wolves,Match Finished
+868240,2023-04-08T11:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",D. Coote,2022,Regular Season - 30,Leicester,Bournemouth,0,1,0,1,0,1,,,,,90,,Bournemouth,Match Finished
+868244,2023-04-08T11:00:00-03:00,Tottenham Hotspur Stadium,London,S. Attwell,2022,Regular Season - 30,Tottenham,Brighton,2,1,1,1,2,1,,,,,90,,Tottenham,Match Finished
+868237,2023-04-08T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",C. Kavanagh,2022,Regular Season - 30,Brentford,Newcastle,1,2,1,0,1,2,,,,,90,,Newcastle,Match Finished
+868236,2023-04-08T11:00:00-03:00,Villa Park,Birmingham,A. Taylor,2022,Regular Season - 30,Aston Villa,Nottingham Forest,2,0,0,0,2,0,,,,,90,,Aston Villa,Match Finished
+868243,2023-04-08T13:30:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",R. Jones,2022,Regular Season - 30,Southampton,Manchester City,1,4,0,1,1,4,,,,,90,,Manchester City,Match Finished
+868239,2023-04-09T10:00:00-03:00,Elland Road,"Leeds, West Yorkshire",S. Hooper,2022,Regular Season - 30,Leeds,Crystal Palace,1,5,1,1,1,5,,,,,90,,Crystal Palace,Match Finished
+868241,2023-04-09T12:30:00-03:00,Anfield,Liverpool,P. Tierney,2022,Regular Season - 30,Liverpool,Arsenal,2,2,1,2,2,2,,,,,90,,Draw,Match Finished
+868246,2023-04-15T08:30:00-03:00,Villa Park,Birmingham,J. Brooks,2022,Regular Season - 31,Aston Villa,Newcastle,3,0,1,0,3,0,,,,,90,,Aston Villa,Match Finished
+868255,2023-04-15T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",P. Tierney,2022,Regular Season - 31,Wolves,Brentford,2,0,1,0,2,0,,,,,90,,Wolves,Match Finished
+868252,2023-04-15T11:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",M. Oliver,2022,Regular Season - 31,Southampton,Crystal Palace,0,2,0,0,0,2,,,,,90,,Crystal Palace,Match Finished
+868248,2023-04-15T11:00:00-03:00,Goodison Park,Liverpool,A. Taylor,2022,Regular Season - 31,Everton,Fulham,1,3,1,1,1,3,,,,,90,,Fulham,Match Finished
+868247,2023-04-15T11:00:00-03:00,Stamford Bridge,London,R. Jones,2022,Regular Season - 31,Chelsea,Brighton,1,2,1,1,1,2,,,,,90,,Brighton,Match Finished
+868253,2023-04-15T11:15:00-03:00,Tottenham Hotspur Stadium,London,A. Madley,2022,Regular Season - 31,Tottenham,Bournemouth,2,3,1,1,2,3,,,,,90,,Bournemouth,Match Finished
+868250,2023-04-15T13:30:00-03:00,Etihad Stadium,Manchester,D. England,2022,Regular Season - 31,Manchester City,Leicester,3,1,3,0,3,1,,,,,90,,Manchester City,Match Finished
+868254,2023-04-16T10:00:00-03:00,London Stadium,London,D. Coote,2022,Regular Season - 31,West Ham,Arsenal,2,2,1,2,2,2,,,,,90,,Draw,Match Finished
+868251,2023-04-16T12:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",S. Hooper,2022,Regular Season - 31,Nottingham Forest,Manchester United,0,2,0,1,0,2,,,,,90,,Manchester United,Match Finished
+868249,2023-04-17T16:00:00-03:00,Elland Road,"Leeds, West Yorkshire",C. Pawson,2022,Regular Season - 31,Leeds,Liverpool,1,6,0,2,1,6,,,,,90,,Liverpool,Match Finished
+868257,2023-04-21T16:00:00-03:00,Emirates Stadium,London,S. Hooper,2022,Regular Season - 32,Arsenal,Southampton,3,3,1,2,3,3,,,,,90,,Draw,Match Finished
+868261,2023-04-22T08:30:00-03:00,Craven Cottage,London,P. Bankes,2022,Regular Season - 32,Fulham,Leeds,2,1,0,0,2,1,,,,,90,,Fulham,Match Finished
+868263,2023-04-22T11:00:00-03:00,Anfield,Liverpool,M. Oliver,2022,Regular Season - 32,Liverpool,Nottingham Forest,3,2,0,0,3,2,,,,,90,,Liverpool,Match Finished
+868262,2023-04-22T11:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",A. Madley,2022,Regular Season - 32,Leicester,Wolves,2,1,1,1,2,1,,,,,90,,Leicester,Match Finished
+868260,2023-04-22T11:00:00-03:00,Selhurst Park,London,J. Brooks,2022,Regular Season - 32,Crystal Palace,Everton,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868258,2023-04-22T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",M. Salisbury,2022,Regular Season - 32,Brentford,Aston Villa,1,1,0,0,1,1,,,,,90,,Draw,Match Finished
+868265,2023-04-23T10:00:00-03:00,St. James' Park,Newcastle upon Tyne,D. Coote,2022,Regular Season - 32,Newcastle,Tottenham,6,1,5,0,6,1,,,,,90,,Newcastle,Match Finished
+868256,2023-04-23T10:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",A. Taylor,2022,Regular Season - 32,Bournemouth,West Ham,0,4,0,3,0,4,,,,,90,,West Ham,Match Finished
+868271,2023-04-25T15:30:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",R. Jones,2022,Regular Season - 33,Wolves,Crystal Palace,2,0,1,0,2,0,,,,,90,,Wolves,Match Finished
+868272,2023-04-25T15:45:00-03:00,Villa Park,Birmingham,T. Bramall,2022,Regular Season - 33,Aston Villa,Fulham,1,0,1,0,1,0,,,,,90,,Aston Villa,Match Finished
+868267,2023-04-25T16:00:00-03:00,Elland Road,"Leeds, West Yorkshire",P. Tierney,2022,Regular Season - 33,Leeds,Leicester,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+868268,2023-04-26T15:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",J. Gillett,2022,Regular Season - 33,Nottingham Forest,Brighton,3,1,1,1,3,1,,,,,90,,Nottingham Forest,Match Finished
+868270,2023-04-26T15:45:00-03:00,London Stadium,London,C. Kavanagh,2022,Regular Season - 33,West Ham,Liverpool,1,2,1,1,1,2,,,,,90,,Liverpool,Match Finished
+868273,2023-04-26T15:45:00-03:00,Stamford Bridge,London,A. Madley,2022,Regular Season - 33,Chelsea,Brentford,0,2,0,1,0,2,,,,,90,,Brentford,Match Finished
+868275,2023-04-26T16:00:00-03:00,Etihad Stadium,Manchester,M. Oliver,2022,Regular Season - 33,Manchester City,Arsenal,4,1,2,0,4,1,,,,,90,,Manchester City,Match Finished
+868274,2023-04-27T15:45:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",D. England,2022,Regular Season - 33,Southampton,Bournemouth,0,1,0,0,0,1,,,,,90,,Bournemouth,Match Finished
+868266,2023-04-27T15:45:00-03:00,Goodison Park,Liverpool,A. Marriner,2022,Regular Season - 33,Everton,Newcastle,1,4,0,1,1,4,,,,,90,,Newcastle,Match Finished
+868269,2023-04-27T16:15:00-03:00,Tottenham Hotspur Stadium,London,A. Taylor,2022,Regular Season - 33,Tottenham,Manchester United,2,2,0,2,2,2,,,,,90,,Draw,Match Finished
+868280,2023-04-29T08:30:00-03:00,Selhurst Park,London,C. Pawson,2022,Regular Season - 34,Crystal Palace,West Ham,4,3,3,2,4,3,,,,,90,,Crystal Palace,Match Finished
+868279,2023-04-29T11:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",D. Coote,2022,Regular Season - 34,Brighton,Wolves,6,0,4,0,6,0,,,,,90,,Brighton,Match Finished
+868278,2023-04-29T11:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",P. Bankes,2022,Regular Season - 34,Brentford,Nottingham Forest,2,1,0,1,2,1,,,,,90,,Brentford,Match Finished
+868284,2023-04-30T10:00:00-03:00,Old Trafford,Manchester,J. Gillett,2022,Regular Season - 34,Manchester United,Aston Villa,1,0,1,0,1,0,,,,,90,,Manchester United,Match Finished
+868285,2023-04-30T10:00:00-03:00,St. James' Park,Newcastle upon Tyne,A. Taylor,2022,Regular Season - 34,Newcastle,Southampton,3,1,0,1,3,1,,,,,90,,Newcastle,Match Finished
+868276,2023-04-30T10:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",C. Kavanagh,2022,Regular Season - 34,Bournemouth,Leeds,4,1,2,1,4,1,,,,,90,,Bournemouth,Match Finished
+868281,2023-04-30T10:00:00-03:00,Craven Cottage,London,S. Hooper,2022,Regular Season - 34,Fulham,Manchester City,1,2,1,2,1,2,,,,,90,,Manchester City,Match Finished
+868283,2023-04-30T12:30:00-03:00,Anfield,Liverpool,P. Tierney,2022,Regular Season - 34,Liverpool,Tottenham,4,3,3,1,4,3,,,,,90,,Liverpool,Match Finished
+868282,2023-05-01T16:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",M. Oliver,2022,Regular Season - 34,Leicester,Everton,2,2,2,1,2,2,,,,,90,,Draw,Match Finished
+868277,2023-05-02T16:00:00-03:00,Emirates Stadium,London,R. Jones,2022,Regular Season - 34,Arsenal,Chelsea,3,1,3,0,3,1,,,,,90,,Arsenal,Match Finished
+868221,2023-05-03T16:00:00-03:00,Anfield,Liverpool,S. Attwell,2022,Regular Season - 28,Liverpool,Fulham,1,0,1,0,1,0,,,,,90,,Liverpool,Match Finished
+868222,2023-05-03T16:00:00-03:00,Etihad Stadium,Manchester,J. Brooks,2022,Regular Season - 28,Manchester City,West Ham,3,0,0,0,3,0,,,,,90,,Manchester City,Match Finished
+868219,2023-05-04T16:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",A. Marriner,2022,Regular Season - 28,Brighton,Manchester United,1,0,0,0,1,0,,,,,90,,Brighton,Match Finished
+868286,2023-05-06T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",J. Brooks,2022,Regular Season - 35,Bournemouth,Chelsea,1,3,1,1,1,3,,,,,90,,Chelsea,Match Finished
+868295,2023-05-06T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",S. Attwell,2022,Regular Season - 35,Wolves,Aston Villa,1,0,1,0,1,0,,,,,90,,Wolves,Match Finished
+868293,2023-05-06T11:00:00-03:00,Tottenham Hotspur Stadium,London,D. England,2022,Regular Season - 35,Tottenham,Crystal Palace,1,0,1,0,1,0,,,,,90,,Tottenham,Match Finished
+868290,2023-05-06T11:00:00-03:00,Etihad Stadium,Manchester,A. Madley,2022,Regular Season - 35,Manchester City,Leeds,2,1,2,0,2,1,,,,,90,,Manchester City,Match Finished
+868289,2023-05-06T13:30:00-03:00,Anfield,Liverpool,A. Taylor,2022,Regular Season - 35,Liverpool,Brentford,1,0,1,0,1,0,,,,,90,,Liverpool,Match Finished
+868291,2023-05-07T12:30:00-03:00,St. James' Park,Newcastle upon Tyne,C. Kavanagh,2022,Regular Season - 35,Newcastle,Arsenal,0,2,0,1,0,2,,,,,90,,Arsenal,Match Finished
+868294,2023-05-07T15:00:00-03:00,London Stadium,London,P. Bankes,2022,Regular Season - 35,West Ham,Manchester United,1,0,1,0,1,0,,,,,90,,West Ham,Match Finished
+868288,2023-05-08T11:00:00-03:00,Craven Cottage,London,R. Jones,2022,Regular Season - 35,Fulham,Leicester,5,3,3,0,5,3,,,,,90,,Fulham,Match Finished
+868287,2023-05-08T13:30:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",S. Hooper,2022,Regular Season - 35,Brighton,Everton,1,5,0,3,1,5,,,,,90,,Everton,Match Finished
+868292,2023-05-08T16:00:00-03:00,The City Ground,"Nottingham, Nottinghamshire",M. Oliver,2022,Regular Season - 35,Nottingham Forest,Southampton,4,3,3,1,4,3,,,,,90,,Nottingham Forest,Match Finished
+868302,2023-05-13T08:30:00-03:00,Elland Road,"Leeds, West Yorkshire",S. Hooper,2022,Regular Season - 36,Leeds,Newcastle,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+868304,2023-05-13T11:00:00-03:00,Old Trafford,Manchester,J. Brooks,2022,Regular Season - 36,Manchester United,Wolves,2,0,1,0,2,0,,,,,90,,Manchester United,Match Finished
+868305,2023-05-13T11:00:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",T. Bramall,2022,Regular Season - 36,Southampton,Fulham,0,2,0,0,0,2,,,,,90,,Fulham,Match Finished
+868299,2023-05-13T11:00:00-03:00,Stamford Bridge,London,P. Tierney,2022,Regular Season - 36,Chelsea,Nottingham Forest,2,2,0,1,2,2,,,,,90,,Draw,Match Finished
+868300,2023-05-13T11:00:00-03:00,Selhurst Park,London,M. Salisbury,2022,Regular Season - 36,Crystal Palace,Bournemouth,2,0,1,0,2,0,,,,,90,,Crystal Palace,Match Finished
+868297,2023-05-13T11:00:00-03:00,Villa Park,Birmingham,P. Bankes,2022,Regular Season - 36,Aston Villa,Tottenham,2,1,1,0,2,1,,,,,90,,Aston Villa,Match Finished
+868301,2023-05-14T10:00:00-03:00,Goodison Park,Liverpool,A. Taylor,2022,Regular Season - 36,Everton,Manchester City,0,3,0,2,0,3,,,,,90,,Manchester City,Match Finished
+868298,2023-05-14T10:00:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",M. Oliver,2022,Regular Season - 36,Brentford,West Ham,2,0,2,0,2,0,,,,,90,,Brentford,Match Finished
+868296,2023-05-14T12:30:00-03:00,Emirates Stadium,London,A. Madley,2022,Regular Season - 36,Arsenal,Brighton,0,3,0,0,0,3,,,,,90,,Brighton,Match Finished
+868303,2023-05-15T16:00:00-03:00,King Power Stadium,"Leicester, Leicestershire",C. Pawson,2022,Regular Season - 36,Leicester,Liverpool,0,3,0,2,0,3,,,,,90,,Liverpool,Match Finished
+868193,2023-05-18T15:30:00-03:00,St. James' Park,Newcastle upon Tyne,R. Jones,2022,Regular Season - 25,Newcastle,Brighton,4,1,2,0,4,1,,,,,90,,Newcastle,Match Finished
+868313,2023-05-20T08:30:00-03:00,Tottenham Hotspur Stadium,London,J. Gillett,2022,Regular Season - 37,Tottenham,Brentford,1,3,1,0,1,3,,,,,90,,Brentford,Match Finished
+868306,2023-05-20T11:00:00-03:00,Vitality Stadium,"Bournemouth, Dorset",C. Kavanagh,2022,Regular Season - 37,Bournemouth,Manchester United,0,1,0,1,0,1,,,,,90,,Manchester United,Match Finished
+868308,2023-05-20T11:00:00-03:00,Craven Cottage,London,J. Smith,2022,Regular Season - 37,Fulham,Crystal Palace,2,2,1,1,2,2,,,,,90,,Draw,Match Finished
+868315,2023-05-20T11:00:00-03:00,Molineux Stadium,"Wolverhampton, West Midlands",D. Coote,2022,Regular Season - 37,Wolves,Everton,1,1,1,0,1,1,,,,,90,,Draw,Match Finished
+868309,2023-05-20T11:00:00-03:00,Anfield,Liverpool,J. Brooks,2022,Regular Season - 37,Liverpool,Aston Villa,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+868312,2023-05-20T13:30:00-03:00,The City Ground,"Nottingham, Nottinghamshire",A. Taylor,2022,Regular Season - 37,Nottingham Forest,Arsenal,1,0,1,0,1,0,,,,,90,,Nottingham Forest,Match Finished
+868314,2023-05-21T09:30:00-03:00,London Stadium,London,P. Bankes,2022,Regular Season - 37,West Ham,Leeds,3,1,1,1,3,1,,,,,90,,West Ham,Match Finished
+868307,2023-05-21T10:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",P. Tierney,2022,Regular Season - 37,Brighton,Southampton,3,1,2,0,3,1,,,,,90,,Brighton,Match Finished
+868310,2023-05-21T12:00:00-03:00,Etihad Stadium,Manchester,M. Oliver,2022,Regular Season - 37,Manchester City,Chelsea,1,0,1,0,1,0,,,,,90,,Manchester City,Match Finished
+868311,2023-05-22T16:00:00-03:00,St. James' Park,Newcastle upon Tyne,A. Marriner,2022,Regular Season - 37,Newcastle,Leicester,0,0,0,0,0,0,,,,,90,,Draw,Match Finished
+868259,2023-05-24T16:00:00-03:00,The American Express Community Stadium,"Falmer, East Sussex",S. Hooper,2022,Regular Season - 32,Brighton,Manchester City,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+868264,2023-05-25T16:00:00-03:00,Old Trafford,Manchester,S. Attwell,2022,Regular Season - 32,Manchester United,Chelsea,4,1,2,0,4,1,,,,,90,,Manchester United,Match Finished
+868324,2023-05-28T12:30:00-03:00,Old Trafford,Manchester,R. Jones,2022,Regular Season - 38,Manchester United,Fulham,2,1,1,1,2,1,,,,,90,,Manchester United,Match Finished
+868325,2023-05-28T12:30:00-03:00,St. Mary's Stadium,"Southampton, Hampshire",D. England,2022,Regular Season - 38,Southampton,Liverpool,4,4,2,2,4,4,,,,,90,,Draw,Match Finished
+868316,2023-05-28T12:30:00-03:00,Emirates Stadium,London,A. Marriner,2022,Regular Season - 38,Arsenal,Wolves,5,0,3,0,5,0,,,,,90,,Arsenal,Match Finished
+868321,2023-05-28T12:30:00-03:00,Goodison Park,Liverpool,S. Attwell,2022,Regular Season - 38,Everton,Bournemouth,1,0,0,0,1,0,,,,,90,,Everton,Match Finished
+868323,2023-05-28T12:30:00-03:00,King Power Stadium,"Leicester, Leicestershire",S. Hooper,2022,Regular Season - 38,Leicester,West Ham,2,1,1,0,2,1,,,,,90,,Leicester,Match Finished
+868319,2023-05-28T12:30:00-03:00,Stamford Bridge,London,J. Gillett,2022,Regular Season - 38,Chelsea,Newcastle,1,1,1,1,1,1,,,,,90,,Draw,Match Finished
+868320,2023-05-28T12:30:00-03:00,Selhurst Park,London,T. Bramall,2022,Regular Season - 38,Crystal Palace,Nottingham Forest,1,1,0,1,1,1,,,,,90,,Draw,Match Finished
+868318,2023-05-28T12:30:00-03:00,Gtech Community Stadium,"Brentford, Middlesex",J. Brooks,2022,Regular Season - 38,Brentford,Manchester City,1,0,0,0,1,0,,,,,90,,Brentford,Match Finished
+868322,2023-05-28T12:30:00-03:00,Elland Road,"Leeds, West Yorkshire",A. Taylor,2022,Regular Season - 38,Leeds,Tottenham,1,4,0,1,1,4,,,,,90,,Tottenham,Match Finished
+868317,2023-05-28T12:30:00-03:00,Villa Park,Birmingham,D. Coote,2022,Regular Season - 38,Aston Villa,Brighton,2,1,2,1,2,1,,,,,90,,Aston Villa,Match Finished
