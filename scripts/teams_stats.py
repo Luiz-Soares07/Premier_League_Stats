@@ -1,17 +1,23 @@
 import pandas as pd
 from typing import List, Dict
+import time
 
 def calculate_team_stats(df: pd.DataFrame) -> pd.DataFrame:
 
-
+    # Create a list to save the stats for each team
     stats: List[Dict] = []
+
+    # Take unique season from the dataframe
     seasons = df['season'].unique()
 
+    # Iteration over each season
     for season in seasons:
+        # Filter the dataframe for the current season
         season_df = df[df["season"] == season]
-
+        # Get unique teams from the home and away teams
         teams = pd.unique(season_df[["home_team", "away_team"]].values.ravel())
 
+        # Create a dictionary for each team to store their stats
         for team in teams:
             team_stats = {
                 "season": season,
@@ -60,6 +66,8 @@ def calculate_team_stats(df: pd.DataFrame) -> pd.DataFrame:
                 "goals_scored_per_game_away": 0.0,
                 "failed_to_score": 0,  
             }
+
+            #Make caltulation for home games
             home = season_df[season_df["home_team"] == team]
             team_stats["home_games_played"] = len(home)
             team_stats["draws_home"] = len(home[home["winner_name"] == "Draw"])
@@ -77,7 +85,7 @@ def calculate_team_stats(df: pd.DataFrame) -> pd.DataFrame:
             team_stats["goals_conceded_per_game_home"] = (team_stats["conceded_home"] / team_stats["home_games_played"]
                                                         if team_stats["home_games_played"] > 0 else 0.0)
                                                         
-
+            # Make calculations for away games
             away = season_df[season_df["away_team"] == team]
             team_stats["away_games_played"] = len(away)
             team_stats["draws_away"] = len(away[away["winner_name"] == "Draw"])
@@ -95,6 +103,7 @@ def calculate_team_stats(df: pd.DataFrame) -> pd.DataFrame:
             team_stats["goals_conceded_per_game_away"] = (team_stats["conceded_away"] / team_stats["away_games_played"]
                                                         if team_stats["away_games_played"] > 0 else 0.0)
 
+            # Combine home and away stats to get total stats
             team_stats["games_played"] = team_stats["home_games_played"] + team_stats["away_games_played"]
             team_stats["wins"] = team_stats["wins_home"] + team_stats["wins_away"]
             team_stats["losses"] = team_stats["losses_home"] + team_stats["losses_away"]
@@ -114,10 +123,19 @@ def calculate_team_stats(df: pd.DataFrame) -> pd.DataFrame:
                                                     if team_stats["games_played"] > 0 else 0.0)
             team_stats["failed_to_score"] = (len(season_df[((season_df["home_team"] == team) & (season_df["goals_home"] == 0))]) +
                                                  (len(season_df[((season_df["away_team"] == team)) & (season_df["goals_away"] == 0)])))
+            team_stats["goals_scored_per_game"] = (team_stats["goals_score_total"] / team_stats["games_played"]
+                                                    if team_stats["games_played"] > 0 else 0.0)
             
+            # Add the team stats to the list
             stats.append(team_stats)
+            time.sleep(0.01)
+        time.sleep(0.5)
 
+
+    # Create a dataframe from the list of stats
     team_stats_df = pd.DataFrame(stats)
+
+    # Reorder the columns by seasons and teams names
     return team_stats_df.sort_values(by=["season", "team"]).reset_index(drop=True)
 
         
